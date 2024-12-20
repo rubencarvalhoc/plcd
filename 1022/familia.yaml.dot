@@ -1,0 +1,33 @@
+
+    digraph Familia{
+    subgraph Generation1 {
+    rank  =  same
+    P1 [shape = box, label="Serafim", color = blue] 
+    P2 [shape = box, label="Joaquina", color = pink]  
+
+    Familia [shape = point]
+    P1 -> Familia -> P2 [dir = none]
+  }
+    subgraph Generation1Sons {
+    rank  =  same
+    F10 [shape = point]
+F11 [shape = point]
+F12 [shape = point]
+
+    
+    F10 ->F11 ->F12  [dir = none]
+  }
+    Familia -> F10 [dir = none]
+    subgraph Generation2 {
+    rank  =  same
+    F0 [shape = box, label="Rui"]
+F1 [shape = box, label="Ana"]
+F2 [shape = box, label="Eva"]
+
+  }
+  
+  F10 -> F0 [dir = none]
+F11 -> F1 [dir = none]
+F12 -> F2 [dir = none]
+
+}

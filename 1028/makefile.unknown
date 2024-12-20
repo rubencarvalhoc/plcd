@@ -1,0 +1,11 @@
+#criação de ficheiro latex
+t1 SIC-pt.txt.seccao.tex: seccao.py SIC-pt.txt.seccao.txt 
+	python seccao.py > saida1.txt
+
+#html monobloco
+t2 SIC-pt.txt.seccao.html: SIC-pt.txt.seccao.tex
+	pandoc --metadata title="Industrial Codes" SIC-pt.txt.seccao.tex -o SIC-pt.txt.seccao.html -t html -s 
+
+#criação do site html
+t3: SIC-pt.txt.seccao.tex
+	pandoc --metadata title="Industrial Codes" SIC-pt.txt.seccao.tex -o SIC-pt -t chunkedhtml -s --toc

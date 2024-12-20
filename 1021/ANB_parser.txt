@@ -1,0 +1,18 @@
+# Martim {
+# M     ....
+# P     carlos
+
+#PP     cantiflas
+#PM     maria da piedade {
+    *1930
+    }
+}
+
+
+### Parser
+ANB: Pessoa+
+
+Pessoa: "#" ID
+      | "#" ID "{" Par* "}" 
+
+Par: "#" Rel ID

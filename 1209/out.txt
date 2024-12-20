@@ -1,0 +1,7454 @@
+# Um navio de carga com bandeira são-tomense que transportava mais de cem milhões de dólares em droga foi apresado há cerca de três semanas pela marinha dos EUA, revelou hoje uma fonte governamental são-tomense.
+Um|um|DET
+navio|navio|NOUN
+de|de|ADP
+carga|carga|NOUN
+com|com|ADP
+bandeira|bandeira|NOUN
+são-tomense|são-tomense|ADJ
+que|que|PRON
+transportava|transportar|VERB
+mais|mais|ADV
+de|de|ADP
+cem|cem|NUM
+milhões|milhão|NUM
+de|de|ADP
+dólares|dólar|NOUN
+em|em|ADP
+droga|droga|NOUN
+foi|ser|AUX
+apresado|apresar|VERB
+há|haver|VERB
+cerca|cerca|ADV
+de|de|ADP
+três|três|NUM
+semanas|semana|NOUN
+pela|por o|ADP
+marinha|marinha|NOUN
+dos|de o|ADP
+EUA|EUA|PROPN
+,|,|PUNCT
+revelou|revelar|VERB
+hoje|hoje|ADV
+uma|um|DET
+fonte|fonte|NOUN
+governamental|governamental|ADJ
+são-tomense|são-tomense|ADJ
+.|.|PUNCT
+# Segundo a mesma fonte, o navio de nome Borocho, capturado nas águas da América Central, continha muita droga, cujo valor ronda mais de 100 milhões de dólares”, além de outras mercadorias ilegais.
+Segundo|segundo|ADP
+a|o|DET
+mesma|mesmo|ADJ
+fonte|fonte|NOUN
+,|,|PUNCT
+o|o|DET
+navio|navio|NOUN
+de|de|ADP
+nome|nome|NOUN
+Borocho|Borocho|PROPN
+,|,|PUNCT
+capturado|capturar|VERB
+nas|em o|ADP
+águas|água|NOUN
+da|de o|ADP
+América Central|América Central|PROPN
+,|,|PUNCT
+continha|conter|VERB
+muita|muito|DET
+droga|droga|NOUN
+,|,|PUNCT
+cujo|cujo|DET
+valor|valor|NOUN
+ronda|rondar|VERB
+mais|mais|ADV
+de|de|ADP
+100|100|NUM
+milhões|milhão|NUM
+de|de|ADP
+dólares|dólar|NOUN
+”|”|PUNCT
+,|,|PUNCT
+além|além|ADV
+de|de|ADP
+outras|outro|DET
+mercadorias|mercadoria|NOUN
+ilegais|ilegal|ADJ
+.|.|PUNCT
+# A embarcação estava matriculada sob o número 003651 nas águas da América Central.
+A|o|DET
+embarcação|embarcação|NOUN
+estava|estar|AUX
+matriculada|matriculado|ADJ
+sob|sob|ADP
+o|o|DET
+número|número|NOUN
+003651|003651|NUM
+nas|em o|ADP
+águas|água|NOUN
+da|de o|ADP
+América Central|América Central|PROPN
+.|.|PUNCT
+# Num comunicado do Conselho de Ministro distribuído esta semana indica-se que “o  Governo foi informado que no dia 07 deste mês as competentes autoridades da Guarda Costeira em parceria com as cooperações de países amigos deram início a diligências para interceptar no navio de carga de nome Borocho, supostamente registado com bandeira são-tomense”.
+Num|em um|ADP
+comunicado|comunicado|NOUN
+do|de o|ADP
+Conselho de Ministro|conselho de Ministro|PROPN
+distribuído|distribuir|VERB
+esta|este|DET
+semana|semana|NOUN
+indica-se|indicar se|VERB
+que|que|SCONJ
+“|“|PUNCT
+o|o|DET
+ | |SPACE
+Governo|Governo|PROPN
+foi|ser|AUX
+informado|informar|VERB
+que|que|SCONJ
+no|em o|ADP
+dia|dia|NOUN
+07|07|NUM
+deste|de este|ADP
+mês|mês|NOUN
+as|o|DET
+competentes|competente|ADJ
+autoridades|autoridade|NOUN
+da|de o|ADP
+Guarda Costeira|Guarda Costeira|PROPN
+em|em|ADP
+parceria|parceria|NOUN
+com|com|ADP
+as|o|DET
+cooperações|cooperação|NOUN
+de|de|ADP
+países|país|NOUN
+amigos|amigo|ADJ
+deram|dar|VERB
+início|início|NOUN
+a|a|ADP
+diligências|diligência|NOUN
+para|para|SCONJ
+interceptar|interceptar|VERB
+no|em o|ADP
+navio|navio|NOUN
+de|de|ADP
+carga|carga|NOUN
+de|de|ADP
+nome|nome|NOUN
+Borocho|Borocho|PROPN
+,|,|PUNCT
+supostamente|supostamente|ADV
+registado|registar|VERB
+com|com|ADP
+bandeira|bandeira|NOUN
+são-tomense|são-tomense|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# O governo não dá mais pormenores, adiantando apenas que o referido navio é desconhecido do Instituto Marítimo e Portuário de São Tomé e Príncipe (IMAP-STP), a única instituição vocacionada para registar navios e atribuir bandeira são-tomense.
+O|o|DET
+governo|governo|NOUN
+não|não|ADV
+dá|dar|VERB
+mais|mais|ADV
+pormenores|pormenor|NOUN
+,|,|PUNCT
+adiantando|adiantar|VERB
+apenas|apenas|ADV
+que|que|SCONJ
+o|o|DET
+referido|referir|VERB
+navio|navio|NOUN
+é|ser|AUX
+desconhecido|desconhecer|VERB
+do|de o|ADP
+Instituto Marítimo|Instituto Marítimo|PROPN
+e|e|CCONJ
+Portuário de São Tomé e Príncipe|Portuário de São Tomé e Príncipe|PROPN
+(|(|PUNCT
+IMAP-STP|IMAP-STP|PROPN
+)|)|PUNCT
+,|,|PUNCT
+a|o|DET
+única|único|ADJ
+instituição|instituição|NOUN
+vocacionada|vocacionar|VERB
+para|para|SCONJ
+registar|registar|VERB
+navios|navio|NOUN
+e|e|CCONJ
+atribuir|atribuir|VERB
+bandeira|bandeira|NOUN
+são-tomense|são-tomense|ADJ
+.|.|PUNCT
+# “Neste momento, o referido navio com registo ilegal foi apresado e encontra-se sob custódia com estatuto de embarcação sem nacionalidade”, refere-se no comunicado do governo são-tomense.
+“|“|PUNCT
+Neste|em este|ADP
+momento|momento|NOUN
+,|,|PUNCT
+o|o|DET
+referido|referir|VERB
+navio|navio|NOUN
+com|com|ADP
+registo|registo|NOUN
+ilegal|ilegal|ADJ
+foi|ser|AUX
+apresado|apresar|VERB
+e|e|CCONJ
+encontra-se|encontrar se|VERB
+sob|sob|ADP
+custódia|custódia|NOUN
+com|com|ADP
+estatuto|estatuto|NOUN
+de|de|ADP
+embarcação|embarcação|NOUN
+sem|sem|ADP
+nacionalidade|nacionalidade|NOUN
+”|”|PUNCT
+,|,|PUNCT
+refere-se|referer se|VERB
+no|em o|ADP
+comunicado|comunicado|NOUN
+do|de o|ADP
+governo|governo|NOUN
+são-tomense|são-tomense|ADJ
+.|.|PUNCT
+# Sublinha-se ainda que “perante a gravidade deste caso”, que afecta “a imagem do país, o conselho de ministros insta as autoridades competentes do sector no sentido de prosseguirem com as investigações, identificar cumplicidades e prevaricadores para efeitos de procedimento disciplinar e criminal”.
+Sublinha-se|Sublinha-se|VERB
+ainda|ainda|ADV
+que|que|SCONJ
+“|“|PUNCT
+perante|perante|ADP
+a|o|DET
+gravidade|gravidade|NOUN
+deste|de este|ADP
+caso|caso|NOUN
+”|”|PUNCT
+,|,|PUNCT
+que|que|PRON
+afecta|afectar|VERB
+“|“|PUNCT
+a|o|DET
+imagem|imagem|NOUN
+do|de o|ADP
+país|país|NOUN
+,|,|PUNCT
+o|o|DET
+conselho|conselho|NOUN
+de|de|ADP
+ministros|ministro|NOUN
+insta|instar|VERB
+as|o|DET
+autoridades|autoridade|NOUN
+competentes|competente|ADJ
+do|de o|ADP
+sector|sector|NOUN
+no|em o|ADP
+sentido|sentido|NOUN
+de|de|SCONJ
+prosseguirem|prosseguir|VERB
+com|com|ADP
+as|o|DET
+investigações|investigação|NOUN
+,|,|PUNCT
+identificar|identificar|VERB
+cumplicidades|cumplicidade|NOUN
+e|e|CCONJ
+prevaricadores|prevaricador|ADJ
+para|para|ADP
+efeitos|efeito|NOUN
+de|de|ADP
+procedimento|procedimento|NOUN
+disciplinar|disciplinar|ADJ
+e|e|CCONJ
+criminal|criminal|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# A nível interno em São Tomé, as autoridades não revelam pormenores deste caso, mas sabe-se que o navio transportava 700 quilos de cocaína e que foram detidos 13 tripulantes.
+A|a|ADP
+nível|nível|NOUN
+interno|interno|ADJ
+em|em|ADP
+São Tomé|São Tomé|PROPN
+,|,|PUNCT
+as|o|DET
+autoridades|autoridade|NOUN
+não|não|ADV
+revelam|revelar|VERB
+pormenores|pormenor|NOUN
+deste|de este|ADP
+caso|caso|NOUN
+,|,|PUNCT
+mas|mas|CCONJ
+sabe-se|saber se|VERB
+que|que|SCONJ
+o|o|DET
+navio|navio|NOUN
+transportava|transportar|VERB
+700|700|NUM
+quilos|quilo|NOUN
+de|de|ADP
+cocaína|cocaína|NOUN
+e|e|CCONJ
+que|que|PRON
+foram|ser|AUX
+detidos|detir|VERB
+13|13|NUM
+tripulantes|tripulante|NOUN
+.|.|PUNCT
+# A embarcação é de origem do Panamá e a documentação que as autoridades do arquipélago dizem ser falsas foram emitidos em 23 de Julho último e é válida até a mesma data de 2018.
+A|o|DET
+embarcação|embarcação|NOUN
+é|ser|AUX
+de|de|ADP
+origem|origem|NOUN
+do|de o|ADP
+Panamá|Panamá|PROPN
+e|e|CCONJ
+a|o|DET
+documentação|documentação|NOUN
+que|que|PRON
+as|o|DET
+autoridades|autoridade|NOUN
+do|de o|ADP
+arquipélago|arquipélago|NOUN
+dizem|dizer|VERB
+ser|ser|AUX
+falsas|falso|ADJ
+foram|ser|AUX
+emitidos|emitir|VERB
+em|em|ADP
+23|23|NUM
+de|de|ADP
+Julho|julho|NOUN
+último|último|ADJ
+e|e|CCONJ
+é|ser|AUX
+válida|válido|ADJ
+até|até|ADP
+a|o|DET
+mesma|mesmo|ADJ
+data|data|NOUN
+de|de|ADP
+2018|2018|NUM
+.|.|PUNCT
+# 140 milhões de dólares para dois petroleiros - Folha 8
+140|140|NUM
+milhões|milhão|NUM
+de|de|ADP
+dólares|dólar|NOUN
+para|para|ADP
+dois|dois|NUM
+petroleiros|petroleiro|NOUN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# A Sociedade Nacional de Combustíveis de Angola (SONANGOL) assinou hoje, em Seul, Coreia do Sul, um acordo para a construção de dois navios petroleiros, orçados em 140 milhões de dólares, que deverão ser entregues em 2017.
+A|o|DET
+Sociedade Nacional de Combustíveis de Angola|Sociedade Nacional de Combustíveis de Angola|PROPN
+(|(|PUNCT
+SONANGOL|SONANGOL|PROPN
+)|)|PUNCT
+assinou|assinar|VERB
+hoje|hoje|ADV
+,|,|PUNCT
+em|em|ADP
+Seul|Seul|PROPN
+,|,|PUNCT
+Coreia do Sul|Coreia de o Sul|PROPN
+,|,|PUNCT
+um|um|DET
+acordo|acordo|NOUN
+para|para|ADP
+a|o|DET
+construção|construção|NOUN
+de|de|ADP
+dois|dois|NUM
+navios|navio|NOUN
+petroleiros|petroleiro|ADJ
+,|,|PUNCT
+orçados|orçar|VERB
+em|em|ADP
+140|140|NUM
+milhões|milhão|NUM
+de|de|ADP
+dólares|dólar|NOUN
+,|,|PUNCT
+que|que|PRON
+deverão|dever|VERB
+ser|ser|AUX
+entregues|entregar|VERB
+em|em|ADP
+2017|2017|NUM
+.|.|PUNCT
+# O acordo foi rubricado pelo Presidente do Conselho da Administração da SONANGOL, Francisco de Lemos José Maria e o seu homólogo sul-coreano, da DSME, Ko Jae-Ho.
+O|o|DET
+acordo|acordo|NOUN
+foi|ser|AUX
+rubricado|rubricar|VERB
+pelo|por o|ADP
+Presidente do Conselho da Administração da SONANGOL|presidente de o Conselho de o Administração de o SONANGOL|PROPN
+,|,|PUNCT
+Francisco de Lemos José Maria|Francisco de Lemos José Maria|PROPN
+e|e|CCONJ
+o|o|DET
+seu|seu|DET
+homólogo|homólogo|NOUN
+sul-coreano|sul-coreano|ADJ
+,|,|PUNCT
+da|de o|ADP
+DSME|DSME|PROPN
+,|,|PUNCT
+Ko Jae-Ho|Ko Jae-Ho|PROPN
+.|.|PUNCT
+# Uma nota de imprensa da concessionária angolana refere que os navios designados Suezmax, terão 156.290 toneladas métricas cada um, 274 metros de cumprimento, 48 metros de largura e uma altura de 23,7 metros.
+Uma|um|DET
+nota|nota|NOUN
+de|de|ADP
+imprensa|imprensa|NOUN
+da|de o|ADP
+concessionária|concessionária|NOUN
+angolana|angolano|ADJ
+refere|referir|VERB
+que|que|SCONJ
+os|o|DET
+navios|navio|NOUN
+designados|designar|VERB
+Suezmax|Suezmax|PROPN
+,|,|PUNCT
+terão|ter|VERB
+156.290|156.290|NUM
+toneladas|tonelada|NOUN
+métricas|métrico|ADJ
+cada|cada|DET
+um|um|NUM
+,|,|PUNCT
+274|274|NUM
+metros|metro|NOUN
+de|de|ADP
+cumprimento|cumprimento|NOUN
+,|,|PUNCT
+48|48|NUM
+metros|metro|NOUN
+de|de|ADP
+largura|largura|NOUN
+e|e|CCONJ
+uma|um|DET
+altura|altura|NOUN
+de|de|ADP
+23,7|23,7|NUM
+metros|metro|NOUN
+.|.|PUNCT
+# O documento salienta que a empresa norueguesa DNV-GL está encarregue de acompanhar e classificar o processo de fabrico das referidas embarcações, garantindo que são respeitados os parâmetros convencionais.
+O|o|DET
+documento|documento|NOUN
+salienta|salientar|VERB
+que|que|SCONJ
+a|o|DET
+empresa|empresa|NOUN
+norueguesa|norueguês|ADJ
+DNV-GL|DNV-GL|PROPN
+está|estar|AUX
+encarregue|encarregue|ADJ
+de|de|SCONJ
+acompanhar|acompanhar|VERB
+e|e|CCONJ
+classificar|classificar|VERB
+o|o|DET
+processo|processo|NOUN
+de|de|ADP
+fabrico|fabrico|NOUN
+das|de o|ADP
+referidas|referir|VERB
+embarcações|embarcação|NOUN
+,|,|PUNCT
+garantindo|garantir|VERB
+que|que|SCONJ
+são|ser|AUX
+respeitados|respeitar|VERB
+os|o|DET
+parâmetros|parâmetro|NOUN
+convencionais|convencional|ADJ
+.|.|PUNCT
+# A SONANGOL possui presentemente em construção nos mesmos estaleiros dois navios sonda de perfuração, que deverão ser entregues, respectivamente, no quarto trimestre de 2015 e no segundo trimestre de 2016.
+A|o|DET
+SONANGOL|SONANGOL|NOUN
+possui|possuir|VERB
+presentemente|presentemente|ADV
+em|em|ADP
+construção|construção|NOUN
+nos|em o|ADP
+mesmos|mesmo|ADJ
+estaleiros|estaleiro|NOUN
+dois|dois|NUM
+navios|navio|NOUN
+sonda|sonda|NOUN
+de|de|ADP
+perfuração|perfuração|NOUN
+,|,|PUNCT
+que|que|PRON
+deverão|dever|VERB
+ser|ser|AUX
+entregues|entregar|VERB
+,|,|PUNCT
+respectivamente|respectivamente|ADV
+,|,|PUNCT
+no|em o|ADP
+quarto|quarto|ADJ
+trimestre|trimestre|NOUN
+de|de|ADP
+2015|2015|NUM
+e|e|CCONJ
+no|em o|ADP
+segundo|segundo|ADJ
+trimestre|trimestre|NOUN
+de|de|ADP
+2016|2016|NUM
+.|.|PUNCT
+# O investimento, segundo a concessionária angolana, visa reforçar a exploração petrolífera em águas profundas, ultra-profundas e no pré-sal é o objectivo da construção desses dois navios, adianta a nota, sublinhando que o recurso à Coreia do Sul foi feito por se tratar de um país líder mundial na engenharia de construção naval.
+O|o|DET
+investimento|investimento|NOUN
+,|,|PUNCT
+segundo|segundo|ADP
+a|o|DET
+concessionária|concessionária|NOUN
+angolana|angolano|ADJ
+,|,|PUNCT
+visa|visar|VERB
+reforçar|reforçar|VERB
+a|o|DET
+exploração|exploração|NOUN
+petrolífera|petrolífero|ADJ
+em|em|ADP
+águas|água|NOUN
+profundas|profundo|ADJ
+,|,|PUNCT
+ultra-profundas|ultra-profunr|NOUN
+e|e|CCONJ
+no|em o|ADP
+pré-sal|pré-sal|NOUN
+é|ser|AUX
+o|o|DET
+objectivo|objectivo|NOUN
+da|de o|ADP
+construção|construção|NOUN
+desses|de esse|ADP
+dois|dois|NUM
+navios|navio|NOUN
+,|,|PUNCT
+adianta|adiantar|VERB
+a|o|DET
+nota|nota|NOUN
+,|,|PUNCT
+sublinhando|sublinhar|VERB
+que|que|SCONJ
+o|o|DET
+recurso|recurso|NOUN
+à|a o|ADP
+Coreia do Sul|Coreia de o Sul|PROPN
+foi|ser|AUX
+feito|fazer|VERB
+por|por|SCONJ
+se|se|PRON
+tratar|tratar|VERB
+de|de|ADP
+um|um|DET
+país|país|NOUN
+líder|líder|NOUN
+mundial|mundial|ADJ
+na|em o|ADP
+engenharia|engenharia|NOUN
+de|de|ADP
+construção|construção|NOUN
+naval|naval|ADJ
+.|.|PUNCT
+# Angola é o segundo maior produtor de petróleo da África subsaariana.
+Angola|Angola|PROPN
+é|ser|AUX
+o|o|DET
+segundo|segundo|ADJ
+maior|grande|ADJ
+produtor|produtor|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+da|de o|ADP
+África|África|PROPN
+subsaariana|subsaariano|ADJ
+.|.|PUNCT
+# 1.500 desalojados pelas chuvas no Zaire - Folha 8
+1.500|1.500|NUM
+desalojados|desalojado|VERB
+pelas|por o|ADP
+chuvas|chuva|NOUN
+no|em o|ADP
+Zaire|Zaire|PROPN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# Mais de 1.500 pessoas ficaram desalojadas na província do Zaire, no norte do país, na sequência das fortes chuvas que se têm feito sentir naquela zona, informaram hoje fontes dos bombeiros.
+Mais|mais|ADV
+de|de|ADP
+1.500|1.500|NUM
+pessoas|pessoa|NOUN
+ficaram|ficar|VERB
+desalojadas|desalojar|VERB
+na|em o|ADP
+província|província|NOUN
+do|de o|ADP
+Zaire|Zaire|PROPN
+,|,|PUNCT
+no|em o|ADP
+norte|norte|NOUN
+do|de o|ADP
+país|país|NOUN
+,|,|PUNCT
+na|em o|ADP
+sequência|sequência|NOUN
+das|de o|ADP
+fortes|forte|ADJ
+chuvas|chuva|NOUN
+que|que|PRON
+se|se|PRON
+têm|ter|AUX
+feito|fazer|VERB
+sentir|sentir|VERB
+naquela|em aquele|ADP
+zona|zona|NOUN
+,|,|PUNCT
+informaram|informar|VERB
+hoje|hoje|ADV
+fontes|fonte|NOUN
+dos|de o|ADP
+bombeiros|bombeiro|NOUN
+.|.|PUNCT
+# De acordo com dados divulgados pelo serviço provincial de protecção civil e bombeiros do Zaire, as chuvas destruíram nas últimas horas 168 casas, de construção básica, em quatro municípios.
+De|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+dados|dado|NOUN
+divulgados|divulgar|VERB
+pelo|por o|ADP
+serviço|serviço|NOUN
+provincial|provincial|ADJ
+de|de|ADP
+protecção|protecção|NOUN
+civil|civil|ADJ
+e|e|CCONJ
+bombeiros|bombeiro|NOUN
+do|de o|ADP
+Zaire|Zaire|PROPN
+,|,|PUNCT
+as|o|DET
+chuvas|chuva|NOUN
+destruíram|destruír|VERB
+nas|em o|ADP
+últimas|último|ADJ
+horas|hora|NOUN
+168|168|NUM
+casas|casa|NOUN
+,|,|PUNCT
+de|de|ADP
+construção|construção|NOUN
+básica|básico|ADJ
+,|,|PUNCT
+em|em|ADP
+quatro|quatro|NUM
+municípios|município|NOUN
+.|.|PUNCT
+# Desde a madrugada de terça-feira que se registam vários episódios de mau tempo, nomeadamente chuva forte, em diferentes províncias angolanas, sobretudo no litoral.
+Desde|desde|ADP
+a|o|DET
+madrugada|madrugada|NOUN
+de|de|ADP
+terça-feira|terça-feira|NOUN
+que|que|PRON
+se|se|PRON
+registam|registar|VERB
+vários|vários|DET
+episódios|episódio|NOUN
+de|de|ADP
+mau|mau|ADJ
+tempo|tempo|NOUN
+,|,|PUNCT
+nomeadamente|nomeadamente|ADV
+chuva|chuva|NOUN
+forte|forte|ADJ
+,|,|PUNCT
+em|em|ADP
+diferentes|diferentes|DET
+províncias|província|NOUN
+angolanas|angolano|ADJ
+,|,|PUNCT
+sobretudo|sobretudo|ADV
+no|em o|ADP
+litoral|litoral|NOUN
+.|.|PUNCT
+# No Zaire, a situação corresponde a 1.536 pessoas “ao relento” em várias comunas destes municípios, nomeadamente no Soyo, segundo a mesma informação.
+No|em o|ADP
+Zaire|Zaire|PROPN
+,|,|PUNCT
+a|o|DET
+situação|situação|NOUN
+corresponde|corresponder|VERB
+a|a|ADP
+1.536|1.536|NUM
+pessoas|pessoa|NOUN
+“|“|PUNCT
+ao|a o|ADP
+relento|relento|NOUN
+”|”|PUNCT
+em|em|ADP
+várias|várias|DET
+comunas|comuna|NOUN
+destes|de este|ADP
+municípios|município|NOUN
+,|,|PUNCT
+nomeadamente|nomeadamente|ADV
+no|em o|ADP
+Soyo|Soyo|PROPN
+,|,|PUNCT
+segundo|segundo|ADP
+a|o|DET
+mesma|mesmo|ADJ
+informação|informação|NOUN
+.|.|PUNCT
+# Há ainda registo de inundações em cerca de 90 casas, num complexo habitacional e numa igreja da província.
+Há|haver|VERB
+ainda|ainda|ADV
+registo|registo|NOUN
+de|de|ADP
+inundações|inundação|NOUN
+em|em|ADP
+cerca|cerca|ADV
+de|de|ADP
+90|90|NUM
+casas|casa|NOUN
+,|,|PUNCT
+num|em um|ADP
+complexo|complexo|ADJ
+habitacional|habitacional|ADJ
+e|e|CCONJ
+numa|em um|ADP
+igreja|igreja|NOUN
+da|de o|ADP
+província|província|NOUN
+.|.|PUNCT
+# Não foram divulgadas informações sobre vítimas na sequência destas chuvas naquela zona, apenas o apelo das populações, ao Estado, para o fornecimento de materiais de construção para recuperar as habitações.
+Não|não|ADV
+foram|ser|AUX
+divulgadas|divulgar|VERB
+informações|informação|NOUN
+sobre|sobre|ADP
+vítimas|vítima|NOUN
+na|em o|ADP
+sequência|sequência|NOUN
+destas|de este|ADP
+chuvas|chuva|NOUN
+naquela|em aquele|ADP
+zona|zona|NOUN
+,|,|PUNCT
+apenas|apenas|ADV
+o|o|DET
+apelo|apelo|NOUN
+das|de o|ADP
+populações|população|NOUN
+,|,|PUNCT
+ao|a o|ADP
+Estado|estado|NOUN
+,|,|PUNCT
+para|para|ADP
+o|o|DET
+fornecimento|fornecimento|NOUN
+de|de|ADP
+materiais|material|NOUN
+de|de|ADP
+construção|construção|NOUN
+para|para|SCONJ
+recuperar|recuperar|VERB
+as|o|DET
+habitações|habitação|NOUN
+.|.|PUNCT
+# Na última época das chuvas em Angola, entre 2013 e 2014, registou-se a morte de 152 pessoas, segundo um relatório provisório divulgado em Junho último em Luanda.
+Na|em o|ADP
+última|último|ADJ
+época|época|NOUN
+das|de o|ADP
+chuvas|chuva|NOUN
+em|em|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+entre|entre|ADP
+2013|2013|NUM
+e|e|CCONJ
+2014|2014|NUM
+,|,|PUNCT
+registou-se|registar se|VERB
+a|o|DET
+morte|morte|NOUN
+de|de|ADP
+152|152|NUM
+pessoas|pessoa|NOUN
+,|,|PUNCT
+segundo|segundo|ADP
+um|um|DET
+relatório|relatório|NOUN
+provisório|provisório|ADJ
+divulgado|divulgar|VERB
+em|em|ADP
+Junho último|junho último|NOUN
+em|em|ADP
+Luanda|Luanda|PROPN
+.|.|PUNCT
+# O documento identificou ainda a destruição de 6.317 residências e 353 infra-estruturas públicas e privadas, afectando “mais de 70 mil pessoas em todo o pais”.
+O|o|DET
+documento|documento|NOUN
+identificou|identificar|VERB
+ainda|ainda|ADV
+a|o|DET
+destruição|destruição|NOUN
+de|de|ADP
+6.317|6.317|NUM
+residências|residência|NOUN
+e|e|CCONJ
+353|353|NUM
+infra-estruturas|infra-estrutura|NOUN
+públicas|público|ADJ
+e|e|CCONJ
+privadas|privado|ADJ
+,|,|PUNCT
+afectando|afectar|VERB
+“|“|PUNCT
+mais|mais|ADV
+de|de|ADP
+70|70|NUM
+mil|mil|NUM
+pessoas|pessoa|NOUN
+em|em|ADP
+todo|todo|DET
+o|o|DET
+pais|pai|NOUN
+”|”|PUNCT
+.|.|PUNCT
+# Foto de arquivo
+Foto|Foto|VERB
+de|de|ADP
+arquivo|arquivo|NOUN
+# Ano da vitória da baderna - Folha 8
+Ano|ano|NOUN
+da|de o|ADP
+vitória|vitória|NOUN
+da|de o|ADP
+baderna|baderna|NOUN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# 2014 está a fazer a primeira esquina para entregar o cronómetro ao 2015.
+2014|2014|NUM
+está|estar|VERB
+a|a|SCONJ
+fazer|fazer|VERB
+a|o|DET
+primeira|primeiro|ADJ
+esquina|esquina|NOUN
+para|para|SCONJ
+entregar|entregar|VERB
+o|o|DET
+cronómetro|cronómetro|NOUN
+ao|a o|ADP
+2015|2015|NUM
+.|.|PUNCT
+# E o que nos apraz fazer, nesta hora?
+E|e|CCONJ
+o|o|PRON
+que|que|PRON
+nos|nós|PRON
+apraz|apraz|VERB
+fazer|fazer|VERB
+,|,|PUNCT
+nesta|em este|ADP
+hora|hora|NOUN
+?|?|PUNCT
+# Balanço!
+Balanço|Balanço|NOUN
+!|!|PUNCT
+# Por William Tonet
+Por|por|ADP
+William Tonet|William Tonet|PROPN
+# O que houve de bom e de mau em 365 dias.
+O|o|PRON
+que|que|PRON
+houve|haver|VERB
+de|de|ADP
+bom|bom|ADJ
+e|e|CCONJ
+de|de|ADP
+mau|mau|NOUN
+em|em|ADP
+365|365|NUM
+dias|dia|NOUN
+.|.|PUNCT
+# Positivo
+Positivo|positivo|PROPN
+# a)
+a|a|ADP
+)|)|PUNCT
+# O regime criou os primeiros bilionários e milionários de Angola e África, constituindo um orgulho para uns poucos, claro, os do próprio sistema.
+O|o|DET
+regime|regime|NOUN
+criou|criar|VERB
+os|o|DET
+primeiros|primeiro|ADJ
+bilionários|bilionário|NOUN
+e|e|CCONJ
+milionários|milionário|NOUN
+de|de|ADP
+Angola|Angola|PROPN
+e|e|CCONJ
+África|África|PROPN
+,|,|PUNCT
+constituindo|constituir|VERB
+um|um|DET
+orgulho|orgulho|NOUN
+para|para|ADP
+uns|um|DET
+poucos|pouco|PRON
+,|,|PUNCT
+claro|claro|ADV
+,|,|PUNCT
+os|o|PRON
+do|de o|ADP
+próprio|próprio|ADJ
+sistema|sistema|NOUN
+.|.|PUNCT
+# b)
+b|b|NUM
+)|)|PUNCT
+# A corrupção foi institucionalizada, deixando de ser considerada um crime, para certos, governantes…
+A|o|DET
+corrupção|corrupção|NOUN
+foi|ser|AUX
+institucionalizada|institucionalizar|VERB
+,|,|PUNCT
+deixando|deixar|VERB
+de|de|SCONJ
+ser|ser|AUX
+considerada|considerar|VERB
+um|um|DET
+crime|crime|NOUN
+,|,|PUNCT
+para|para|ADP
+certos|certos|PRON
+,|,|PUNCT
+governantes|governante|NOUN
+…|…|PUNCT
+# c)
+c|c|PUNCT
+)|)|PUNCT
+# A violação grosseira da Constituição não constitui crime, pelo contrário, premeia o prevaricador.
+A|o|DET
+violação|violação|NOUN
+grosseira|grosseiro|ADJ
+da|de o|ADP
+Constituição|constituição|NOUN
+não|não|ADV
+constitui|constituir|VERB
+crime|crime|NOUN
+,|,|PUNCT
+pelo|por o|ADP
+contrário|contrário|NOUN
+,|,|PUNCT
+premeia|premeiar|VERB
+o|o|DET
+prevaricador|prevaricador|NOUN
+.|.|PUNCT
+# d)
+d|d|ADP
+)|)|PUNCT
+# O Parlamento deixou de ser órgão fiscalizador do executivo, convertendo-se numa obsoleta e vergonhosa muleta do titular do poder executivo.
+O|o|DET
+Parlamento|Parlamento|NOUN
+deixou|deixar|VERB
+de|de|SCONJ
+ser|ser|AUX
+órgão|órgão|NOUN
+fiscalizador|fiscalizador|ADJ
+do|de o|ADP
+executivo|executivo|NOUN
+,|,|PUNCT
+convertendo-se|converter se|VERB
+numa|em um|ADP
+obsoleta|obsoleto|ADJ
+e|e|CCONJ
+vergonhosa|vergonhoso|ADJ
+muleta|muleta|NOUN
+do|de o|ADP
+titular|titular|NOUN
+do|de o|ADP
+poder|poder|NOUN
+executivo|executivo|ADJ
+.|.|PUNCT
+# e)
+e|e|CCONJ
+)|)|PUNCT
+# A maioria dos deputados, traiu os eleitores, convertendo-se em caixas de ressonância do Presidente da República, em função das mordomias.
+A|o|DET
+maioria|maioria|NOUN
+dos|de o|ADP
+deputados|deputado|NOUN
+,|,|PUNCT
+traiu|trair|VERB
+os|o|DET
+eleitores|eleitor|NOUN
+,|,|PUNCT
+convertendo-se|converter se|VERB
+em|em|ADP
+caixas|caixa|NOUN
+de|de|ADP
+ressonância|ressonância|NOUN
+do|de o|ADP
+Presidente da República|Presidente de o República|PROPN
+,|,|PUNCT
+em|em|ADP
+função|função|NOUN
+das|de o|ADP
+mordomias|mordomia|NOUN
+.|.|PUNCT
+# f)
+f|f|NUM
+)|)|PUNCT
+# O Tribunal Constitucional transformou-se no guardião das vontades discricionárias do actual Presidente da República, ao invés das normas constitucionais e das cláusulas pétreas da Constituição 2010.
+O|o|DET
+Tribunal Constitucional|Tribunal Constitucional|PROPN
+transformou-se|transformar se|VERB
+no|em o|ADP
+guardião|guardião|NOUN
+das|de o|ADP
+vontades|vontade|NOUN
+discricionárias|discricionário|ADJ
+do|de o|ADP
+actual|actual|ADJ
+Presidente da República|presidente de o República|NOUN
+,|,|PUNCT
+ao|a o|ADP
+invés|invés|NOUN
+das|de o|ADP
+normas|norma|NOUN
+constitucionais|constitucional|ADJ
+e|e|CCONJ
+das|de o|ADP
+cláusulas|cláusula|NOUN
+pétreas|pétreo|ADJ
+da|de o|ADP
+Constituição 2010|constituição 2010|PROPN
+.|.|PUNCT
+# g)
+g|g|NOUN
+)|)|PUNCT
+# A SONANGOL converteu-se na teta da família real e afins, deixando de ser uma empresa de orgulho nacional, para empresa falida de chacota internacional.
+A|o|DET
+SONANGOL|SONANGOL|NOUN
+converteu-se|converteu-se|VERB
+na|em o|ADP
+teta|teta|NOUN
+da|de o|ADP
+família|família|NOUN
+real|real|ADJ
+e|e|CCONJ
+afins|afim|ADJ
+,|,|PUNCT
+deixando|deixar|VERB
+de|de|SCONJ
+ser|ser|AUX
+uma|um|DET
+empresa|empresa|NOUN
+de|de|ADP
+orgulho|orgulho|NOUN
+nacional|nacional|ADJ
+,|,|PUNCT
+para|para|ADP
+empresa|empresa|NOUN
+falida|falido|ADJ
+de|de|ADP
+chacota|chacota|NOUN
+internacional|internacional|ADJ
+.|.|PUNCT
+# h)
+h|h|NOUN
+)|)|PUNCT
+# O Presidente da República, mostrou ter uma profunda responsabilidade irresponsável sobre o projecto Kilamba, tanto que o programa com a SONIP/DELTA resultou num profundo fiasco, merecedor de procedimento criminal.
+O|o|DET
+Presidente da República|Presidente de o República|PROPN
+,|,|PUNCT
+mostrou|mostrar|VERB
+ter|ter|VERB
+uma|um|DET
+profunda|profundo|ADJ
+responsabilidade|responsabilidade|NOUN
+irresponsável|irresponsável|ADJ
+sobre|sobre|ADP
+o|o|DET
+projecto|projecto|NOUN
+Kilamba|Kilamba|PROPN
+,|,|PUNCT
+tanto|tanto|SCONJ
+que|que|SCONJ
+o|o|DET
+programa|programa|NOUN
+com|com|ADP
+a|o|DET
+SONIP|SONIP|PROPN
+/|/|PUNCT
+DELTA|DELTA|PROPN
+resultou|resultar|VERB
+num|em um|ADP
+profundo|profundo|ADJ
+fiasco|fiasco|NOUN
+,|,|PUNCT
+merecedor|merecedor|ADJ
+de|de|ADP
+procedimento|procedimento|NOUN
+criminal|criminal|ADJ
+.|.|PUNCT
+# Agora a vez é da empresa do MPLA: Imogestin.
+Agora|agora|ADV
+a|o|ADP
+vez|vez|NOUN
+é|ser|AUX
+da|de o|ADP
+empresa|empresa|NOUN
+do|de o|ADP
+MPLA|MPLA|PROPN
+:|:|PUNCT
+Imogestin|Imogestin|PROPN
+.|.|PUNCT
+# É o regabofe da má gestão pública.
+É|ser|AUX
+o|o|DET
+regabofe|regabofe|NOUN
+da|de o|ADP
+má|má|ADJ
+gestão|gestão|NOUN
+pública|público|ADJ
+.|.|PUNCT
+# i)
+i|i|PROPN
+)|)|PUNCT
+# O Presidente da República, sem nunca ter sido nominalmente eleito e tendo Angola um sistema parlamentar (art.º109.º CRA), converteu-se, por elucubrações jurídicas gabinetais, em órgão de soberania.
+O|o|DET
+Presidente da República|Presidente de o República|PROPN
+,|,|PUNCT
+sem|sem|SCONJ
+nunca|nunca|ADV
+ter|ter|AUX
+sido|ser|AUX
+nominalmente|nominalmente|ADV
+eleito|eleger|VERB
+e|e|CCONJ
+tendo|ter|VERB
+Angola|Angola|PROPN
+um|um|DET
+sistema|sistema|NOUN
+parlamentar|parlamentar|ADJ
+(|(|PUNCT
+art.º109.º|art.º109.º|PROPN
+CRA|CRA|PROPN
+)|)|PUNCT
+,|,|PUNCT
+converteu-se|converteu-se|VERB
+,|,|PUNCT
+por|por|ADP
+elucubrações|elucubração|NOUN
+jurídicas|jurídico|ADJ
+gabinetais|gabinetal|ADJ
+,|,|PUNCT
+em|em|ADP
+órgão|órgão|NOUN
+de|de|ADP
+soberania|soberania|NOUN
+.|.|PUNCT
+# Escândalo!
+Escândalo!|escândalo!|NOUN
+# Constituição, art.º 105.º.
+Constituição|constituição|NOUN
+,|,|PUNCT
+art.º|art.º|NOUN
+105.º.|105.º.|NUM
+# j)
+j|j|PROPN
+)|)|PUNCT
+# Os cofres de Estado estão vazios.
+Os|o|DET
+cofres|cofres|NOUN
+de|de|ADP
+Estado|estado|NOUN
+estão|estar|AUX
+vazios|vazio|ADJ
+.|.|PUNCT
+# 2014.
+2014|2014|NUM
+.|.|PUNCT
+# O BNA está na linha amarela.
+O|o|DET
+BNA|BNA|PROPN
+está|estar|AUX
+na|em o|ADP
+linha|linha|NOUN
+amarela|amarelo|ADJ
+.|.|PUNCT
+# O BPC, também.
+O|o|DET
+BPC|BPC|PROPN
+,|,|PUNCT
+também|também|ADV
+.|.|PUNCT
+# Não há dinheiro!
+Não|não|ADV
+há|haver|VERB
+dinheiro|dinheiro|NOUN
+!|!|PUNCT
+# Roubaram-no ao povo, uns poucos, pois claro.
+Roubaram-no|Roubaram-no|PROPN
+ao|a o|ADP
+povo|povo|NOUN
+,|,|PUNCT
+uns|um|DET
+poucos|pouco|PRON
+,|,|PUNCT
+pois|pois|SCONJ
+claro|claro|ADJ
+.|.|PUNCT
+# Quem são?
+Quem|quem|PRON
+são|ser|AUX
+?|?|PUNCT
+# P’ra quê, dizer?
+P’ra|P’ra|PROPN
+quê|quê|PRON
+,|,|PUNCT
+dizer|dizer|VERB
+?|?|PUNCT
+# Os autóctones sabem…
+Os|o|DET
+autóctones|autóctone|NOUN
+sabem|saber|VERB
+…|…|PUNCT
+# Faliram a CAP.
+Faliram|Faliram|PROPN
+a|o|DET
+CAP|CAP|PROPN
+.|.|PUNCT
+# Abriram champanhe.
+Abriram|Abriram|VERB
+champanhe|champanhe|NOUN
+.|.|PUNCT
+# Faliram o BESA.
+Faliram|Faliram|PROPN
+o|o|DET
+BESA|BESA|PROPN
+.|.|PUNCT
+# Abriram Moet & Chandon Brut Imperial.
+Abriram|Abriram|VERB
+Moet & Chandon Brut Imperial|Moet & Chandon Brut Imperial|PROPN
+.|.|PUNCT
+# k)
+k|k|PROPN
+)|)|PUNCT
+# O partido no poder demonstrou em 2014, que cumpre o que promete:
+O|o|DET
+partido|partido|NOUN
+no|em o|ADP
+poder|poder|NOUN
+demonstrou|demonstrar|VERB
+em|em|ADP
+2014|2014|NUM
+,|,|PUNCT
+que|que|PRON
+cumpre|cumprir|VERB
+o|o|PRON
+que|que|PRON
+promete|prometer|VERB
+:|:|PUNCT
+# Trabalhar mais, para distribuir melhor.
+Trabalhar|Trabalhar|VERB
+mais|mais|ADV
+,|,|PUNCT
+para|para|SCONJ
+distribuir|distribuir|VERB
+melhor|bom|ADV
+.|.|PUNCT
+# Cumprindo a profecia, distribuíram melhor os prejuízos da roubalheira ao povo, ficando os mesmo do costume, com as contas refasteladas.
+Cumprindo|cumprir|VERB
+a|o|DET
+profecia|profecia|NOUN
+,|,|PUNCT
+distribuíram|distribuír|VERB
+melhor|melhor|ADV
+os|o|DET
+prejuízos|prejuízo|NOUN
+da|de o|ADP
+roubalheira|roubalheira|NOUN
+ao|a o|ADP
+povo|povo|NOUN
+,|,|PUNCT
+ficando|ficar|VERB
+os|o|DET
+mesmo|mesmo|PRON
+do|de o|ADP
+costume|costume|NOUN
+,|,|PUNCT
+com|com|ADP
+as|o|DET
+contas|conta|NOUN
+refasteladas|refastelar|VERB
+.|.|PUNCT
+# O duplo aumento do preço do combustível é disso uma prova, porquanto os dirigentes do regime continuarão com as senhas subvencionadas, quer dizer, não pagam combustível
+O|o|DET
+duplo|duplo|ADJ
+aumento|aumento|NOUN
+do|de o|ADP
+preço|preço|NOUN
+do|de o|ADP
+combustível|combustível|NOUN
+é|ser|AUX
+disso|de isso|PRON
+uma|um|DET
+prova|prova|NOUN
+,|,|PUNCT
+porquanto|porquanto|ADV
+os|o|DET
+dirigentes|dirigente|NOUN
+do|de o|ADP
+regime|regime|NOUN
+continuarão|continuar|VERB
+com|com|ADP
+as|o|DET
+senhas|senha|NOUN
+subvencionadas|subvencionar|VERB
+,|,|PUNCT
+quer|querer|CCONJ
+dizer|dizer|VERB
+,|,|PUNCT
+não|não|ADV
+pagam|pagar|VERB
+combustível|combustível|NOUN
+# Negativo
+Negativo|negativo|ADJ
+# O regime estimulou o fosso das desigualdades sociais, violando grosseiramente o princípio de igualdade, art.º 23.º de consagração constitucional.
+O|o|DET
+regime|regime|NOUN
+estimulou|estimular|VERB
+o|o|DET
+fosso|fosso|NOUN
+das|de o|ADP
+desigualdades|desigualdade|NOUN
+sociais|social|ADJ
+,|,|PUNCT
+violando|violar|VERB
+grosseiramente|grosseiramente|ADV
+o|o|DET
+princípio|princípio|NOUN
+de|de|ADP
+igualdade|igualdade|NOUN
+,|,|PUNCT
+art.º|art.º|NOUN
+23.º|23.º|ADJ
+de|de|ADP
+consagração|consagração|NOUN
+constitucional|constitucional|ADJ
+.|.|PUNCT
+# Multiplicou o número de endinheirados institucionais e regimentais, pela ascendência, aumentando o número de pobres e discriminados pela descendência.
+Multiplicou|Multiplicou|PROPN
+o|o|DET
+número|número|NOUN
+de|de|ADP
+endinheirados|endinheirado|NOUN
+institucionais|institucional|ADJ
+e|e|CCONJ
+regimentais|regimental|ADJ
+,|,|PUNCT
+pela|por o|ADP
+ascendência|ascendência|NOUN
+,|,|PUNCT
+aumentando|aumentar|VERB
+o|o|DET
+número|número|NOUN
+de|de|ADP
+pobres|pobre|NOUN
+e|e|CCONJ
+discriminados|discriminar|VERB
+pela|por o|ADP
+descendência|descendência|NOUN
+.|.|PUNCT
+# Os filhos do Presidente da República, José Eduardo dos Santos consagraram-se como bilionária e milionários, as portas escancaradas dos cofres públicos, terão contribuído grandemente, uma vez, o pai ter reconhecido, publicamente, não ser herdeiro e que era pobre, no tempo colonial, no de partido único e o seu salário, não ultrapassar, em democracia os 15 mil dólares.
+Os|o|DET
+filhos|filho|NOUN
+do|de o|ADP
+Presidente da República|presidente de o República|NOUN
+,|,|PUNCT
+José Eduardo dos Santos|José Eduardo de o Santos|PROPN
+consagraram-se|consagrar se|VERB
+como|como|ADP
+bilionária|bilionária|NOUN
+e|e|CCONJ
+milionários|milionário|ADJ
+,|,|PUNCT
+as|o|DET
+portas|porta|NOUN
+escancaradas|escancarar|VERB
+dos|de o|ADP
+cofres|cofr|NOUN
+públicos|público|ADJ
+,|,|PUNCT
+terão|ter|VERB
+contribuído|contribuir|VERB
+grandemente|grandemente|ADV
+,|,|PUNCT
+uma|uma|DET
+vez|vez|NOUN
+,|,|PUNCT
+o|o|DET
+pai|pai|NOUN
+ter|ter|AUX
+reconhecido|reconhecer|VERB
+,|,|PUNCT
+publicamente|publicamente|ADV
+,|,|PUNCT
+não|não|ADV
+ser|ser|AUX
+herdeiro|herdeiro|NOUN
+e|e|CCONJ
+que|que|PRON
+era|ser|AUX
+pobre|pobre|ADJ
+,|,|PUNCT
+no|em o|ADP
+tempo|tempo|NOUN
+colonial|colonial|ADJ
+,|,|PUNCT
+no|em o|ADP
+de|de|ADP
+partido|partido|NOUN
+único|único|ADJ
+e|e|CCONJ
+o|o|DET
+seu|seu|DET
+salário|salário|NOUN
+,|,|PUNCT
+não|não|ADV
+ultrapassar|ultrapassar|VERB
+,|,|PUNCT
+em|em|ADP
+democracia|democracia|NOUN
+os|o|DET
+15|15|NUM
+mil|mil|NUM
+dólares|dólar|NOUN
+.|.|PUNCT
+# Mas em 2014, os irmãos e familiares seguiram o mesmo comboio do riquismo fácil.
+Mas|mas|CCONJ
+em|em|ADP
+2014|2014|NUM
+,|,|PUNCT
+os|o|DET
+irmãos|irmão|NOUN
+e|e|CCONJ
+familiares|familiar|NOUN
+seguiram|seguir|VERB
+o|o|DET
+mesmo|mesmo|ADJ
+comboio|comboio|NOUN
+do|de o|ADP
+riquismo|riquismo|NOUN
+fácil|fácil|ADJ
+.|.|PUNCT
+# A Lei n.º 3/10 de 29 de Março, da Probidade Pública emergiu como artificio para graduar os generais mais ricos do mundo, três dos quais, com ligações íntimas e sentimentais ao próprio gabinete presidencial.
+A|o|DET
+Lei n.º 3/10 de 29 de Março|Lei n.º 3/10 de 29 de março|PROPN
+,|,|PUNCT
+da|de o|ADP
+Probidade Pública|Probidade Pública|PROPN
+emergiu|emergir|VERB
+como|como|ADP
+artificio|artificio|NOUN
+para|para|SCONJ
+graduar|graduar|VERB
+os|o|DET
+generais|general|NOUN
+mais|mais|ADV
+ricos|rico|ADJ
+do|de o|ADP
+mundo|mundo|NOUN
+,|,|PUNCT
+três|três|NUM
+dos|de o|ADP
+quais|qual|PRON
+,|,|PUNCT
+com|com|ADP
+ligações|ligação|NOUN
+íntimas|íntimo|ADJ
+e|e|CCONJ
+sentimentais|sentimental|ADJ
+ao|a o|ADP
+próprio|próprio|DET
+gabinete|gabinete|NOUN
+presidencial|presidencial|ADJ
+.|.|PUNCT
+# Têm minas de diamantes, poços de petróleo, bancos comerciais, supermercados, bombas de combustíveis, etc. etc. etc.
+Têm|Têm|VERB
+minas|mina|NOUN
+de|de|ADP
+diamantes|diamante|NOUN
+,|,|PUNCT
+poços|poço|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+,|,|PUNCT
+bancos|banco|NOUN
+comerciais|comercial|ADJ
+,|,|PUNCT
+supermercados|supermercado|NOUN
+,|,|PUNCT
+bombas|bomba|NOUN
+de|de|ADP
+combustíveis|combustível|NOUN
+,|,|PUNCT
+etc.|etc.|ADV
+etc.|etc.|ADV
+etc.|etc.|ADV
+# Viver honestamente é um antidote para se ser governante, mesmo quem entra agora como vice-presidente, já tem vícios de mexer em coisa alheia.
+Viver|Viver|PROPN
+honestamente|honestamente|ADV
+é|ser|AUX
+um|um|DET
+antidote|antidote|NOUN
+para|para|SCONJ
+se|se|PRON
+ser|ser|AUX
+governante|governante|ADJ
+,|,|PUNCT
+mesmo|mesmo|ADV
+quem|quem|PRON
+entra|entrar|VERB
+agora|agora|ADV
+como|como|ADP
+vice-presidente|vice-presidente|NOUN
+,|,|PUNCT
+já|já|ADV
+tem|ter|VERB
+vícios|vício|NOUN
+de|de|SCONJ
+mexer|mexer|VERB
+em|em|ADP
+coisa|coisa|NOUN
+alheia|alheio|ADJ
+.|.|PUNCT
+# Desde espoliar à força terras de pacatos populares, na zona do Futungo e na 21 de Janeiro, onde está a erguer mais um supermercado da sua cadeia:
+Desde|desde|ADP
+espoliar|espoliar|NOUN
+à|a o|ADP
+força|força|NOUN
+terras|terra|NOUN
+de|de|ADP
+pacatos|pacato|ADJ
+populares|popular|ADJ
+,|,|PUNCT
+na|em o|ADP
+zona|zona|NOUN
+do|de o|ADP
+Futungo|Futungo|NOUN
+e|e|CCONJ
+na|em o|ADP
+21|21|NUM
+de|de|ADP
+Janeiro|janeiro|NOUN
+,|,|PUNCT
+onde|onde|PRON
+está|estar|VERB
+a|a|SCONJ
+erguer|erguer|VERB
+mais|mais|ADV
+um|um|NUM
+supermercado|supermercado|NOUN
+da|de o|ADP
+sua|seu|DET
+cadeia|cadeia|NOUN
+:|:|PUNCT
+# Kero, imitando prática antiga de outros, que, pelos vistos, herdou na perfeição, daí o enriquecimento ilícito trafegando influências, que se arrastam desde a Sonangol, vox populis.
+Kero|Kero|PROPN
+,|,|PUNCT
+imitando|imitar|VERB
+prática|prática|NOUN
+antiga|antigo|ADJ
+de|de|ADP
+outros|outro|PRON
+,|,|PUNCT
+que|que|PRON
+,|,|PUNCT
+pelos|por o|ADP
+vistos|visto|NOUN
+,|,|PUNCT
+herdou|herdar|VERB
+na|em o|ADP
+perfeição|perfeição|NOUN
+,|,|PUNCT
+daí|de aí|ADV
+o|o|DET
+enriquecimento|enriquecimento|NOUN
+ilícito|ilícito|ADJ
+trafegando|trafegar|VERB
+influências|influência|NOUN
+,|,|PUNCT
+que|que|PRON
+se|se|PRON
+arrastam|arrastar|VERB
+desde|desde|ADP
+a|o|DET
+Sonangol|Sonangol|PROPN
+,|,|PUNCT
+vox|vox|NOUN
+populis|populi|ADJ
+.|.|PUNCT
+# O povo não teve liberdade, a democracia está amordaçada, a comunicação social controlada e arregimentada e o Presidente insensível viola a própria Constituição, numa clara demonstração dela ter sido feita, por mercenários jurídicos, que vivem no estrangeiro e aprovada, por deputados que não a leram.
+O|o|DET
+povo|povo|NOUN
+não|não|ADV
+teve|ter|VERB
+liberdade|liberdade|NOUN
+,|,|PUNCT
+a|o|DET
+democracia|democracia|NOUN
+está|estar|AUX
+amordaçada|amordaçado|ADJ
+,|,|PUNCT
+a|o|DET
+comunicação|comunicação|NOUN
+social|social|ADJ
+controlada|controlar|VERB
+e|e|CCONJ
+arregimentada|arregimentar|VERB
+e|e|CCONJ
+o|o|DET
+Presidente|presidente|NOUN
+insensível|insensível|ADJ
+viola|violar|VERB
+a|o|DET
+própria|próprio|DET
+Constituição|constituição|NOUN
+,|,|PUNCT
+numa|em um|ADP
+clara|claro|ADJ
+demonstração|demonstração|NOUN
+dela|de ela|PRON
+ter|ter|AUX
+sido|ser|AUX
+feita|fazer|VERB
+,|,|PUNCT
+por|por|ADP
+mercenários|mercenário|NOUN
+jurídicos|jurídico|ADJ
+,|,|PUNCT
+que|que|PRON
+vivem|viver|VERB
+no|em o|ADP
+estrangeiro|estrangeiro|NOUN
+e|e|CCONJ
+aprovada|aprovar|VERB
+,|,|PUNCT
+por|por|ADP
+deputados|deputado|NOUN
+que|que|PRON
+não|não|ADV
+a|ela|PRON
+leram|ler|VERB
+.|.|PUNCT
+# Porquê, pergunta-me o leitor.
+Porquê|porquê|ADV
+,|,|PUNCT
+pergunta-me|pergunta-me|VERB
+o|o|DET
+leitor|leitor|NOUN
+.|.|PUNCT
+# Simples.
+Simples|Simples|ADJ
+.|.|PUNCT
+# Quando o povo quer utilizar as normas nela inserida, o regime se dá conta, não estar preparado para a sua aplicação e respeitabilidade, face à têmpera controleira ditatorial e ter sido um acidente, quer o art.º 47.º, direito de reunião e manifestação, quer o 213.º e seguintes, sobre as autarquias.
+Quando|quando|SCONJ
+o|o|DET
+povo|povo|NOUN
+quer|querer|VERB
+utilizar|utilizar|VERB
+as|o|DET
+normas|norma|NOUN
+nela|em ele|PRON
+inserida|inserir|VERB
+,|,|PUNCT
+o|o|DET
+regime|regime|NOUN
+se|se|PRON
+dá|dar|VERB
+conta|conta|NOUN
+,|,|PUNCT
+não|não|ADV
+estar|estar|AUX
+preparado|preparado|ADJ
+para|para|ADP
+a|o|DET
+sua|seu|DET
+aplicação|aplicação|NOUN
+e|e|CCONJ
+respeitabilidade|respeitabilidade|NOUN
+,|,|PUNCT
+face|face|ADV
+à|a o|ADP
+têmpera|têmpera|NOUN
+controleira|controleira|ADJ
+ditatorial|ditatorial|ADJ
+e|e|CCONJ
+ter|ter|AUX
+sido|ser|AUX
+um|um|DET
+acidente|acidente|NOUN
+,|,|PUNCT
+quer|querer|VERB
+o|o|DET
+art.º|art.º|NOUN
+47.º|47.º|ADJ
+,|,|PUNCT
+direito|direito|NOUN
+de|de|ADP
+reunião|reunião|NOUN
+e|e|CCONJ
+manifestação|manifestação|NOUN
+,|,|PUNCT
+quer|querer|VERB
+o|o|DET
+213.º|213.º|NUM
+e|e|CCONJ
+seguintes|seguinte|ADJ
+,|,|PUNCT
+sobre|sobre|ADP
+as|o|DET
+autarquias|autarquia|NOUN
+.|.|PUNCT
+# Nunca um regime que se diz democrático, proibiu, massacrou, espancou e assassinou manifestantes indefesos, considerados 300 jovens frustrados, mas que metem medo ao Presidente da República, quem tem um exército privado e ainda transforma a Polícia Nacional, num corpo de auto- defesa partidária.
+Nunca|nunca|ADV
+um|um|DET
+regime|regime|NOUN
+que|que|PRON
+se|se|PRON
+diz|dizer|VERB
+democrático|democrático|ADJ
+,|,|PUNCT
+proibiu|proibir|VERB
+,|,|PUNCT
+massacrou|massacrar|VERB
+,|,|PUNCT
+espancou|espancar|VERB
+e|e|CCONJ
+assassinou|assassinar|VERB
+manifestantes|manifestante|NOUN
+indefesos|indefeso|ADJ
+,|,|PUNCT
+considerados|considerar|VERB
+300|300|NUM
+jovens|jovem|NOUN
+frustrados|frustrar|VERB
+,|,|PUNCT
+mas|mas|CCONJ
+que|que|PRON
+metem|meter|VERB
+medo|medo|NOUN
+ao|a o|ADP
+Presidente da República|Presidente de o República|PROPN
+,|,|PUNCT
+quem|quem|PRON
+tem|ter|VERB
+um|um|DET
+exército|exército|NOUN
+privado|privado|ADJ
+e|e|CCONJ
+ainda|ainda|ADV
+transforma|transformar|VERB
+a|o|DET
+Polícia Nacional|Polícia Nacional|PROPN
+,|,|PUNCT
+num|em um|ADP
+corpo|corpo|NOUN
+de|de|ADP
+auto-|auto-|ADJ
+defesa|defesa|NOUN
+partidária|partidário|ADJ
+.|.|PUNCT
+# Os angolanos precisam de continuar a acreditar, numa mudança efectiva, por nada ser eterno, mais a mais quando o Papa Francisco nos recordou, no 22 de Dezembro de 2014, estar o cemitério cheio de gente que se julgava insubstituível.
+Os|o|DET
+angolanos|angolano|NOUN
+precisam|precisar|VERB
+de|de|SCONJ
+continuar|continuar|VERB
+a|a|SCONJ
+acreditar|acreditar|VERB
+,|,|PUNCT
+numa|em um|ADP
+mudança|mudança|NOUN
+efectiva|efectivo|ADJ
+,|,|PUNCT
+por|por|ADP
+nada|nada|PRON
+ser|ser|AUX
+eterno|eterno|ADJ
+,|,|PUNCT
+mais|mais|ADV
+a|a|ADP
+mais|mais|ADV
+quando|quando|ADV
+o|o|DET
+Papa Francisco|Papa Francisco|PROPN
+nos|nós|PRON
+recordou|recordar|VERB
+,|,|PUNCT
+no|em o|ADP
+22 de Dezembro de 2014|22 de dezembro de 2014|NUM
+,|,|PUNCT
+estar|estar|AUX
+o|o|DET
+cemitério|cemitério|NOUN
+cheio|cheio|ADJ
+de|de|ADP
+gente|gente|NOUN
+que|que|PRON
+se|se|PRON
+julgava|julgar|VERB
+insubstituível|insubstituível|ADJ
+.|.|PUNCT
+# A mensagem é clara e directa.
+A|o|DET
+mensagem|mensagem|NOUN
+é|ser|AUX
+clara|claro|ADJ
+e|e|CCONJ
+directa|directo|ADJ
+.|.|PUNCT
+# É para isso que lutamos, por um país melhor e uma democracia real.
+É|é|SCONJ
+para|para|ADP
+isso|isso|PRON
+que|que|PRON
+lutamos|lutar|VERB
+,|,|PUNCT
+por|por|ADP
+um|um|DET
+país|país|NOUN
+melhor|bom|ADJ
+e|e|CCONJ
+uma|um|DET
+democracia|democracia|NOUN
+real|real|ADJ
+.|.|PUNCT
+# E temos de acreditar que com perseverança isto será possível.
+E|e|CCONJ
+temos|ter|VERB
+de|de|SCONJ
+acreditar|acreditar|VERB
+que|que|SCONJ
+com|com|ADP
+perseverança|perseverança|NOUN
+isto|isto|PRON
+será|ser|AUX
+possível|possível|ADJ
+.|.|PUNCT
+# Que a crença em Jesus Cristo, seja a luz para chegarmos ao Pai, que abrirá a nova aurora em Angola, dando um fim â corrupção, julgando os corruptos, devolvendo a justiça e a esperança de construirmos um país melhor para todos os povos.
+Que|que|SCONJ
+a|o|DET
+crença|crença|NOUN
+em|em|ADP
+Jesus Cristo|Jesus Cristo|PROPN
+,|,|PUNCT
+seja|ser|VERB
+a|o|DET
+luz|luz|NOUN
+para|para|SCONJ
+chegarmos|chegar|VERB
+ao|a o|ADP
+Pai|Pai|PROPN
+,|,|PUNCT
+que|que|PRON
+abrirá|abrir|VERB
+a|o|DET
+nova|novo|ADJ
+aurora|aurora|NOUN
+em|em|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+dando|dar|VERB
+um|um|DET
+fim|fim|NOUN
+â|â|NUM
+corrupção|corrupção|NOUN
+,|,|PUNCT
+julgando|julgar|VERB
+os|o|DET
+corruptos|corrupto|NOUN
+,|,|PUNCT
+devolvendo|devolver|VERB
+a|o|DET
+justiça|justiça|NOUN
+e|e|CCONJ
+a|o|DET
+esperança|esperança|NOUN
+de|de|SCONJ
+construirmos|construir|VERB
+um|um|DET
+país|país|NOUN
+melhor|bom|ADJ
+para|para|ADP
+todos|todo|DET
+os|o|DET
+povos|povo|NOUN
+.|.|PUNCT
+# Ainda que este regime, que cada dia me envergonha mais, me assassine, em 2015, eu acredito que um dia o povo vai correr com esta baderna!
+Ainda|ainda|ADV
+que|que|SCONJ
+este|este|DET
+regime|regime|NOUN
+,|,|PUNCT
+que|que|PRON
+cada|cada|DET
+dia|dia|NOUN
+me|eu|PRON
+envergonha|envergonhar|VERB
+mais|mais|ADV
+,|,|PUNCT
+me|eu|PRON
+assassine|assassine|VERB
+,|,|PUNCT
+em|em|ADP
+2015|2015|NUM
+,|,|PUNCT
+eu|eu|PRON
+acredito|acreditar|VERB
+que|que|SCONJ
+um|um|NUM
+dia|dia|NOUN
+o|o|DET
+povo|povo|NOUN
+vai|ir|AUX
+correr|correr|VERB
+com|com|ADP
+esta|este|DET
+baderna|baderna|NOUN
+!|!|PUNCT
+# 2015?
+2015|2015|NUM
+?|?|PUNCT
+# Como sempre, ano mau para a maioria dos angolanos - Folha 8
+Como|como|ADP
+sempre|sempre|ADV
+,|,|PUNCT
+ano|ano|NOUN
+mau|mau|ADJ
+para|para|ADP
+a|o|DET
+maioria|maioria|NOUN
+dos|de o|ADP
+angolanos|angolano|NOUN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# A responsável por Angola no gabinete de estudos do BPI considera que 2015 “vai ser um ano mau” para Angola, antecipando que a manutenção dos preços baixos do petróleo “vai afectar de maneira bastante drástica as contas” do Estado.
+A|o|DET
+responsável|responsável|NOUN
+por|por|ADP
+Angola|Angola|PROPN
+no|em o|ADP
+gabinete|gabinete|NOUN
+de|de|ADP
+estudos|estudo|NOUN
+do|de o|ADP
+BPI|BPI|PROPN
+considera|considerar|VERB
+que|que|SCONJ
+2015|2015|NUM
+“|“|PUNCT
+vai|ir|AUX
+ser|ser|AUX
+um|um|DET
+ano|ano|NOUN
+mau|mau|ADJ
+”|”|PUNCT
+para|para|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+antecipando|antecipar|VERB
+que|que|SCONJ
+a|o|DET
+manutenção|manutenção|NOUN
+dos|de o|ADP
+preços|preço|NOUN
+baixos|baixo|ADJ
+do|de o|ADP
+petróleo|petróleo|NOUN
+“|“|PUNCT
+vai|ir|AUX
+afectar|afectar|VERB
+de|de|ADP
+maneira|maneira|NOUN
+bastante|bastante|ADV
+drástica|drástico|ADJ
+as|o|DET
+contas|conta|NOUN
+”|”|PUNCT
+do|de o|ADP
+Estado|estado|NOUN
+.|.|PUNCT
+# P or outras palavras,
+P|p|NOUN
+or|or|PROPN
+outras|outro|DET
+palavras|palavra|NOUN
+,|,|PUNCT
+# será com certeza um ano mau para a maioria dos angolanos que, mesmo nos tempos de vacas (muito) gordas, ficaram sempre esqueléticos.
+será|ser|AUX
+com|com|ADP
+certeza|certeza|NOUN
+um|um|NUM
+ano|ano|NOUN
+mau|mau|ADJ
+para|para|ADP
+a|o|DET
+maioria|maioria|NOUN
+dos|de o|ADP
+angolanos|angolano|NOUN
+que|que|PRON
+,|,|PUNCT
+mesmo|mesmo|ADV
+nos|em o|ADP
+tempos|tempo|NOUN
+de|de|ADP
+vacas|vaca|NOUN
+(|(|PUNCT
+muito|muito|ADV
+)|)|PUNCT
+gordas|gorda|NOUN
+,|,|PUNCT
+ficaram|ficar|VERB
+sempre|sempre|ADV
+esqueléticos|esquelético|ADJ
+.|.|PUNCT
+# Para os donos dos angolanos, que comandam o reino, a diferença não vai ser perceptível.
+Para|para|ADP
+os|o|DET
+donos|dono|NOUN
+dos|de o|ADP
+angolanos|angolano|NOUN
+,|,|PUNCT
+que|que|PRON
+comandam|comandar|VERB
+o|o|DET
+reino|reino|NOUN
+,|,|PUNCT
+a|o|DET
+diferença|diferença|NOUN
+não|não|ADV
+vai|ir|AUX
+ser|ser|AUX
+perceptível|perceptível|ADJ
+.|.|PUNCT
+# “2015 vai ser um ano mau para Angola, mas a grande questão é saber até que ponto o actual preço do petróleo vai manter-se ou não”, diz Luísa Felino, em declarações à Lusa, acrescentando que “se os preços se mantiverem, isso vai afectar de maneira bastante drástica as contas públicas e as contas externas”.
+“|“|PUNCT
+2015|2015|NUM
+vai|ir|AUX
+ser|ser|AUX
+um|um|DET
+ano|ano|NOUN
+mau|mau|ADJ
+para|para|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+mas|mas|CCONJ
+a|o|DET
+grande|grande|ADJ
+questão|questão|NOUN
+é|ser|AUX
+saber|saber|VERB
+até|até|SCONJ
+que|que|SCONJ
+ponto|ponto|NOUN
+o|o|DET
+actual|actual|ADJ
+preço|preço|NOUN
+do|de o|ADP
+petróleo|petróleo|NOUN
+vai|ir|AUX
+manter-se|manter se|VERB
+ou|ou|CCONJ
+não|não|ADV
+”|”|PUNCT
+,|,|PUNCT
+diz|dizer|VERB
+Luísa Felino|Luísa Felino|PROPN
+,|,|PUNCT
+em|em|ADP
+declarações|declaração|NOUN
+à|a o|ADP
+Lusa|Lusa|PROPN
+,|,|PUNCT
+acrescentando|acrescentar|VERB
+que|que|SCONJ
+“|“|PUNCT
+se|se|SCONJ
+os|o|DET
+preços|preço|NOUN
+se|se|PRON
+mantiverem|mantiver|VERB
+,|,|PUNCT
+isso|isso|PRON
+vai|ir|AUX
+afectar|afectar|VERB
+de|de|ADP
+maneira|maneira|NOUN
+bastante|bastante|ADV
+drástica|drástico|ADJ
+as|o|DET
+contas|conta|NOUN
+públicas|público|ADJ
+e|e|CCONJ
+as|o|DET
+contas|conta|NOUN
+externas|externo|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# Para a economista que acompanha a economia de Angola no gabinete de estudos económicos e financeiros do banco português BPI, “2015 deverá ser um ano mau para Angola”, não só pela queda dos preços do petróleo, que desceram cerca de 40% desde Junho, e a consequente influência nas contas públicas e na economia, mas também porque a vontade de não deixar derrapar o défice pode atrasar os investimentos necessários para diversificar a economia e garantir as infra-estruturas.
+Para|para|ADP
+a|o|DET
+economista|economista|NOUN
+que|que|PRON
+acompanha|acompanhar|VERB
+a|o|DET
+economia|economia|NOUN
+de|de|ADP
+Angola|Angola|PROPN
+no|em o|ADP
+gabinete|gabinete|NOUN
+de|de|ADP
+estudos|estudo|NOUN
+económicos|económico|ADJ
+e|e|CCONJ
+financeiros|financeiro|NOUN
+do|de o|ADP
+banco|banco|NOUN
+português|português|ADJ
+BPI|BPI|PROPN
+,|,|PUNCT
+“|“|PUNCT
+2015|2015|NUM
+deverá|dever|VERB
+ser|ser|AUX
+um|um|DET
+ano|ano|NOUN
+mau|mau|ADJ
+para|para|ADP
+Angola|Angola|PROPN
+”|”|PUNCT
+,|,|PUNCT
+não|não|ADV
+só|só|ADV
+pela|por o|ADP
+queda|queda|NOUN
+dos|de o|ADP
+preços|preço|NOUN
+do|de o|ADP
+petróleo|petróleo|NOUN
+,|,|PUNCT
+que|que|PRON
+desceram|descer|VERB
+cerca|cerca|ADV
+de|de|ADP
+40|40|NUM
+%|%|SYM
+desde|desde|ADP
+Junho|junho|NOUN
+,|,|PUNCT
+e|e|CCONJ
+a|o|DET
+consequente|consequente|ADJ
+influência|influência|NOUN
+nas|em o|ADP
+contas|conta|NOUN
+públicas|público|ADJ
+e|e|CCONJ
+na|em o|ADP
+economia|economia|NOUN
+,|,|PUNCT
+mas|mas|CCONJ
+também|também|ADV
+porque|porque|SCONJ
+a|o|DET
+vontade|vontade|NOUN
+de|de|SCONJ
+não|não|ADV
+deixar|deixar|VERB
+derrapar|derrapar|VERB
+o|o|DET
+défice|défice|NOUN
+pode|poder|VERB
+atrasar|atrasar|VERB
+os|o|DET
+investimentos|investimento|NOUN
+necessários|necessário|ADJ
+para|para|SCONJ
+diversificar|diversificar|VERB
+a|o|DET
+economia|economia|NOUN
+e|e|CCONJ
+garantir|garantir|VERB
+as|o|DET
+infra-estruturas|infra-estrutura|NOUN
+.|.|PUNCT
+# “O défice previsto para 2015 está nos 7,6%, mas a verdade é que os défices que Angola executa são sempre melhores do que aquilo que o Governo projecta, porque não conseguem fazer a despesa prevista”, explicou a analista, argumentando que o que falta em capacidade técnica sobra em cautela do Governo, que trava nos investimentos do Estado assim que as contas públicas ficam pressionadas.
+“|“|PUNCT
+O|o|DET
+défice|défice|NOUN
+previsto|prever|VERB
+para|para|ADP
+2015|2015|NUM
+está|estar|AUX
+nos|em o|ADP
+7,6|7,6|NUM
+%|%|SYM
+,|,|PUNCT
+mas|mas|CCONJ
+a|o|DET
+verdade|verdade|NOUN
+é|ser|VERB
+que|que|SCONJ
+os|o|DET
+défices|défice|NOUN
+que|que|PRON
+Angola|Angola|PROPN
+executa|executar|VERB
+são|ser|AUX
+sempre|sempre|ADV
+melhores|bom|ADJ
+do|de o|ADP
+que|que|PRON
+aquilo|aquilo|PRON
+que|que|PRON
+o|o|DET
+Governo|Governo|PROPN
+projecta|projectar|VERB
+,|,|PUNCT
+porque|porque|SCONJ
+não|não|ADV
+conseguem|conseguir|VERB
+fazer|fazer|VERB
+a|o|DET
+despesa|despesa|NOUN
+prevista|previsto|VERB
+”|”|PUNCT
+,|,|PUNCT
+explicou|explicar|VERB
+a|o|DET
+analista|analista|NOUN
+,|,|PUNCT
+argumentando|argumentar|VERB
+que|que|SCONJ
+o|o|PRON
+que|que|PRON
+falta|faltar|VERB
+em|em|ADP
+capacidade|capacidade|NOUN
+técnica|técnico|ADJ
+sobra|sobrar|VERB
+em|em|ADP
+cautela|cautela|NOUN
+do|de o|ADP
+Governo|Governo|PROPN
+,|,|PUNCT
+que|que|PRON
+trava|travar|VERB
+nos|em o|ADP
+investimentos|investimento|NOUN
+do|de o|ADP
+Estado|estado|NOUN
+assim|assim|ADV
+que|que|SCONJ
+as|o|DET
+contas|conta|NOUN
+públicas|público|ADJ
+ficam|ficar|VERB
+pressionadas|pressionar|VERB
+.|.|PUNCT
+# “Os projectos públicos nunca são executados na medida em que são projectados, não só porque o Governo tem medo que isso afecte as contas públicas, mas também porque há dificuldades de execução, atrasos institucionais e falta de capacidade técnica”, pormenorizou Luísa Felino, assinando por baixo da generalidade das análises internacionais relativamente aos constrangimentos de Angola no que diz respeito à qualificação da mão-de-obra e às dificuldades institucionais em fazer cumprir no terreno o que foi acordado no papel.
+“|“|PUNCT
+Os|o|DET
+projectos|projecto|NOUN
+públicos|público|ADJ
+nunca|nunca|ADV
+são|ser|AUX
+executados|executar|VERB
+na|em o|ADP
+medida|medida|NOUN
+em|em|ADP
+que|que|PRON
+são|ser|AUX
+projectados|projectar|VERB
+,|,|PUNCT
+não|não|ADV
+só|só|ADV
+porque|porque|SCONJ
+o|o|DET
+Governo|Governo|PROPN
+tem|ter|VERB
+medo|medo|NOUN
+que|que|SCONJ
+isso|isso|PRON
+afecte|afectar|VERB
+as|o|DET
+contas|conta|NOUN
+públicas|público|ADJ
+,|,|PUNCT
+mas|mas|CCONJ
+também|também|ADV
+porque|porque|SCONJ
+há|haver|VERB
+dificuldades|dificuldade|NOUN
+de|de|ADP
+execução|execução|NOUN
+,|,|PUNCT
+atrasos|atraso|NOUN
+institucionais|institucional|ADJ
+e|e|CCONJ
+falta|falta|NOUN
+de|de|ADP
+capacidade|capacidade|NOUN
+técnica|técnico|ADJ
+”|”|PUNCT
+,|,|PUNCT
+pormenorizou|pormenorizar|VERB
+Luísa Felino|Luísa Felino|PROPN
+,|,|PUNCT
+assinando|assinar|VERB
+por|por|ADP
+baixo|baixo|NOUN
+da|de o|ADP
+generalidade|generalidade|NOUN
+das|de o|ADP
+análises|análise|NOUN
+internacionais|internacional|ADJ
+relativamente|relativamente|ADV
+aos|a o|ADP
+constrangimentos|constrangimento|NOUN
+de|de|ADP
+Angola|Angola|PROPN
+no|em o|SCONJ
+que|que|PRON
+diz|dizer|VERB
+respeito|respeito|NOUN
+à|a o|ADP
+qualificação|qualificação|NOUN
+da|de o|ADP
+mão-de-obra|mão-de-obra|NOUN
+e|e|CCONJ
+às|a o|ADP
+dificuldades|dificuldade|NOUN
+institucionais|institucional|ADJ
+em|em|SCONJ
+fazer|fazer|VERB
+cumprir|cumprir|VERB
+no|em o|ADP
+terreno|terreno|NOUN
+o|o|PRON
+que|que|PRON
+foi|ser|AUX
+acordado|acordar|VERB
+no|em o|ADP
+papel|papel|NOUN
+.|.|PUNCT
+# “O défice não ficará muito acima dos 7,6%, mas mesmo assim já é um valor considerável”, disse, explicando que não espera que o Governo “deixe as contas públicas derrapar muito, até porque tem fundos suficientes para conseguir aguentar este ano”.
+“|“|PUNCT
+O|o|DET
+défice|défice|NOUN
+não|não|ADV
+ficará|ficar|VERB
+muito|muito|ADV
+acima|acima|ADV
+dos|de o|ADP
+7,6|7,6|NUM
+%|%|SYM
+,|,|PUNCT
+mas|mas|CCONJ
+mesmo|mesmo|ADV
+assim|assim|ADV
+já|já|ADV
+é|ser|AUX
+um|um|DET
+valor|valor|NOUN
+considerável|considerável|ADJ
+”|”|PUNCT
+,|,|PUNCT
+disse|dizer|VERB
+,|,|PUNCT
+explicando|explicar|VERB
+que|que|SCONJ
+não|não|ADV
+espera|esperar|VERB
+que|que|SCONJ
+o|o|DET
+Governo|Governo|PROPN
+“|“|PUNCT
+deixe|deixar|VERB
+as|o|DET
+contas|conta|NOUN
+públicas|público|ADJ
+derrapar|derrapar|VERB
+muito|muito|ADV
+,|,|PUNCT
+até|até|ADV
+porque|porque|SCONJ
+tem|ter|VERB
+fundos|fundo|NOUN
+suficientes|suficiente|ADJ
+para|para|SCONJ
+conseguir|conseguir|VERB
+aguentar|aguentar|VERB
+este|este|DET
+ano|ano|NOUN
+”|”|PUNCT
+.|.|PUNCT
+# Comparando com a crise de 2008, a analista argumentou que o panorama agora é diferente:
+Comparando|comparar|VERB
+com|com|ADP
+a|o|DET
+crise|crise|NOUN
+de|de|ADP
+2008|2008|NUM
+,|,|PUNCT
+a|o|DET
+analista|analista|NOUN
+argumentou|argumentar|VERB
+que|que|SCONJ
+o|o|DET
+panorama|panorama|NOUN
+agora|agora|ADV
+é|ser|AUX
+diferente|diferente|ADJ
+:|:|PUNCT
+# “Angola está muito mais bem preparada, apesar de terem de ter cautela relativamente aos gastos”, mas ainda assim “é importante que os investimentos continuem a ir para a frente, mesmo que a um ritmo mais lento do que se tivessem políticas mais agressivas de investimentos públicos”.
+“|“|PUNCT
+Angola|Angola|PROPN
+está|estar|AUX
+muito|muito|ADV
+mais|mais|ADV
+bem|bem|ADV
+preparada|preparado|ADJ
+,|,|PUNCT
+apesar|apesar|ADV
+de|de|ADP
+terem|ter|VERB
+de|de|SCONJ
+ter|ter|VERB
+cautela|cautela|NOUN
+relativamente|relativamente|ADV
+aos|a o|ADP
+gastos|gasto|NOUN
+”|”|PUNCT
+,|,|PUNCT
+mas|mas|CCONJ
+ainda|ainda|ADV
+assim|assim|ADV
+“|“|PUNCT
+é|ser|AUX
+importante|importante|ADJ
+que|que|SCONJ
+os|o|DET
+investimentos|investimento|NOUN
+continuem|continuar|VERB
+a|a|SCONJ
+ir|ir|VERB
+para|para|ADP
+a|o|DET
+frente|frente|NOUN
+,|,|PUNCT
+mesmo|mesmo|ADV
+que|que|SCONJ
+a|a|ADP
+um|um|DET
+ritmo|ritmo|NOUN
+mais|mais|ADV
+lento|lento|ADJ
+do|de o|ADP
+que|que|PRON
+se|se|PRON
+tivessem|ter|VERB
+políticas|política|NOUN
+mais|mais|ADV
+agressivas|agressivo|ADJ
+de|de|ADP
+investimentos|investimento|NOUN
+públicos|público|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# 2015
+2015|2015|NUM
+# será um ano difícil, diz o Presidente.
+será|ser|AUX
+um|um|NUM
+ano|ano|NOUN
+difícil|difícil|ADJ
+,|,|PUNCT
+diz|dizer|VERB
+o|o|DET
+Presidente|presidente|NOUN
+.|.|PUNCT
+# Igual aos outros, acrescenta o Povo - Folha 8
+Igual|igual|ADJ
+aos|a o|ADP
+outros|outro|PRON
+,|,|PUNCT
+acrescenta|acrescentar|VERB
+o|o|DET
+Povo - Folha 8|Povo - Folha 8|NOUN
+# A baixa no preço do barril de petróleo, verificada desde Junho, está a levar o Executivo de Eduardo dos Santos a traçar estratégias para contornar as dificuldades desencadeadas.
+A|o|DET
+baixa|baixa|NOUN
+no|em o|ADP
+preço|preço|NOUN
+do|de o|ADP
+barril|barril|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+,|,|PUNCT
+verificada|verificar|VERB
+desde|desde|ADP
+Junho|junho|NOUN
+,|,|PUNCT
+está|estar|VERB
+a|a|SCONJ
+levar|levar|VERB
+o|o|DET
+Executivo|executivo|NOUN
+de|de|ADP
+Eduardo dos Santos|Eduardo de o Santos|PROPN
+a|a|SCONJ
+traçar|traçar|VERB
+estratégias|estratégia|NOUN
+para|para|SCONJ
+contornar|contornar|VERB
+as|o|DET
+dificuldades|dificuldade|NOUN
+desencadeadas|desencadear|VERB
+.|.|PUNCT
+# Ou seja, com o preço do petróleo em alta ou em baixa, serão sempre os mais pobres a pagar a factura.
+Ou|ou|CCONJ
+seja|ser|VERB
+,|,|PUNCT
+com|com|ADP
+o|o|DET
+preço|preço|NOUN
+do|de o|ADP
+petróleo|petróleo|NOUN
+em|em|ADP
+alta|alta|NOUN
+ou|ou|CCONJ
+em|em|ADP
+baixa|baixa|NOUN
+,|,|PUNCT
+serão|ser|AUX
+sempre|sempre|ADV
+os|o|DET
+mais|mais|ADV
+pobres|pobre|NOUN
+a|a|SCONJ
+pagar|pagar|VERB
+a|o|DET
+factura|factura|NOUN
+.|.|PUNCT
+# O Presidente Eduardo dos Santos perspectivou para 2015, com uma originalidade quase divina, um ano difícil no plano económico, motivado pela “queda significativa do preço do petróleo bruto”, o que vai levar à redução de algumas despesas públicas.
+O|o|DET
+Presidente Eduardo dos Santos|presidente Eduardo de o Santos|PROPN
+perspectivou|perspectivar|VERB
+para|para|ADP
+2015|2015|NUM
+,|,|PUNCT
+com|com|ADP
+uma|um|DET
+originalidade|originalidade|NOUN
+quase|quase|ADV
+divina|divino|ADJ
+,|,|PUNCT
+um|um|NUM
+ano|ano|NOUN
+difícil|difícil|ADJ
+no|em o|ADP
+plano|plano|NOUN
+económico|económico|ADJ
+,|,|PUNCT
+motivado|motivar|VERB
+pela|por o|ADP
+“|“|PUNCT
+queda|queda|NOUN
+significativa|significativo|ADJ
+do|de o|ADP
+preço|preço|NOUN
+do|de o|ADP
+petróleo|petróleo|NOUN
+bruto|bruto|ADJ
+”|”|PUNCT
+,|,|PUNCT
+o|o|PRON
+que|que|PRON
+vai|ir|AUX
+levar|levar|VERB
+à|a o|ADP
+redução|redução|NOUN
+de|de|ADP
+algumas|algum|DET
+despesas|despesa|NOUN
+públicas|público|ADJ
+.|.|PUNCT
+# O “querido líder”, que dirigiu nesta segunda-feira uma mensagem de ano novo à Nação, apontou o corte dos subsídios aos preços de combustíveis, como uma das reduções necessárias para o próximo ano.
+O|o|DET
+“|“|PUNCT
+querido|querido|ADJ
+líder|líder|NOUN
+”|”|PUNCT
+,|,|PUNCT
+que|que|PRON
+dirigiu|dirigir|VERB
+nesta|em este|ADP
+segunda-feira|segunda-feira|NOUN
+uma|um|DET
+mensagem|mensagem|NOUN
+de|de|ADP
+ano|ano|NOUN
+novo|novo|ADJ
+à|a o|ADP
+Nação|Nação|NOUN
+,|,|PUNCT
+apontou|apontar|VERB
+o|o|DET
+corte|corte|NOUN
+dos|de o|ADP
+subsídios|subsídio|NOUN
+aos|a o|ADP
+preços|preço|NOUN
+de|de|ADP
+combustíveis|combustível|NOUN
+,|,|PUNCT
+como|como|ADP
+uma|um|NUM
+das|de o|ADP
+reduções|redução|NOUN
+necessárias|necessário|ADJ
+para|para|ADP
+o|o|DET
+próximo|próximo|ADJ
+ano|ano|NOUN
+.|.|PUNCT
+# “Há projectos que serão adiados e vão ser reforçados o controlo das despesas do Estado e a disciplina e parcimónia na gestão orçamental e financeira, para que se mantenha a estabilidade”, disse o Presidente que está no poder há 35 anos, sublinhando que as dificuldades financeiras não vão interferir na política de combate à pobreza.
+“|“|PUNCT
+Há|haver|VERB
+projectos|projecto|NOUN
+que|que|PRON
+serão|ser|AUX
+adiados|adiar|VERB
+e|e|CCONJ
+vão|ir|AUX
+ser|ser|AUX
+reforçados|reforçar|VERB
+o|o|DET
+controlo|controlo|NOUN
+das|de o|ADP
+despesas|despesa|NOUN
+do|de o|ADP
+Estado|estado|NOUN
+e|e|CCONJ
+a|o|DET
+disciplina|disciplina|NOUN
+e|e|CCONJ
+parcimónia|parcimónia|NOUN
+na|em o|ADP
+gestão|gestão|NOUN
+orçamental|orçamental|ADJ
+e|e|CCONJ
+financeira|financeiro|ADJ
+,|,|PUNCT
+para|para|SCONJ
+que|que|SCONJ
+se|se|PRON
+mantenha|manter|VERB
+a|o|DET
+estabilidade|estabilidade|NOUN
+”|”|PUNCT
+,|,|PUNCT
+disse|dizer|VERB
+o|o|DET
+Presidente|presidente|NOUN
+que|que|PRON
+está|estar|AUX
+no|em o|ADP
+poder|poder|NOUN
+há|haver|VERB
+35|35|NUM
+anos|ano|NOUN
+,|,|PUNCT
+sublinhando|sublinhar|VERB
+que|que|SCONJ
+as|o|DET
+dificuldades|dificuldade|NOUN
+financeiras|financeiro|ADJ
+não|não|ADV
+vão|ir|AUX
+interferir|interferir|VERB
+na|em o|ADP
+política|política|NOUN
+de|de|ADP
+combate|combate|NOUN
+à|a o|ADP
+pobreza|pobreza|NOUN
+.|.|PUNCT
+# Habituados a (com)viver com a mentira institucional, os angolanos sabem por dura experiência própria que o combate à pobreza continuará a ser um slogan, ao mesmo tempo que vão aparecer mais uns tantos multimilionários da safra presidencial.
+Habituados|Habituar|VERB
+a|a|ADP
+(|(|PUNCT
+com)viver|Com)viver|VERB
+com|com|ADP
+a|o|DET
+mentira|mentira|NOUN
+institucional|institucional|ADJ
+,|,|PUNCT
+os|o|DET
+angolanos|angolano|NOUN
+sabem|saber|VERB
+por|por|ADP
+dura|duro|ADJ
+experiência|experiência|NOUN
+própria|próprio|ADJ
+que|que|PRON
+o|o|DET
+combate|combate|NOUN
+à|a o|ADP
+pobreza|pobreza|NOUN
+continuará|continuar|VERB
+a|a|SCONJ
+ser|ser|AUX
+um|um|DET
+slogan|slogan|NOUN
+,|,|PUNCT
+ao|a o|ADP
+mesmo|mesmo|ADJ
+tempo|tempo|NOUN
+que|que|SCONJ
+vão|ir|AUX
+aparecer|aparecer|VERB
+mais|mais|ADV
+uns|um|DET
+tantos|tanto|DET
+multimilionários|multimilionário|NOUN
+da|de o|ADP
+safra|safra|NOUN
+presidencial|presidencial|ADJ
+.|.|PUNCT
+# Angola é o segundo maior produtor de petróleo da África subsaariana, depois da Nigéria, e tem – como sempre teve – uma economia fortemente dependente das receitas arrecadas com a exportação petrolífera.
+Angola|Angola|PROPN
+é|ser|AUX
+o|o|DET
+segundo|segundo|ADJ
+maior|grande|ADJ
+produtor|produtor|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+da|de o|ADP
+África|África|PROPN
+subsaariana|subsaariano|ADJ
+,|,|PUNCT
+depois|depois|ADV
+da|de o|ADP
+Nigéria|Nigéria|PROPN
+,|,|PUNCT
+e|e|CCONJ
+tem|ter|VERB
+–|–|PUNCT
+como|como|ADV
+sempre|sempre|ADV
+teve|ter|VERB
+–|–|PUNCT
+uma|um|DET
+economia|economia|NOUN
+fortemente|fortemente|ADV
+dependente|dependente|ADJ
+das|de o|ADP
+receitas|receita|NOUN
+arrecadas|arrecar|VERB
+com|com|ADP
+a|o|DET
+exportação|exportação|NOUN
+petrolífera|petrolífero|ADJ
+.|.|PUNCT
+# A baixa no preço do barril de petróleo, verificada desde Junho, está a levar o Executivo angolano a traçar estratégias de contorno ao actual momento.
+A|o|DET
+baixa|baixa|NOUN
+no|em o|ADP
+preço|preço|NOUN
+do|de o|ADP
+barril|barril|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+,|,|PUNCT
+verificada|verificar|VERB
+desde|desde|ADP
+Junho|junho|NOUN
+,|,|PUNCT
+está|estar|VERB
+a|a|SCONJ
+levar|levar|VERB
+o|o|DET
+Executivo|executivo|NOUN
+angolano|angolano|ADJ
+a|a|SCONJ
+traçar|traçar|VERB
+estratégias|estratégia|NOUN
+de|de|ADP
+contorno|contorno|NOUN
+ao|a o|ADP
+actual|actual|ADJ
+momento|momento|NOUN
+.|.|PUNCT
+# O corte nos subsídios aos combustíveis em 2015, é uma delas, prevendo o Governo angolano poupar mais de 870 milhões de euros com essa medida.
+O|o|DET
+corte|corte|NOUN
+nos|em o|ADP
+subsídios|subsídio|NOUN
+aos|a o|ADP
+combustíveis|combustível|NOUN
+em|em|ADP
+2015|2015|NUM
+,|,|PUNCT
+é|ser|AUX
+uma|um|NUM
+delas|de ele|PRON
+,|,|PUNCT
+prevendo|prever|VERB
+o|o|DET
+Governo|Governo|PROPN
+angolano|angolano|ADJ
+poupar|poupar|VERB
+mais|mais|ADV
+de|de|ADP
+870|870|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+com|com|ADP
+essa|esse|DET
+medida|medida|NOUN
+.|.|PUNCT
+# Com esta medida, que consta do Orçamento Geral do Estado (OGE) de 2015, o Governo prevê para o próximo ano “uma redução de cerca de 109,2 biliões de kwanzas (mais de 870 milhões de euros) nos gastos com subsídios aos combustíveis”, para a mesma quantidade de consumo de 2014.
+Com|com|ADP
+esta|este|DET
+medida|medida|NOUN
+,|,|PUNCT
+que|que|PRON
+consta|constar|VERB
+do|de o|ADP
+Orçamento Geral do Estado|Orçamento Geral de o Estado|PROPN
+(|(|PUNCT
+OGE|OGE|PROPN
+)|)|PUNCT
+de|de|ADP
+2015|2015|NUM
+,|,|PUNCT
+o|o|DET
+Governo|Governo|PROPN
+prevê|prever|VERB
+para|para|ADP
+o|o|DET
+próximo|próximo|ADJ
+ano|ano|NOUN
+“|“|PUNCT
+uma|um|DET
+redução|redução|NOUN
+de|de|ADP
+cerca|cerca|ADV
+de|de|ADP
+109,2|109,2|NUM
+biliões|bilião|NOUN
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+mais|mais|ADV
+de|de|ADP
+870|870|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+nos|em o|ADP
+gastos|gasto|NOUN
+com|com|ADP
+subsídios|subsídio|NOUN
+aos|a o|ADP
+combustíveis|combustível|NOUN
+”|”|PUNCT
+,|,|PUNCT
+para|para|ADP
+a|o|DET
+mesma|mesmo|ADJ
+quantidade|quantidade|NOUN
+de|de|ADP
+consumo|consumo|NOUN
+de|de|ADP
+2014|2014|NUM
+.|.|PUNCT
+# Depois de um último ajustamento ao preço dos combustíveis, em Setembro passado, com um aumento médio de 25% ao consumidor no gasóleo e gasolina, na quarta-feira passada, registou-se a um novo reajustamento de 20% nos preços dos mesmos tipos de combustíveis.
+Depois|depois|ADV
+de|de|ADP
+um|um|DET
+último|último|ADJ
+ajustamento|ajustamento|NOUN
+ao|a o|ADP
+preço|preço|NOUN
+dos|de o|ADP
+combustíveis|combustível|NOUN
+,|,|PUNCT
+em|em|ADP
+Setembro|setembro|NOUN
+passado|passado|ADJ
+,|,|PUNCT
+com|com|ADP
+um|um|DET
+aumento|aumento|NOUN
+médio|médio|ADJ
+de|de|ADP
+25|25|NUM
+%|%|SYM
+ao|a o|ADP
+consumidor|consumidor|NOUN
+no|em o|ADP
+gasóleo|gasóleo|NOUN
+e|e|CCONJ
+gasolina|gasolina|NOUN
+,|,|PUNCT
+na|em o|ADP
+quarta-feira|quarta-feira|NOUN
+passada|passado|ADJ
+,|,|PUNCT
+registou-se|registar se|VERB
+a|a|ADP
+um|um|DET
+novo|novo|ADJ
+reajustamento|reajustamento|NOUN
+de|de|ADP
+20|20|NUM
+%|%|SYM
+nos|em o|ADP
+preços|preço|NOUN
+dos|de o|ADP
+mesmos|mesmo|ADJ
+tipos|tipo|NOUN
+de|de|ADP
+combustíveis|combustível|NOUN
+.|.|PUNCT
+# A transportadora aérea angolana TAAG vai contrair um empréstimo de 207 milhões de euros para adquirir duas aeronaves Boeing 777-300ER, de uma encomenda de três, segundo autorização presidencial.
+A|o|DET
+transportadora|transportadora|NOUN
+aérea|aéreo|ADJ
+angolana|angolano|ADJ
+TAAG|TAAG|PROPN
+vai|ir|AUX
+contrair|contrair|VERB
+um|um|DET
+empréstimo|empréstimo|NOUN
+de|de|ADP
+207|207|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+para|para|SCONJ
+adquirir|adquirir|VERB
+duas|dois|NUM
+aeronaves|aeronave|NOUN
+Boeing 777-300ER|Boeing 777-300ER|PROPN
+,|,|PUNCT
+de|de|ADP
+uma|um|DET
+encomenda|encomenda|NOUN
+de|de|ADP
+três|três|NUM
+,|,|PUNCT
+segundo|segundo|ADP
+autorização|autorização|NOUN
+presidencial|presidencial|ADJ
+.|.|PUNCT
+# De acordo com um despacho presidencial de 1 de oOutubro, aquela empresa pública angolana pode agora avançar com este financiamento, para o pagamento antecipado da aquisição das duas aeronaves, com entregues previstas para Dezembro de 2015 e Março de 2016.
+De|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+um|um|DET
+despacho|despacho|NOUN
+presidencial|presidencial|ADJ
+de|de|ADP
+1|1|NUM
+de|de|ADP
+oOutubro|oOutubro|NOUN
+,|,|PUNCT
+aquela|aquele|DET
+empresa|empresa|NOUN
+pública|público|ADJ
+angolana|angolano|ADJ
+pode|poder|VERB
+agora|agora|ADV
+avançar|avançar|VERB
+com|com|ADP
+este|este|DET
+financiamento|financiamento|NOUN
+,|,|PUNCT
+para|para|ADP
+o|o|DET
+pagamento|pagamento|NOUN
+antecipado|antecipar|VERB
+da|de o|ADP
+aquisição|aquisição|NOUN
+das|de o|ADP
+duas|dois|NUM
+aeronaves|aeronave|NOUN
+,|,|PUNCT
+com|com|ADP
+entregues|entregar|VERB
+previstas|prever|VERB
+para|para|ADP
+Dezembro|dezembro|NOUN
+de|de|ADP
+2015|2015|NUM
+e|e|CCONJ
+Março de 2016|março de 2016|NOUN
+.|.|PUNCT
+# Trata-se de um contrato assinado entre a TAAG e a Boeing a 27 de Março de 2012, envolvendo a aquisição de três novos aparelhos, o primeiro dos quais já está ao serviço da companhia  desde Junho último.
+Trata-se|tratar se|VERB
+de|de|ADP
+um|um|DET
+contrato|contrato|NOUN
+assinado|assinar|VERB
+entre|entre|ADP
+a|o|DET
+TAAG|TAAG|PROPN
+e|e|CCONJ
+a|o|DET
+Boeing|Boeing|PROPN
+a|a|ADP
+27|27|NUM
+de|de|ADP
+Março|março|NOUN
+de|de|ADP
+2012|2012|NUM
+,|,|PUNCT
+envolvendo|envolver|VERB
+a|o|DET
+aquisição|aquisição|NOUN
+de|de|ADP
+três|três|NUM
+novos|novo|ADJ
+aparelhos|aparelho|NOUN
+,|,|PUNCT
+o|o|DET
+primeiro|primeiro|ADJ
+dos|de o|ADP
+quais|qual|PRON
+já|já|ADV
+está|estar|AUX
+ao|a o|ADP
+serviço|serviço|NOUN
+da|de o|ADP
+companhia|companhia|NOUN
+ | |SPACE
+desde|desde|ADP
+Junho|junho|NOUN
+último|último|ADJ
+.|.|PUNCT
+# Com este despacho, assinado pelo Presidente  José Eduardo dos Santos, a TAAG é “autorizada” a celebrar acordos de financiamento com o HSBC Bank, Banco de Negócios Internacional, Afrexim Bank e um sindicato de bancos, nos montantes de 130.199.651 e 131.449.151 de dólares.
+Com|com|ADP
+este|este|DET
+despacho|despacho|NOUN
+,|,|PUNCT
+assinado|assinar|VERB
+pelo|por o|ADP
+Presidente|presidente|NOUN
+ | |SPACE
+José Eduardo dos Santos|José Eduardo de o Santos|PROPN
+,|,|PUNCT
+a|o|DET
+TAAG|TAAG|PROPN
+é|ser|AUX
+“|“|PUNCT
+autorizada|autorizar|VERB
+”|”|PUNCT
+a|a|SCONJ
+celebrar|celebrar|VERB
+acordos|acordo|NOUN
+de|de|ADP
+financiamento|financiamento|NOUN
+com|com|ADP
+o|o|DET
+HSBC Bank|HSBC Bank|PROPN
+,|,|PUNCT
+Banco de Negócios Internacional|Banco de Negócios Internacional|PROPN
+,|,|PUNCT
+Afrexim Bank|Afrexim Bank|PROPN
+e|e|CCONJ
+um|um|DET
+sindicato|sindicato|NOUN
+de|de|ADP
+bancos|banco|NOUN
+,|,|PUNCT
+nos|em o|ADP
+montantes|montante|NOUN
+de|de|ADP
+130.199.651|130.199.651|NUM
+e|e|CCONJ
+131.449.151|131.449.151|NUM
+de|de|ADP
+dólares|dólar|NOUN
+.|.|PUNCT
+# Estes valores, o equivalente a 207,2 milhões de euros, “destinam-se ao pagamento antecipado” da aquisição das duas aeronaves ao fabricante norte-americano, lê-se no mesmo despacho.
+Estes|este|DET
+valores|valor|NOUN
+,|,|PUNCT
+o|o|DET
+equivalente|equivalente|NOUN
+a|a|ADP
+207,2|207,2|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+,|,|PUNCT
+“|“|PUNCT
+destinam-se|destinar se|VERB
+ao|a o|ADP
+pagamento|pagamento|NOUN
+antecipado|antecipado|ADJ
+”|”|PUNCT
+da|de o|ADP
+aquisição|aquisição|NOUN
+das|de o|ADP
+duas|dois|NUM
+aeronaves|aeronave|NOUN
+ao|a o|ADP
+fabricante|fabricante|NOUN
+norte-americano|norte-americano|ADJ
+,|,|PUNCT
+lê-se|lê-se|VERB
+no|em o|ADP
+mesmo|mesmo|ADJ
+despacho|despacho|NOUN
+.|.|PUNCT
+# Estas aeronaves têm capacidade para transportar 225 passageiros em classe económica, 56 em executiva e 12 em primeira classe, possibilitando o acesso a telemóvel e internet a bordo.
+Estas|este|DET
+aeronaves|aeronave|NOUN
+têm|ter|VERB
+capacidade|capacidade|NOUN
+para|para|SCONJ
+transportar|transportar|VERB
+225|225|NUM
+passageiros|passageiro|NOUN
+em|em|ADP
+classe|classe|NOUN
+económica|económico|ADJ
+,|,|PUNCT
+56|56|NUM
+em|em|ADP
+executiva|executiva|NOUN
+e|e|CCONJ
+12|12|NUM
+em|em|ADP
+primeira|primeiro|ADJ
+classe|classe|NOUN
+,|,|PUNCT
+possibilitando|possibilitar|VERB
+o|o|DET
+acesso|acesso|NOUN
+a|a|ADP
+telemóvel|telemóvel|NOUN
+e|e|CCONJ
+internet|Internet|PROPN
+a|a|ADP
+bordo|bordo|NOUN
+.|.|PUNCT
+# A administração da TAAG disse anteriormente que o investimento nesta encomenda visa “consolidar os destinos atuais”, face a “algumas irregularidades no cumprimento de horário” e outras dificuldades logísticas, podendo depois avançar com novas alternativas de destinos.
+A|o|DET
+administração|administração|NOUN
+da|de o|ADP
+TAAG|TAAG|PROPN
+disse|dizer|VERB
+anteriormente|anteriormente|ADV
+que|que|SCONJ
+o|o|DET
+investimento|investimento|NOUN
+nesta|em este|ADP
+encomenda|encomenda|NOUN
+visa|visar|VERB
+“|“|PUNCT
+consolidar|consolidar|VERB
+os|o|DET
+destinos|destino|NOUN
+atuais|atual|ADJ
+”|”|PUNCT
+,|,|PUNCT
+face|face|ADV
+a|a|DET
+“|“|PUNCT
+algumas|algum|DET
+irregularidades|irregularidade|NOUN
+no|em o|ADP
+cumprimento|cumprimento|NOUN
+de|de|ADP
+horário|horário|NOUN
+”|”|PUNCT
+e|e|CCONJ
+outras|outro|DET
+dificuldades|dificuldade|NOUN
+logísticas|logístico|ADJ
+,|,|PUNCT
+podendo|poder|VERB
+depois|depois|ADV
+avançar|avançar|VERB
+com|com|ADP
+novas|novo|ADJ
+alternativas|alternativa|NOUN
+de|de|ADP
+destinos|destino|NOUN
+.|.|PUNCT
+# Esta autorização de financiamento surge na mesma semana em que – como o Folha 8 noticiou – foi acordado, no Dubai, que a companhia aérea de bandeira angolana vai ser gerida pela congénere Emirates ao abrigo de um acordo de parceria estratégica.
+Esta|este|DET
+autorização|autorização|NOUN
+de|de|ADP
+financiamento|financiamento|NOUN
+surge|surgir|VERB
+na|em o|ADP
+mesma|mesmo|ADJ
+semana|semana|NOUN
+em|em|ADP
+que|que|PRON
+–|–|PUNCT
+como|como|ADP
+o|o|DET
+Folha 8|Folha 8|PROPN
+noticiou|noticiar|VERB
+–|–|PUNCT
+foi|ser|AUX
+acordado|acordar|VERB
+,|,|PUNCT
+no|em o|ADP
+Dubai|Dubai|PROPN
+,|,|PUNCT
+que|que|PRON
+a|o|DET
+companhia|companhia|NOUN
+aérea|aéreo|ADJ
+de|de|ADP
+bandeira|bandeira|NOUN
+angolana|angolano|ADJ
+vai|ir|AUX
+ser|ser|AUX
+gerida|gerer|VERB
+pela|por o|ADP
+congénere|congénere|NOUN
+Emirates|Emirates|PROPN
+ao|a o|ADP
+abrigo|abrigo|NOUN
+de|de|ADP
+um|um|DET
+acordo|acordo|NOUN
+de|de|ADP
+parceria|parceria|NOUN
+estratégica|estratégico|ADJ
+.|.|PUNCT
+# O acordo entre o Ministério dos Transportes de Angola e a administração da Emirates envolve um contrato de gestão de topo da TAAG pela companhia dos Emirados Árabes Unidos.
+O|o|DET
+acordo|acordo|NOUN
+entre|entre|ADP
+o|o|DET
+Ministério dos Transportes de Angola|Ministério de o Transportes de Angola|PROPN
+e|e|CCONJ
+a|o|DET
+administração|administração|NOUN
+da|de o|ADP
+Emirates|Emirates|PROPN
+envolve|envolver|VERB
+um|um|DET
+contrato|contrato|NOUN
+de|de|ADP
+gestão|gestão|NOUN
+de|de|ADP
+topo|topo|NOUN
+da|de o|ADP
+TAAG|TAAG|PROPN
+pela|por o|ADP
+companhia|companhia|NOUN
+dos|de o|ADP
+Emirados Árabes Unidos|Emirados Árabes Unidos|PROPN
+.|.|PUNCT
+# A Emirates passará a nomear o Presidente do Conselho de Administração da TAAG e mais três administradores executivos, de um total de nove elementos.
+A|o|DET
+Emirates|Emirates|PROPN
+passará|passar|VERB
+a|a|SCONJ
+nomear|nomear|VERB
+o|o|DET
+Presidente|Presidente|NOUN
+do|de o|ADP
+Conselho de Administração da TAAG|conselho de administração de o TAAG|PROPN
+e|e|CCONJ
+mais|mais|ADV
+três|três|NUM
+administradores|administrador|NOUN
+executivos|executivo|ADJ
+,|,|PUNCT
+de|de|ADP
+um|um|DET
+total|total|NOUN
+de|de|ADP
+nove|nove|NUM
+elementos|elemento|NOUN
+.|.|PUNCT
+# “Nascerá uma nova TAAG, que se pretende alinhada com os padrões e o estado da arte a nível mundial”, afirmou o ministro dos Transportes angolano, Augusto da Silva Tomás.
+“|“|PUNCT
+Nascerá|Nascer|VERB
+uma|um|DET
+nova|novo|ADJ
+TAAG|TAAG|PROPN
+,|,|PUNCT
+que|que|PRON
+se|se|PRON
+pretende|pretender|VERB
+alinhada|alinhar|VERB
+com|com|ADP
+os|o|DET
+padrões|padrão|NOUN
+e|e|CCONJ
+o|o|DET
+estado|estado|NOUN
+da|de o|ADP
+arte|arte|NOUN
+a|a|ADP
+nível|nível|NOUN
+mundial|mundial|ADJ
+”|”|PUNCT
+,|,|PUNCT
+afirmou|afirmar|VERB
+o|o|DET
+ministro|ministro|NOUN
+dos|de o|ADP
+Transportes|transporte|NOUN
+angolano|angolano|ADJ
+,|,|PUNCT
+Augusto da Silva Tomás|Augusto de o Silva Tomás|PROPN
+.|.|PUNCT
+# Angola vai indicar cinco dos elementos para a administração da transportadora aérea, mas de acordo com informação transmitida no final da assinatura do acordo, a gestão corrente da TAAG será assegurada por uma Comissão Executiva composta pelos administradores executivos nomeados pela Emirates para as áreas Comercial, Operacional, Financeira e Administrativa.
+Angola|Angola|PROPN
+vai|ir|AUX
+indicar|indicar|VERB
+cinco|cinco|NUM
+dos|de o|ADP
+elementos|elemento|NOUN
+para|para|ADP
+a|o|DET
+administração|administração|NOUN
+da|de o|ADP
+transportadora|transportadora|NOUN
+aérea|aéreo|ADJ
+,|,|PUNCT
+mas|mas|CCONJ
+de|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+informação|informação|NOUN
+transmitida|transmitir|VERB
+no|em o|ADP
+final|final|NOUN
+da|de o|ADP
+assinatura|assinatura|NOUN
+do|de o|ADP
+acordo|acordo|NOUN
+,|,|PUNCT
+a|o|DET
+gestão|gestão|NOUN
+corrente|corrente|ADJ
+da|de o|ADP
+TAAG|TAAG|PROPN
+será|ser|AUX
+assegurada|assegurar|VERB
+por|por|ADP
+uma|um|DET
+Comissão Executiva|Comissão Executiva|PROPN
+composta|compor|VERB
+pelos|por o|ADP
+administradores|administrador|NOUN
+executivos|executivo|ADJ
+nomeados|nomear|VERB
+pela|por o|ADP
+Emirates|Emirates|PROPN
+para|para|ADP
+as|o|DET
+áreas|área|NOUN
+Comercial|Comercial|PROPN
+,|,|PUNCT
+Operacional|Operacional|PROPN
+,|,|PUNCT
+Financeira e Administrativa|Financeira e Administrativa|PROPN
+.|.|PUNCT
+# 21 milhões de militantes queriam estar no V Congresso do MPLA - Folha 8
+21|21|NUM
+milhões|milhão|NUM
+de|de|ADP
+militantes|militante|NOUN
+queriam|querer|VERB
+estar|estar|AUX
+no|em o|ADP
+V Congresso do MPLA|V congresso de o MPLA|PROPN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# O MPLA realiza em Luanda, o seu V Congresso Extraordinário em que pretende fazer ajustamentos pontuais aos Estatutos, reflectir sobre a organização interna e reafirmar os princípios gerais da orientação política e ideológica.
+O|o|DET
+MPLA|MPLA|PROPN
+realiza|realizar|VERB
+em|em|ADP
+Luanda|Luanda|PROPN
+,|,|PUNCT
+o|o|DET
+seu|seu|DET
+V Congresso Extraordinário|V Congresso Extraordinário|PROPN
+em|em|ADP
+que|que|PRON
+pretende|pretender|VERB
+fazer|fazer|VERB
+ajustamentos|ajustamento|NOUN
+pontuais|pontual|ADJ
+aos|a o|ADP
+Estatutos|Estatutos|NOUN
+,|,|PUNCT
+reflectir|reflectir|VERB
+sobre|sobre|ADP
+a|o|DET
+organização|organização|NOUN
+interna|interno|ADJ
+e|e|CCONJ
+reafirmar|reafirmar|VERB
+os|o|DET
+princípios|princípio|NOUN
+gerais|geral|ADJ
+da|de o|ADP
+orientação|orientação|NOUN
+política|político|ADJ
+e|e|CCONJ
+ideológica|ideológico|ADJ
+.|.|PUNCT
+# P or outras palavras, mostrar aos que ainda têm dúvidas, que o MPLA é Angola e que Angola é o MPLA.
+P|p|NOUN
+or|or|PROPN
+outras|outro|DET
+palavras|palavra|NOUN
+,|,|PUNCT
+mostrar|mostrar|VERB
+aos|a o|PRON
+que|que|PRON
+ainda|ainda|ADV
+têm|ter|VERB
+dúvidas|dúvida|NOUN
+,|,|PUNCT
+que|que|SCONJ
+o|o|DET
+MPLA|MPLA|PROPN
+é|ser|AUX
+Angola|Angola|PROPN
+e|e|CCONJ
+que|que|SCONJ
+Angola|Angola|PROPN
+é|ser|AUX
+o|o|DET
+MPLA|MPLA|PROPN
+.|.|PUNCT
+# Tem sido assim desde 1975, mas ultimamente têm aparecido meia dúzia de pseudo-angolanos a dizer o contrário e, como muito bem determina o “querido líder”, é preciso pô-los na linha dos… jacarés.
+Tem|ter|AUX
+sido|ser|AUX
+assim|assim|ADV
+desde|desde|ADP
+1975|1975|NUM
+,|,|PUNCT
+mas|mas|CCONJ
+ultimamente|ultimamente|ADV
+têm|ter|AUX
+aparecido|aparecer|VERB
+meia|meio|NUM
+dúzia|dúzia|NUM
+de|de|ADP
+pseudo-angolanos|pseudo-angolano|NOUN
+a|a|SCONJ
+dizer|dizer|VERB
+o|o|DET
+contrário|contrário|NOUN
+e|e|CCONJ
+,|,|PUNCT
+como|como|ADP
+muito|muito|ADV
+bem|bem|ADV
+determina|determinar|VERB
+o|o|DET
+“|“|ADJ
+querido|querido|ADJ
+líder|líder|NOUN
+”|”|PUNCT
+,|,|PUNCT
+é|ser|AUX
+preciso|preciso|ADJ
+pô-los|pô-los|VERB
+na|em o|ADP
+linha|linha|NOUN
+dos|de o|ADP
+…|…|PUNCT
+jacarés|jacaré|NOUN
+.|.|PUNCT
+# Segundo a agência de notícias do regime, a Angop, os delegados vão discutir as teses sobre “o melhoramento da vida interna do MPLA e a maior inserção do partido na sociedade”, bem como sobre “o MPLA e os desafios políticos-eleitorais”, numa perspectiva de consolidar a paz e o Estado democrático de direito.
+Segundo|segundo|ADP
+a|o|DET
+agência|agência|NOUN
+de|de|ADP
+notícias|notícia|NOUN
+do|de o|ADP
+regime|regime|NOUN
+,|,|PUNCT
+a|o|DET
+Angop|Angop|PROPN
+,|,|PUNCT
+os|o|DET
+delegados|delegado|NOUN
+vão|ir|AUX
+discutir|discutir|VERB
+as|o|DET
+teses|tese|NOUN
+sobre|sobre|ADP
+“|“|PUNCT
+o|o|DET
+melhoramento|melhoramento|NOUN
+da|de o|ADP
+vida|vida|NOUN
+interna|interno|ADJ
+do|de o|ADP
+MPLA|MPLA|PROPN
+e|e|CCONJ
+a|o|DET
+maior|grande|ADJ
+inserção|inserção|NOUN
+do|de o|ADP
+partido|partido|NOUN
+na|em o|ADP
+sociedade|sociedade|NOUN
+”|”|PUNCT
+,|,|PUNCT
+bem|bem|ADP
+como|como|ADV
+sobre|sobre|ADP
+“|“|PUNCT
+o|o|DET
+MPLA|MPLA|PROPN
+e|e|CCONJ
+os|o|DET
+desafios|desafio|NOUN
+políticos-eleitorais|políticos-eleitorais|ADJ
+”|”|PUNCT
+,|,|PUNCT
+numa|em um|ADP
+perspectiva|perspectiva|NOUN
+de|de|SCONJ
+consolidar|consolidar|VERB
+a|o|DET
+paz|paz|NOUN
+e|e|CCONJ
+o|o|DET
+Estado democrático de direito|estado democrático de direito|NOUN
+.|.|PUNCT
+# Estado democrático e de direito segundo, entenda-se, a bitola do regime.
+Estado|estado|NOUN
+democrático|democrático|ADJ
+e|e|CCONJ
+de|de|ADP
+direito|direito|NOUN
+segundo|segundo|ADV
+,|,|PUNCT
+entenda-se|entendar se|VERB
+,|,|PUNCT
+a|o|DET
+bitola|bitola|NOUN
+do|de o|ADP
+regime|regime|NOUN
+.|.|PUNCT
+# E essa diz-nos que não existe no mundo um país mais democrático e impoluto do que o de José Eduardo dos Santos, tanto mais que ele é Presidente desde 1979, correspondendo a uma das mais elementares regras das democracias – nunca ter sido nominalmente eleito.
+E|e|CCONJ
+essa|esse|PRON
+diz-nos|diz-nos|SCONJ
+que|que|SCONJ
+não|não|ADV
+existe|existir|VERB
+no|em o|ADP
+mundo|mundo|NOUN
+um|um|DET
+país|país|NOUN
+mais|mais|ADV
+democrático|democrático|ADJ
+e|e|CCONJ
+impoluto|impoluto|ADJ
+do|de o|ADP
+que|que|PRON
+o|o|PRON
+de|de|ADP
+José Eduardo dos Santos|José Eduardo de o Santos|PROPN
+,|,|PUNCT
+tanto|tanto|ADV
+mais|mais|ADV
+que|que|SCONJ
+ele|ele|PRON
+é|ser|AUX
+Presidente|presidente|NOUN
+desde|desde|ADP
+1979|1979|NUM
+,|,|PUNCT
+correspondendo|corresponder|VERB
+a|a|ADP
+uma|um|NUM
+das|de o|ADP
+mais|mais|ADV
+elementares|elementar|ADJ
+regras|regra|NOUN
+das|de o|ADP
+democracias|democracia|NOUN
+–|–|PUNCT
+nunca|nunca|ADV
+ter|ter|AUX
+sido|ser|AUX
+nominalmente|nominalmente|ADV
+eleito|eleger|VERB
+.|.|PUNCT
+# A Angop, ou seja o MPLA, refere ainda que a reunião do órgão máximo do partido governamental vai também avaliar o grau de estruturação interna, reforçar a unidade, coesão e o seu papel de liderança, enquanto formação política no poder.
+A|o|DET
+Angop|Angop|PROPN
+,|,|PUNCT
+ou|ou|CCONJ
+seja|ser|AUX
+o|o|DET
+MPLA|MPLA|PROPN
+,|,|PUNCT
+refere|referir|VERB
+ainda|ainda|ADV
+que|que|SCONJ
+a|o|DET
+reunião|reunião|NOUN
+do|de o|ADP
+órgão|órgão|NOUN
+máximo|grande|ADJ
+do|de o|ADP
+partido|partido|NOUN
+governamental|governamental|ADJ
+vai|ir|AUX
+também|também|ADV
+avaliar|avaliar|VERB
+o|o|DET
+grau|grau|NOUN
+de|de|ADP
+estruturação|estruturação|NOUN
+interna|interno|ADJ
+,|,|PUNCT
+reforçar|reforçar|VERB
+a|o|DET
+unidade|unidade|NOUN
+,|,|PUNCT
+coesão|coesão|NOUN
+e|e|CCONJ
+o|o|DET
+seu|seu|DET
+papel|papel|NOUN
+de|de|ADP
+liderança|liderança|NOUN
+,|,|PUNCT
+enquanto|enquanto|ADP
+formação|formação|NOUN
+política|político|ADJ
+no|em o|ADP
+poder|poder|NOUN
+.|.|PUNCT
+# Em causa está a necessidade de manter o poder, no maior respeito pela democracia, durante mais 30 anos.
+Em|em|ADP
+causa|causa|NOUN
+está|estar|VERB
+a|o|DET
+necessidade|necessidade|NOUN
+de|de|SCONJ
+manter|manter|VERB
+o|o|DET
+poder|poder|NOUN
+,|,|PUNCT
+no|em o|ADP
+maior|grande|ADJ
+respeito|respeito|NOUN
+pela|por o|ADP
+democracia|democracia|NOUN
+,|,|PUNCT
+durante|durante|ADP
+mais|mais|ADV
+30|30|NUM
+anos|ano|NOUN
+.|.|PUNCT
+# O V Congresso Extraordinário do MPLA é tido como o maior de sempre em termos de participação, devendo reunir mais de dois mil delegados de todas as províncias do país.
+O|o|DET
+V Congresso Extraordinário do MPLA|V Congresso Extraordinário de o MPLA|PROPN
+é|ser|AUX
+tido|ter|VERB
+como|como|ADP
+o|o|DET
+maior|grande|NOUN
+de|de|ADP
+sempre|sempre|ADV
+em|em|ADP
+termos|termos|NOUN
+de|de|ADP
+participação|participação|NOUN
+,|,|PUNCT
+devendo|dever|VERB
+reunir|reunir|VERB
+mais|mais|ADV
+de|de|ADP
+dois|dois|NUM
+mil|mil|NUM
+delegados|delegado|NOUN
+de|de|ADP
+todas|todo|DET
+as|o|DET
+províncias|província|NOUN
+do|de o|ADP
+país|país|NOUN
+.|.|PUNCT
+# Em bom rigor, delegados são cerca de 21 milhões.
+Em|em|ADP
+bom|bom|ADJ
+rigor|rigor|NOUN
+,|,|PUNCT
+delegados|delegado|NOUN
+são|ser|AUX
+cerca|cerca|ADV
+de|de|ADP
+21|21|NUM
+milhões|milhão|NUM
+.|.|PUNCT
+# Mas por questões logísticas foram apenas credenciados dois mil.
+Mas|mas|CCONJ
+por|por|ADP
+questões|questão|NOUN
+logísticas|logístico|ADJ
+foram|ser|AUX
+apenas|apenas|ADV
+credenciados|credenciar|VERB
+dois|dois|NUM
+mil|mil|NUM
+.|.|PUNCT
+# Contributo decisivo para o anunciado sucesso deste congresso será dado pela JMPLA que, mais uma vez, continuará a trabalhar em prol do crescimento da organização, na perspectiva de manter-se firme e intransigente na defesa dos ideais do MPLA e do seu “querido líder”, José Eduardo dos Santos.
+Contributo|contributo|NOUN
+decisivo|decisivo|ADJ
+para|para|ADP
+o|o|DET
+anunciado|anunciar|VERB
+sucesso|sucesso|NOUN
+deste|de este|ADP
+congresso|congresso|NOUN
+será|ser|AUX
+dado|dar|VERB
+pela|por o|ADP
+JMPLA|JMPLA|PROPN
+que|que|SCONJ
+,|,|PUNCT
+mais|mais|ADV
+uma|uma|ADP
+vez|vez|NOUN
+,|,|PUNCT
+continuará|continuar|VERB
+a|a|SCONJ
+trabalhar|trabalhar|VERB
+em|em|ADP
+prol|prol|NOUN
+do|de o|ADP
+crescimento|crescimento|NOUN
+da|de o|ADP
+organização|organização|NOUN
+,|,|PUNCT
+na|em o|ADP
+perspectiva|perspectiva|NOUN
+de|de|SCONJ
+manter-se|manter se|VERB
+firme|firme|ADJ
+e|e|CCONJ
+intransigente|intransigente|ADJ
+na|em o|ADP
+defesa|defesa|NOUN
+dos|de o|ADP
+ideais|ideal|NOUN
+do|de o|ADP
+MPLA|MPLA|PROPN
+e|e|CCONJ
+do|de o|ADP
+seu|seu|DET
+“|“|ADJ
+querido|querido|ADJ
+líder|líder|NOUN
+”|”|PUNCT
+,|,|PUNCT
+José Eduardo dos Santos|José Eduardo de o Santos|PROPN
+.|.|PUNCT
+# A determinação foi reiterada, em Luanda, pelo seu primeiro secretário provincial, Tomás Bica Mumbundo, em declarações à Angop, a propósito dos renovados desafios que se colocam à juventude angolana, num momento singular para o país, que exige a sua disponibilidade e participação nos esforços tendentes ao desenvolvimento.
+A|o|DET
+determinação|determinação|NOUN
+foi|ser|AUX
+reiterada|reiterar|VERB
+,|,|PUNCT
+em|em|ADP
+Luanda|Luanda|PROPN
+,|,|PUNCT
+pelo|por o|ADP
+seu|seu|DET
+primeiro|primeiro|ADJ
+secretário|secretário|NOUN
+provincial|provincial|ADJ
+,|,|PUNCT
+Tomás Bica Mumbundo|Tomás Bica Mumbundo|PROPN
+,|,|PUNCT
+em|em|ADP
+declarações|declaração|NOUN
+à|a o|ADP
+Angop|Angop|PROPN
+,|,|PUNCT
+a|a|ADP
+propósito|propósito|NOUN
+dos|de o|ADP
+renovados|renovar|VERB
+desafios|desafio|NOUN
+que|que|PRON
+se|se|PRON
+colocam|colocar|VERB
+à|a o|ADP
+juventude|juventude|NOUN
+angolana|angolano|ADJ
+,|,|PUNCT
+num|em um|ADP
+momento|momento|NOUN
+singular|singular|ADJ
+para|para|ADP
+o|o|DET
+país|país|NOUN
+,|,|PUNCT
+que|que|PRON
+exige|exigir|VERB
+a|o|DET
+sua|seu|DET
+disponibilidade|disponibilidade|NOUN
+e|e|CCONJ
+participação|participação|NOUN
+nos|em o|ADP
+esforços|esforço|NOUN
+tendentes|tendente|ADJ
+ao|a o|ADP
+desenvolvimento|desenvolvimento|NOUN
+.|.|PUNCT
+# “Continuaremos determinados a defender os princípios e valores que visam a manutenção das conquistas já alcançadas pelo Povo angolano, desde os primórdios da nossa luta, transmitindo as novas gerações quanto custou a liberdade”, sublinhou o pioneiro da JMPLA.
+“|“|PUNCT
+Continuaremos|Continuaremos|AUX
+determinados|determinar|VERB
+a|a|SCONJ
+defender|defender|VERB
+os|o|DET
+princípios|princípio|NOUN
+e|e|CCONJ
+valores|valor|NOUN
+que|que|PRON
+visam|visar|VERB
+a|o|DET
+manutenção|manutenção|NOUN
+das|de o|ADP
+conquistas|conquista|NOUN
+já|já|ADV
+alcançadas|alcançar|VERB
+pelo|por o|ADP
+Povo|povo|NOUN
+angolano|angolano|ADJ
+,|,|PUNCT
+desde|desde|ADP
+os|o|DET
+primórdios|primórdio|NOUN
+da|de o|ADP
+nossa|nosso|DET
+luta|luta|NOUN
+,|,|PUNCT
+transmitindo|transmitir|VERB
+as|o|DET
+novas|novo|ADJ
+gerações|geração|NOUN
+quanto|quanto|ADV
+custou|custar|VERB
+a|o|DET
+liberdade|liberdade|NOUN
+”|”|PUNCT
+,|,|PUNCT
+sublinhou|sublinhar|VERB
+o|o|DET
+pioneiro|pioneiro|NOUN
+da|de o|ADP
+JMPLA|JMPLA|PROPN
+.|.|PUNCT
+# No Huambo, província habitada por cidadãos angolanos que não agradam muito ao regime, os militantes do MPLA foram instados a elevarem o sentimento patriótico, de forma a preservar a paz, e assim contribuírem para a estabilidade macro-económica sustentável que a região regista.
+No|em o|ADP
+Huambo|Huambo|PROPN
+,|,|PUNCT
+província|província|NOUN
+habitada|habitar|VERB
+por|por|ADP
+cidadãos|cidadão|NOUN
+angolanos|angolano|ADJ
+que|que|PRON
+não|não|ADV
+agradam|agradar|VERB
+muito|muito|ADV
+ao|a o|ADP
+regime|regime|NOUN
+,|,|PUNCT
+os|o|DET
+militantes|militante|NOUN
+do|de o|ADP
+MPLA|MPLA|PROPN
+foram|ser|AUX
+instados|instar|VERB
+a|a|SCONJ
+elevarem|elevar|VERB
+o|o|DET
+sentimento|sentimento|NOUN
+patriótico|patriótico|ADJ
+,|,|PUNCT
+de|de|ADP
+forma|forma|NOUN
+a|a|SCONJ
+preservar|preservar|VERB
+a|o|DET
+paz|paz|NOUN
+,|,|PUNCT
+e|e|CCONJ
+assim|assim|ADV
+contribuírem|contribuír|VERB
+para|para|ADP
+a|o|DET
+estabilidade|estabilidade|NOUN
+macro-económica|macro-económico|ADJ
+sustentável|sustentável|ADJ
+que|que|PRON
+a|o|DET
+região|região|NOUN
+regista|registar|VERB
+.|.|PUNCT
+# A exortação foi proposta pelo primeiro secretário local do partido que governa Angola desde 1975, Kundi Pahiama, para quem é indispensável a elevação do espírito de patriotismo e a preservação da paz, alcançada em 4 de Abril de 2002.
+A|o|DET
+exortação|exortação|NOUN
+foi|ser|AUX
+proposta|propor|VERB
+pelo|por o|ADP
+primeiro|primeiro|ADJ
+secretário|secretário|NOUN
+local|local|ADJ
+do|de o|ADP
+partido|partido|NOUN
+que|que|PRON
+governa|governar|VERB
+Angola|Angola|PROPN
+desde|desde|ADP
+1975|1975|NUM
+,|,|PUNCT
+Kundi Pahiama|Kundi Pahiama|PROPN
+,|,|PUNCT
+para|para|SCONJ
+quem|quem|PRON
+é|ser|AUX
+indispensável|indispensável|ADJ
+a|o|DET
+elevação|elevação|NOUN
+do|de o|ADP
+espírito|espírito|NOUN
+de|de|ADP
+patriotismo|patriotismo|NOUN
+e|e|CCONJ
+a|o|DET
+preservação|preservação|NOUN
+da|de o|ADP
+paz|paz|NOUN
+,|,|PUNCT
+alcançada|alcançar|VERB
+em|em|ADP
+4|4|NUM
+de|de|ADP
+Abril|abril|NOUN
+de|de|ADP
+2002|2002|NUM
+.|.|PUNCT
+# Kundi Paihama, também governador do Huambo, reafirmou a necessidade de não se confundir o interesse colectivo, mais sagrado, e o pessoal, caracterizado pela intriga, calúnia e confusão.
+Kundi Paihama|Kundi Paihama|PROPN
+,|,|PUNCT
+também|também|ADV
+governador|governador|NOUN
+do|de o|ADP
+Huambo|Huambo|PROPN
+,|,|PUNCT
+reafirmou|reafirmar|VERB
+a|o|DET
+necessidade|necessidade|NOUN
+de|de|SCONJ
+não|não|ADV
+se|se|PRON
+confundir|confundir|VERB
+o|o|DET
+interesse|interesse|NOUN
+colectivo|colectivo|ADJ
+,|,|PUNCT
+mais|mais|ADV
+sagrado|sagrado|ADJ
+,|,|PUNCT
+e|e|CCONJ
+o|o|DET
+pessoal|pessoal|NOUN
+,|,|PUNCT
+caracterizado|caracterizar|VERB
+pela|por o|ADP
+intriga|intriga|NOUN
+,|,|PUNCT
+calúnia|calúnia|NOUN
+e|e|CCONJ
+confusão|confusão|NOUN
+.|.|PUNCT
+# Assim sendo, disse que os militantes do MPLA, na província do Huambo, têm a responsabilidade de servirem de modelo de comportamento à sociedade.
+Assim|assim|ADV
+sendo|ser|AUX
+,|,|PUNCT
+disse|dizer|VERB
+que|que|SCONJ
+os|o|DET
+militantes|militante|NOUN
+do|de o|ADP
+MPLA|MPLA|PROPN
+,|,|PUNCT
+na|em o|ADP
+província|província|NOUN
+do|de o|ADP
+Huambo|Huambo|PROPN
+,|,|PUNCT
+têm|ter|VERB
+a|o|DET
+responsabilidade|responsabilidade|NOUN
+de|de|SCONJ
+servirem|servir|VERB
+de|de|ADP
+modelo|modelo|NOUN
+de|de|ADP
+comportamento|comportamento|NOUN
+à|a o|ADP
+sociedade|sociedade|NOUN
+.|.|PUNCT
+# Na sua intervenção, solicitou aos membros, amigos e simpatizantes do MPLA mais união e coesão, para o alcance dos objectivos preconizados, mormente relativos ao processo de revitalização das estruturas do partido e o processo orgânico, a culminar com a realização deste V Congresso Extraordinário.
+Na|em o|ADP
+sua|seu|DET
+intervenção|intervenção|NOUN
+,|,|PUNCT
+solicitou|solicitar|VERB
+aos|a o|ADP
+membros|membro|NOUN
+,|,|PUNCT
+amigos|amigo|NOUN
+e|e|CCONJ
+simpatizantes|simpatizante|NOUN
+do|de o|ADP
+MPLA|MPLA|PROPN
+mais|mais|DET
+união|união|NOUN
+e|e|CCONJ
+coesão|coesão|NOUN
+,|,|PUNCT
+para|para|ADP
+o|o|DET
+alcance|alcance|NOUN
+dos|de o|ADP
+objectivos|objectivo|NOUN
+preconizados|preconizar|VERB
+,|,|PUNCT
+mormente|mormente|ADV
+relativos|relativo|ADJ
+ao|a o|ADP
+processo|processo|NOUN
+de|de|ADP
+revitalização|revitalização|NOUN
+das|de o|ADP
+estruturas|estrutura|NOUN
+do|de o|ADP
+partido|partido|NOUN
+e|e|CCONJ
+o|o|DET
+processo|processo|NOUN
+orgânico|orgânico|ADJ
+,|,|PUNCT
+a|a|SCONJ
+culminar|culminar|VERB
+com|com|ADP
+a|o|DET
+realização|realização|NOUN
+deste|de este|ADP
+V Congresso Extraordinário|V Congresso Extraordinário|PROPN
+.|.|PUNCT
+# 34 novos casos e um morto pela doença do sono - Folha 8
+34|34|NUM
+novos|novo|ADJ
+casos|caso|NOUN
+e|e|CCONJ
+um|um|DET
+morto|morto|NOUN
+pela|por o|ADP
+doença|doença|NOUN
+do|de o|ADP
+sono|sono|NOUN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# Angola registou até Outubro 34 novos casos e um morto por tripanossomíase, conhecida como doença do sono e considerada endémica no país, anunciou hoje um responsável ligado ao combate e controlo dessa enfermidade.
+Angola|Angola|PROPN
+registou|registar|VERB
+até|até|ADP
+Outubro|outubro|NOUN
+34|34|NUM
+novos|novo|ADJ
+casos|caso|NOUN
+e|e|CCONJ
+um|um|DET
+morto|morto|NOUN
+por|por|ADP
+tripanossomíase|tripanossomíase|NOUN
+,|,|PUNCT
+conhecida|conhecer|VERB
+como|como|ADP
+doença|doença|NOUN
+do|de o|ADP
+sono|sono|NOUN
+e|e|CCONJ
+considerada|considerar|VERB
+endémica|endémico|ADJ
+no|em o|ADP
+país|país|NOUN
+,|,|PUNCT
+anunciou|anunciar|VERB
+hoje|hoje|ADV
+um|um|DET
+responsável|responsável|NOUN
+ligado|ligar|VERB
+ao|a o|ADP
+combate|combate|NOUN
+e|e|CCONJ
+controlo|controlo|NOUN
+dessa|de esse|ADP
+enfermidade|enfermidade|NOUN
+.|.|PUNCT
+# O s dados foram avançados em Ndalatando, Kuanza Norte, pelo director-adjunto para a área técnica do Instituto de Combate e Controlo da Tripanossomíase, Amadeu Dala.
+O|o|DET
+s|s|PROPN
+dados|dado|NOUN
+foram|ser|AUX
+avançados|avançar|VERB
+em|em|ADP
+Ndalatando|Ndalatando|PROPN
+,|,|PUNCT
+Kuanza Norte|Kuanza Norte|PROPN
+,|,|PUNCT
+pelo|por o|ADP
+director-adjunto|director-adjunto|NOUN
+para|para|ADP
+a|o|DET
+área|área|NOUN
+técnica|técnico|ADJ
+do|de o|ADP
+Instituto de Combate e Controlo da Tripanossomíase|Instituto de Combate e Controlo de o Tripanossomíase|PROPN
+,|,|PUNCT
+Amadeu Dala|Amadeu Dala|PROPN
+.|.|PUNCT
+# O técnico referiu que os números deste ano representam, ainda assim, uma diminuição em 35 casos, comparativamente ao mesmo período de 2013.
+O|o|DET
+técnico|técnico|NOUN
+referiu|referir|VERB
+que|que|SCONJ
+os|o|DET
+números|número|NOUN
+deste|de este|ADP
+ano|ano|NOUN
+representam|representar|VERB
+,|,|PUNCT
+ainda|ainda|ADV
+assim|assim|ADV
+,|,|PUNCT
+uma|um|DET
+diminuição|diminuição|NOUN
+em|em|ADP
+35|35|NUM
+casos|caso|NOUN
+,|,|PUNCT
+comparativamente|comparativamente|ADV
+ao|a o|ADP
+mesmo|mesmo|ADJ
+período|período|NOUN
+de|de|ADP
+2013|2013|NUM
+.|.|PUNCT
+# Amadeu Dala disse que os casos foram notificados nas províncias de Luanda, Malange, Uíge, Kuanza Norte, Kuanza Sul, Bengo e Zaire, zonas consideradas endémicas.
+Amadeu Dala|Amadeu Dala|PROPN
+disse|dizer|VERB
+que|que|SCONJ
+os|o|DET
+casos|caso|NOUN
+foram|ser|AUX
+notificados|notificar|VERB
+nas|em o|ADP
+províncias|província|NOUN
+de|de|ADP
+Luanda|Luanda|PROPN
+,|,|PUNCT
+Malange|Malange|PROPN
+,|,|PUNCT
+Uíge|Uíge|PROPN
+,|,|PUNCT
+Kuanza Norte|Kuanza Norte|PROPN
+,|,|PUNCT
+Kuanza Sul|Kuanza Sul|PROPN
+,|,|PUNCT
+Bengo|Bengo|PROPN
+e|e|CCONJ
+Zaire|Zaire|PROPN
+,|,|PUNCT
+zonas|zona|NOUN
+consideradas|considerar|VERB
+endémicas|endémico|ADJ
+.|.|PUNCT
+# Segundo o responsável, o instituto controla actualmente 200 doentes (infectados anteriormente) que se encontram sob acompanhamento médico, estando ainda sob vigilância epidemiológica outros, cujo número não foi revelado, já tratados.
+Segundo|segundo|ADP
+o|o|DET
+responsável|responsável|NOUN
+,|,|PUNCT
+o|o|DET
+instituto|instituto|NOUN
+controla|controlar|VERB
+actualmente|actualmente|ADV
+200|200|NUM
+doentes|doente|NOUN
+(|(|PUNCT
+infectados|infectar|VERB
+anteriormente|anteriormente|ADV
+)|)|PUNCT
+que|que|PRON
+se|se|PRON
+encontram|encontrar|VERB
+sob|sob|ADP
+acompanhamento|acompanhamento|NOUN
+médico|médico|ADJ
+,|,|PUNCT
+estando|estar|VERB
+ainda|ainda|ADV
+sob|sob|ADP
+vigilância|vigilância|NOUN
+epidemiológica|epidemiológico|ADJ
+outros|outro|PRON
+,|,|PUNCT
+cujo|cujo|DET
+número|número|NOUN
+não|não|ADV
+foi|ser|AUX
+revelado|revelar|VERB
+,|,|PUNCT
+já|já|ADV
+tratados|tratar|VERB
+.|.|PUNCT
+# Comparando a situação epidemiológica actual a períodos anteriores, Amadeu Dala sublinhou melhorias significativas nos últimos 12 anos, consequência do reforço do trabalho de prospecção activa da doença, aliada à luta anti-vectorial para o corte da cadeia de transmissão da epidemia.
+Comparando|comparar|VERB
+a|o|DET
+situação|situação|NOUN
+epidemiológica|epidemiológico|ADJ
+actual|actual|ADJ
+a|a|ADP
+períodos|período|NOUN
+anteriores|anterior|ADJ
+,|,|PUNCT
+Amadeu Dala|Amadeu Dala|PROPN
+sublinhou|sublinhar|VERB
+melhorias|melhoria|NOUN
+significativas|significativo|ADJ
+nos|em o|ADP
+últimos|último|ADJ
+12|12|NUM
+anos|ano|NOUN
+,|,|PUNCT
+consequência|consequência|NOUN
+do|de o|ADP
+reforço|reforço|NOUN
+do|de o|ADP
+trabalho|trabalho|NOUN
+de|de|ADP
+prospecção|prospecção|NOUN
+activa|activo|ADJ
+da|de o|ADP
+doença|doença|NOUN
+,|,|PUNCT
+aliada|aliar|VERB
+à|a o|ADP
+luta|luta|NOUN
+anti-vectorial|anti-vectorial|ADJ
+para|para|ADP
+o|o|DET
+corte|corte|NOUN
+da|de o|ADP
+cadeia|cadeia|NOUN
+de|de|ADP
+transmissão|transmissão|NOUN
+da|de o|ADP
+epidemia|epidemia|NOUN
+.|.|PUNCT
+# “O factor insegurança desapareceu [com a paz alcançada em 2002], permitindo que as equipas de prospecção cheguem com mais facilidade até às zonas recônditas do país e possibilitando maior acesso aos centros de diagnóstico e tratamento da doença do sono a população”, disse Amadeu Dala, citado pela Angop.
+“|“|PUNCT
+O|o|DET
+factor|factor|NOUN
+insegurança|insegurança|NOUN
+desapareceu|desaparecer|VERB
+[|[|PUNCT
+com|com|ADP
+a|o|DET
+paz|paz|NOUN
+alcançada|alcançar|VERB
+em|em|ADP
+2002|2002|NUM
+]|_|PUNCT
+,|,|PUNCT
+permitindo|permitir|VERB
+que|que|SCONJ
+as|o|DET
+equipas|equipa|NOUN
+de|de|ADP
+prospecção|prospecção|NOUN
+cheguem|chegar|VERB
+com|com|ADP
+mais|mais|DET
+facilidade|facilidade|NOUN
+até|até|ADP
+às|a o|ADP
+zonas|zona|NOUN
+recônditas|recôndito|ADJ
+do|de o|ADP
+país|país|NOUN
+e|e|CCONJ
+possibilitando|possibilitar|VERB
+maior|grande|ADJ
+acesso|acesso|NOUN
+aos|a o|ADP
+centros|centro|NOUN
+de|de|ADP
+diagnóstico|diagnóstico|NOUN
+e|e|CCONJ
+tratamento|tratamento|NOUN
+da|de o|ADP
+doença|doença|NOUN
+do|de o|ADP
+sono|sono|NOUN
+a|o|DET
+população|população|NOUN
+”|”|PUNCT
+,|,|PUNCT
+disse|dizer|VERB
+Amadeu Dala|Amadeu Dala|PROPN
+,|,|PUNCT
+citado|citar|VERB
+pela|por o|ADP
+Angop|Angop|PROPN
+.|.|PUNCT
+# Até 1997, Angola chegou a registar 8.275 casos da doença do sono, números que foram diminuindo ao longo dos anos, como comprovam os 69 casos notificados em 2013, sem óbitos.
+Até|até|ADP
+1997|1997|NUM
+,|,|PUNCT
+Angola|Angola|PROPN
+chegou|chegar|VERB
+a|a|SCONJ
+registar|registar|VERB
+8.275|8.275|NUM
+casos|caso|NOUN
+da|de o|ADP
+doença|doença|NOUN
+do|de o|ADP
+sono|sono|NOUN
+,|,|PUNCT
+números|número|NOUN
+que|que|PRON
+foram|ser|AUX
+diminuindo|diminuir|VERB
+ao|a o|ADP
+longo|longo|NOUN
+dos|de o|ADP
+anos|ano|NOUN
+,|,|PUNCT
+como|como|SCONJ
+comprovam|comprovar|VERB
+os|o|DET
+69|69|NUM
+casos|caso|NOUN
+notificados|notificar|VERB
+em|em|ADP
+2013|2013|NUM
+,|,|PUNCT
+sem|sem|ADP
+óbitos|óbito|NOUN
+.|.|PUNCT
+# Uma brigada de 80 técnicos do Instituto de Combate e Controlo da tripanossomíase vai desenvolver no Cuanza Norte uma campanha de prospecção da doença até 22 de Dezembro, enquadrada no programa governamental de erradicação da endemia até 2025.
+Uma|um|DET
+brigada|brigada|NOUN
+de|de|ADP
+80|80|NUM
+técnicos|técnico|NOUN
+do|de o|ADP
+Instituto de Combate e Controlo da tripanossomíase|Instituto de Combate e Controlo de o tripanossomíase|PROPN
+vai|ir|AUX
+desenvolver|desenvolver|VERB
+no|em o|ADP
+Cuanza Norte|Cuanza Norte|PROPN
+uma|um|DET
+campanha|campanha|NOUN
+de|de|ADP
+prospecção|prospecção|NOUN
+da|de o|ADP
+doença|doença|NOUN
+até|até|ADP
+22|22|NUM
+de|de|ADP
+Dezembro|dezembro|NOUN
+,|,|PUNCT
+enquadrada|enquadrar|VERB
+no|em o|ADP
+programa|programa|NOUN
+governamental|governamental|ADJ
+de|de|ADP
+erradicação|erradicação|NOUN
+da|de o|ADP
+endemia|endemia|NOUN
+até|até|ADP
+2025|2025|NUM
+.|.|PUNCT
+# Um total de dez equipas móveis, com enfermeiros, técnicos de laboratório e de luta anti-vectorial (encarregue pela colocação de armadilhas para a captura da mosca tsé-tsé) vão trabalhar nos dez municípios que integram aquela região.
+Um|um|DET
+total|total|NOUN
+de|de|ADP
+dez|dez|NUM
+equipas|equipa|NOUN
+móveis|móvel|ADJ
+,|,|PUNCT
+com|com|ADP
+enfermeiros|enfermeiro|NOUN
+,|,|PUNCT
+técnicos|técnico|NOUN
+de|de|ADP
+laboratório|laboratório|NOUN
+e|e|CCONJ
+de|de|ADP
+luta|luta|NOUN
+anti-vectorial|anti-vectorial|ADJ
+(|(|PUNCT
+encarregue|encarregar|VERB
+pela|por o|ADP
+colocação|colocação|NOUN
+de|de|ADP
+armadilhas|armadilha|NOUN
+para|para|ADP
+a|o|DET
+captura|captura|NOUN
+da|de o|ADP
+mosca|mosca|NOUN
+tsé-tsé|tsé-tsé|VERB
+)|)|PUNCT
+vão|ir|AUX
+trabalhar|trabalhar|VERB
+nos|em o|ADP
+dez|dez|NUM
+municípios|município|NOUN
+que|que|PRON
+integram|integrar|VERB
+aquela|aquele|DET
+região|região|NOUN
+.|.|PUNCT
+# Esse trabalho, segundo Amadeu Dala, tem como objectivo identificar pessoas infectadas, cuja doença ainda não se manifestou, encaminhando-as para os centros de diagnóstico.
+Esse|esse|DET
+trabalho|trabalho|NOUN
+,|,|PUNCT
+segundo|segundo|ADP
+Amadeu Dala|Amadeu Dala|PROPN
+,|,|PUNCT
+tem|ter|VERB
+como|como|ADP
+objectivo|objectivo|NOUN
+identificar|identificar|VERB
+pessoas|pessoa|NOUN
+infectadas|infectar|VERB
+,|,|PUNCT
+cuja|cujo|DET
+doença|doença|NOUN
+ainda|ainda|ADV
+não|não|ADV
+se|se|PRON
+manifestou|manifestar|VERB
+,|,|PUNCT
+encaminhando-as|encaminhar as|VERB
+para|para|ADP
+os|o|DET
+centros|centro|NOUN
+de|de|ADP
+diagnóstico|diagnóstico|NOUN
+.|.|PUNCT
+# Os técnicos têm ainda como tarefa colocar cerca de duas mil armadilhas em toda a província para a captura do vector de transmissão da doença.
+Os|o|DET
+técnicos|técnico|NOUN
+têm|ter|VERB
+ainda|ainda|ADV
+como|como|ADP
+tarefa|tarefa|NOUN
+colocar|colocar|VERB
+cerca|cerca|ADV
+de|de|ADP
+duas|dois|NUM
+mil|mil|NUM
+armadilhas|armadilha|NOUN
+em|em|ADP
+toda|todo|DET
+a|o|DET
+província|província|NOUN
+para|para|ADP
+a|o|DET
+captura|captura|NOUN
+do|de o|ADP
+vector|vector|NOUN
+de|de|ADP
+transmissão|transmissão|NOUN
+da|de o|ADP
+doença|doença|NOUN
+.|.|PUNCT
+# A tripanossomíase, uma doença tropical negligenciada e transmitida pela picada da mosca tsé-tsé, foi detectada em 15 das 18 províncias de Angola, estando livre da mesma apenas as regiões do Namibe, Huambo e Kunene, devido às suas características climáticas.
+A|o|DET
+tripanossomíase|tripanossomíase|NOUN
+,|,|PUNCT
+uma|um|DET
+doença|doença|NOUN
+tropical|tropical|ADJ
+negligenciada|negligenciar|VERB
+e|e|CCONJ
+transmitida|transmitir|VERB
+pela|por o|ADP
+picada|picada|NOUN
+da|de o|ADP
+mosca|mosca|NOUN
+tsé-tsé|tsé-tsé|VERB
+,|,|PUNCT
+foi|ser|AUX
+detectada|detectar|VERB
+em|em|ADP
+15|15|NUM
+das|de o|ADP
+18|18|NUM
+províncias|província|NOUN
+de|de|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+estando|estar|AUX
+livre|livre|ADJ
+da|de o|ADP
+mesma|mesmo|ADJ
+apenas|apenas|ADV
+as|o|DET
+regiões|região|NOUN
+do|de o|ADP
+Namibe|Namibe|PROPN
+,|,|PUNCT
+Huambo|Huambo|PROPN
+e|e|CCONJ
+Kunene|Kunene|PROPN
+,|,|PUNCT
+devido|devido|ADV
+às|a o|ADP
+suas|seu|DET
+características|característica|NOUN
+climáticas|climático|ADJ
+.|.|PUNCT
+# Pelo menos 3.700 crianças da Guiné-Conacri, Libéria e Serra Leoa ficaram órfãs, tendo perdido pelo menos um dos progenitores, devido ao vírus do Ébola, indicam estimativas da UNICEF divulgadas hoje.
+Pelo|pelo|ADP
+menos|menos|NOUN
+3.700|3.700|NUM
+crianças|criança|NOUN
+da|de o|ADP
+Guiné-Conacri|Guiné-Conacri|PROPN
+,|,|PUNCT
+Libéria|Libéria|PROPN
+e|e|CCONJ
+Serra Leoa|Serra Leoa|PROPN
+ficaram|ficar|VERB
+órfãs|órfãs|NOUN
+,|,|PUNCT
+tendo|ter|AUX
+perdido|perder|VERB
+pelo|por o|ADP
+menos|menos|NOUN
+um|um|NUM
+dos|de o|ADP
+progenitores|progenitor|NOUN
+,|,|PUNCT
+devido|devido|ADV
+ao|a o|ADP
+vírus|vírus|NOUN
+do|de o|ADP
+Ébola|Ébola|PROPN
+,|,|PUNCT
+indicam|indicar|VERB
+estimativas|estimativa|NOUN
+da|de o|ADP
+UNICEF|UNICEF|PROPN
+divulgadas|divulgar|VERB
+hoje|hoje|ADV
+.|.|PUNCT
+# O Fundo das Nações Unidas para a Infância (UNICEF) alertou que, dado que a epidemia se intensificou nas últimas semanas, o número de órfãos devido ao vírus pode duplicar até meados de Outubro.
+O|o|DET
+Fundo das Nações Unidas para a Infância|Fundo de o Nações Unidas para o Infância|PROPN
+(|(|PUNCT
+UNICEF|UNICEF|PROPN
+)|)|PUNCT
+alertou|alertar|VERB
+que|que|SCONJ
+,|,|PUNCT
+dado|dar|VERB
+que|que|SCONJ
+a|o|DET
+epidemia|epidemia|NOUN
+se|se|PRON
+intensificou|intensificar|VERB
+nas|em o|ADP
+últimas|último|ADJ
+semanas|semana|NOUN
+,|,|PUNCT
+o|o|DET
+número|número|NOUN
+de|de|ADP
+órfãos|órfãos|NOUN
+devido|devido|ADV
+ao|a o|ADP
+vírus|vírus|NOUN
+pode|poder|VERB
+duplicar|duplicar|VERB
+até|até|ADP
+meados|meado|NOUN
+de|de|ADP
+Outubro|outubro|NOUN
+.|.|PUNCT
+# “Sabemos que os números que temos são apenas a ponta do iceberg”, assinalou Manuel Fontaine, director regional da UNICEF para a África Ocidental, numa vídeo-conferência a partir de Dacar.
+“|“|PUNCT
+Sabemos|Saber|VERB
+que|que|SCONJ
+os|o|DET
+números|número|NOUN
+que|que|PRON
+temos|ter|VERB
+são|ser|AUX
+apenas|apenas|ADV
+a|o|DET
+ponta|ponta|NOUN
+do|de o|ADP
+iceberg|iceberg|NOUN
+”|”|PUNCT
+,|,|PUNCT
+assinalou|assinalar|VERB
+Manuel Fontaine|Manuel Fontaine|PROPN
+,|,|PUNCT
+director|director|NOUN
+regional|regional|ADJ
+da|de o|ADP
+UNICEF|UNICEF|PROPN
+para|para|ADP
+a|o|DET
+África Ocidental|África Ocidental|PROPN
+,|,|PUNCT
+numa|em um|ADP
+vídeo-conferência|vídeo-conferência|NOUN
+a|a|ADP
+partir|partir|NOUN
+de|de|ADP
+Dacar|Dacar|VERB
+.|.|PUNCT
+# Um dos principais problemas enfrentados por aqueles menores é o repúdio por parte da família por receio de que possam transmitir a doença.
+Um|um|NUM
+dos|de o|ADP
+principais|principal|ADJ
+problemas|problema|NOUN
+enfrentados|enfrentar|VERB
+por|por|ADP
+aqueles|aquele|DET
+menores|pequeno|NOUN
+é|ser|AUX
+o|o|DET
+repúdio|repúdio|NOUN
+por|por|ADP
+parte|parte|NOUN
+da|de o|ADP
+família|família|NOUN
+por|por|ADP
+receio|receio|NOUN
+de|de|SCONJ
+que|que|SCONJ
+possam|poder|VERB
+transmitir|transmitir|VERB
+a|o|DET
+doença|doença|NOUN
+.|.|PUNCT
+# “Vemos que alguns familiares ou vizinhos lhes dão de comer, mas poucos querem acolhê-los”, disse Fontaine, salientando ser “raríssimo em África que a família alargada não assuma o cuidado das crianças”, o que “mostra o medo que reina”.
+“|“|PUNCT
+Vemos|Vemos|VERB
+que|que|SCONJ
+alguns|algum|DET
+familiares|familiar|NOUN
+ou|ou|CCONJ
+vizinhos|vizinho|NOUN
+lhes|eles|PRON
+dão|dar|VERB
+de|de|SCONJ
+comer|comer|VERB
+,|,|PUNCT
+mas|mas|CCONJ
+poucos|pouco|PRON
+querem|querer|VERB
+acolhê-los|acolhê-los|VERB
+”|”|PUNCT
+,|,|PUNCT
+disse|dizer|VERB
+Fontaine|Fontaine|PROPN
+,|,|PUNCT
+salientando|salientar|VERB
+ser|ser|AUX
+“|“|PUNCT
+raríssimo|raríssimo|ADJ
+em|em|ADP
+África|África|PROPN
+que|que|PRON
+a|o|DET
+família|família|NOUN
+alargada|alargar|VERB
+não|não|ADV
+assuma|assuma|VERB
+o|o|DET
+cuidado|cuidado|NOUN
+das|de o|ADP
+crianças|criança|NOUN
+”|”|PUNCT
+,|,|PUNCT
+o|o|PRON
+que|que|PRON
+“|“|PUNCT
+mostra|mostrar|VERB
+o|o|DET
+medo|medo|NOUN
+que|que|PRON
+reina|reinar|VERB
+”|”|PUNCT
+.|.|PUNCT
+# Perante a situação, a UNICEF está a tentar criar centros infantis para acolher os órfãos, sendo uma das possibilidades os que sobreviveram ao vírus ficarem encarregados deles.
+Perante|perante|ADP
+a|o|DET
+situação|situação|NOUN
+,|,|PUNCT
+a|o|DET
+UNICEF|UNICEF|PROPN
+está|estar|VERB
+a|a|SCONJ
+tentar|tentar|VERB
+criar|criar|VERB
+centros|centro|NOUN
+infantis|infantil|ADJ
+para|para|SCONJ
+acolher|acolher|VERB
+os|o|DET
+órfãos|órfão|ADJ
+,|,|PUNCT
+sendo|ser|AUX
+uma|um|NUM
+das|de o|ADP
+possibilidades|possibilidade|NOUN
+os|o|PRON
+que|que|PRON
+sobreviveram|sobreviver|VERB
+ao|a o|ADP
+vírus|vírus|NOUN
+ficarem|ficar|VERB
+encarregados|encarregado|ADJ
+deles|de ele|PRON
+.|.|PUNCT
+# De acordo com os dados divulgados hoje por esta agência da ONU, dos mais de 3.100 mortos com Ébola, 15 por cento eram crianças menores de 15 anos.
+De|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+os|o|DET
+dados|dado|NOUN
+divulgados|divulgar|VERB
+hoje|hoje|ADV
+por|por|ADP
+esta|este|DET
+agência|agência|NOUN
+da|de o|ADP
+ONU|ONU|PROPN
+,|,|PUNCT
+dos|de o|ADP
+mais|mais|ADV
+de|de|ADP
+3.100|3.100|NUM
+mortos|morto|NOUN
+com|com|ADP
+Ébola|Ébola|PROPN
+,|,|PUNCT
+15|15|NUM
+por|por|ADP
+cento|cento|NUM
+eram|ser|AUX
+crianças|criança|NOUN
+menores|pequeno|ADJ
+de|de|ADP
+15|15|NUM
+anos|ano|NOUN
+.|.|PUNCT
+# As Nações Unidas informaram, por outro lado, que de um total de 987 milhões de dólares solicitados para a luta contra o Ébola apenas foram recebidos até agora 254 milhões, o que corresponde a 26 por cento.
+As|o|DET
+Nações Unidas|Nações Unidas|PROPN
+informaram|informar|VERB
+,|,|PUNCT
+por|por|ADP
+outro|outro|DET
+lado|lado|NOUN
+,|,|PUNCT
+que|que|PRON
+de|de|ADP
+um|um|DET
+total|total|NOUN
+de|de|ADP
+987|987|NUM
+milhões|milhão|NUM
+de|de|ADP
+dólares|dólar|NOUN
+solicitados|solicitar|VERB
+para|para|ADP
+a|o|DET
+luta|luta|NOUN
+contra|contra|ADP
+o|o|DET
+Ébola|Ébola|PROPN
+apenas|apenas|ADV
+foram|ser|AUX
+recebidos|receber|VERB
+até|até|ADP
+agora|agora|ADV
+254|254|NUM
+milhões|milhão|NUM
+,|,|PUNCT
+o|o|PRON
+que|que|PRON
+corresponde|corresponder|VERB
+a|a|ADP
+26|26|NUM
+por|por|ADP
+cento|cento|NUM
+.|.|PUNCT
+# Em seis meses, o Ébola infectou 6.553 pessoas, na maior epidemia da doença registada desde que o vírus foi descoberto em 1976 no antigo Zaire, no que é actualmente a República Democrática do Congo.
+Em|em|ADP
+seis|seis|NUM
+meses|mês|NOUN
+,|,|PUNCT
+o|o|DET
+Ébola|Ébola|PROPN
+infectou|infectar|VERB
+6.553|6.553|NUM
+pessoas|pessoa|NOUN
+,|,|PUNCT
+na|em o|ADP
+maior|grande|ADJ
+epidemia|epidemia|NOUN
+da|de o|ADP
+doença|doença|NOUN
+registada|registar|VERB
+desde|desde|SCONJ
+que|que|SCONJ
+o|o|DET
+vírus|vírus|NOUN
+foi|ser|AUX
+descoberto|descobrir|VERB
+em|em|ADP
+1976|1976|NUM
+no|em o|ADP
+antigo|antigo|ADJ
+Zaire|Zaire|PROPN
+,|,|PUNCT
+no|em o|PRON
+que|que|PRON
+é|ser|AUX
+actualmente|actualmente|ADV
+a|o|DET
+República Democrática do Congo|República Democrática de o Congo|PROPN
+.|.|PUNCT
+# 51 milhões de barris de petróleo em Setembro - Folha 8
+51|51|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+em|em|ADP
+Setembro - Folha 8|setembro - Folha 8|NOUN
+# Angola produziu aproximadamente 51 milhões de barris de petróleo no mês de Setembro, de acordo com um relatório do Ministério dos Petróleos.
+Angola|Angola|PROPN
+produziu|produzir|VERB
+aproximadamente|aproximadamente|ADV
+51|51|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+no|em o|ADP
+mês|mês|NOUN
+de|de|ADP
+Setembro|setembro|NOUN
+,|,|PUNCT
+de|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+um|um|DET
+relatório|relatório|NOUN
+do|de o|ADP
+Ministério dos Petróleos|Ministério de o Petróleos|PROPN
+.|.|PUNCT
+# Segundo o documento sobre o sector de Petróleo e Gás em Angola, apesar de a produção angolana até estar a recuperar das quebras no primeiro semestre do ano, este resultado apresenta uma “diminuição em torno de 2,5 por cento”, em comparação com o mês anterior.
+Segundo|segundo|ADP
+o|o|DET
+documento|documento|NOUN
+sobre|sobre|ADP
+o|o|DET
+sector|sector|NOUN
+de|de|ADP
+Petróleo e Gás|Petróleo e Gás|PROPN
+em|em|ADP
+Angola|Angola|PROPN
+,|,|PUNCT
+apesar|apesar|ADV
+de|de|ADP
+a|o|DET
+produção|produção|NOUN
+angolana|angolano|ADJ
+até|até|SCONJ
+estar|estar|VERB
+a|a|SCONJ
+recuperar|recuperar|VERB
+das|de o|ADP
+quebras|quebra|NOUN
+no|em o|ADP
+primeiro|primeiro|ADJ
+semestre|semestre|NOUN
+do|de o|ADP
+ano|ano|NOUN
+,|,|PUNCT
+este|este|DET
+resultado|resultado|NOUN
+apresenta|apresentar|VERB
+uma|um|DET
+“|“|PUNCT
+diminuição|diminuição|NOUN
+em|em|ADP
+torno|torno|NOUN
+de|de|ADP
+2,5|2,5|NUM
+por|por|ADP
+cento|cento|NUM
+”|”|PUNCT
+,|,|PUNCT
+em|em|ADP
+comparação|comparação|NOUN
+com|com|ADP
+o|o|DET
+mês|mês|NOUN
+anterior|anterior|ADJ
+.|.|PUNCT
+# A produção angolana cifrou-se em Agosto (31 dias) em quase 53 milhões de barris de petróleo.
+A|o|DET
+produção|produção|NOUN
+angolana|angolano|ADJ
+cifrou-se|cifrar se|VERB
+em|em|ADP
+Agosto|agosto|NOUN
+(|(|PUNCT
+31|31|NUM
+dias|dia|NOUN
+)|)|PUNCT
+em|em|ADP
+quase|quase|ADV
+53|53|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+.|.|PUNCT
+# Com estes dados a produção estabilizou entre Agosto e Setembro em 1,7 milhões de barris de petróleo diários, por contraste com os cerca de 1,5 milhões de barris por dia verificados no primeiro semestre.
+Com|com|ADP
+estes|este|DET
+dados|dado|NOUN
+a|o|DET
+produção|produção|NOUN
+estabilizou|estabilizar|VERB
+entre|entre|ADP
+Agosto e Setembro|agosto e setembro|NOUN
+em|em|ADP
+1,7|1,7|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+diários|diário|ADJ
+,|,|PUNCT
+por|por|ADP
+contraste|contraste|NOUN
+com|com|ADP
+os|o|DET
+cerca|cerca|ADV
+de|de|ADP
+1,5|1,5|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+por|por|ADP
+dia|dia|NOUN
+verificados|verificar|VERB
+no|em o|ADP
+primeiro|primeiro|ADJ
+semestre|semestre|NOUN
+.|.|PUNCT
+# Já as exportações de petróleo bruto totalizaram cerca de 49,4 milhões de barris, o que demonstra uma diminuição de 6,9 por cento, face a Agosto.
+Já|já|ADV
+as|o|DET
+exportações|exportação|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+bruto|bruto|ADJ
+totalizaram|totalizar|VERB
+cerca|cerca|ADV
+de|de|ADP
+49,4|49,4|NUM
+milhões|milhão|NUM
+de|de|ADP
+barris|barri|NOUN
+,|,|PUNCT
+o|o|PRON
+que|que|PRON
+demonstra|demonstrar|VERB
+uma|um|DET
+diminuição|diminuição|NOUN
+de|de|ADP
+6,9|6,9|NUM
+por|por|ADP
+cento|cento|NUM
+,|,|PUNCT
+face|face|ADV
+a|a|ADP
+Agosto|agosto|NOUN
+.|.|PUNCT
+# O mesmo relatório indica que Angola produziu, ainda durante o mês de Setembro, cerca de 539,2 mil barris de gás de petróleo liquefeito, um aumento de 3,34% por comparação com o mês anterior.
+O|o|DET
+mesmo|mesmo|ADJ
+relatório|relatório|NOUN
+indica|indicar|VERB
+que|que|SCONJ
+Angola|Angola|PROPN
+produziu|produzir|VERB
+,|,|PUNCT
+ainda|ainda|ADV
+durante|durante|ADP
+o|o|DET
+mês|mês|NOUN
+de|de|ADP
+Setembro|setembro|NOUN
+,|,|PUNCT
+cerca|cerca|ADV
+de|de|ADP
+539,2|539,2|NUM
+mil|mil|NUM
+barris|barri|NOUN
+de|de|ADP
+gás|gás|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+liquefeito|liquefeito|ADJ
+,|,|PUNCT
+um|um|DET
+aumento|aumento|NOUN
+de|de|ADP
+3,34|3,34|NUM
+%|%|SYM
+por|por|ADP
+comparação|comparação|NOUN
+com|com|ADP
+o|o|DET
+mês|mês|NOUN
+anterior|anterior|ADJ
+.|.|PUNCT
+# O documento reflecte também a actividade da Refinaria de Luanda, que processou aproximadamente 190,4 mil toneladas de petróleo bruto, uma quebra de cerca de 9% face a Agosto.
+O|o|DET
+documento|documento|NOUN
+reflecte|reflectir|VERB
+também|também|ADV
+a|o|DET
+actividade|actividade|NOUN
+da|de o|ADP
+Refinaria de Luanda|Refinaria de Luanda|PROPN
+,|,|PUNCT
+que|que|PRON
+processou|processar|VERB
+aproximadamente|aproximadamente|ADV
+190,4|190,4|NUM
+mil|mil|NUM
+toneladas|tonelada|NOUN
+de|de|ADP
+petróleo|petróleo|NOUN
+bruto|bruto|ADJ
+,|,|PUNCT
+uma|um|DET
+quebra|quebra|NOUN
+de|de|ADP
+cerca|cerca|ADV
+de|de|ADP
+9|9|NUM
+%|%|SYM
+face|face|ADV
+a|a|ADP
+Agosto|agosto|NOUN
+.|.|PUNCT
+# Feliz Natal -
+Feliz Natal|Feliz Natal|PROPN
+-|-|PUNCT
+# Folha 8
+Folha 8|Folha 8|PROPN
+# Todos os que produzem, colaboram, escrevem e levam até sí o Folha 8, seja na versão impressa ou nas versões digitais (online e redes sociais) desejam-lhe votos de paz, harmonia e felicidade.
+Todos|todo|DET
+os|o|PRON
+que|que|PRON
+produzem|produzir|VERB
+,|,|PUNCT
+colaboram|colaborar|VERB
+,|,|PUNCT
+escrevem|escrever|VERB
+e|e|CCONJ
+levam|levar|VERB
+até|até|ADP
+sí|sí|NOUN
+o|o|DET
+Folha 8|Folha 8|PROPN
+,|,|PUNCT
+seja|ser|VERB
+na|em o|ADP
+versão|versão|NOUN
+impressa|impressa|VERB
+ou|ou|CCONJ
+nas|em o|ADP
+versões|versão|NOUN
+digitais|digital|ADJ
+(|(|PUNCT
+online|online|X
+e|e|CCONJ
+redes|rede|NOUN
+sociais|social|ADJ
+)|)|PUNCT
+desejam-lhe|desejam-lhe|VERB
+votos|voto|NOUN
+de|de|ADP
+paz|paz|NOUN
+,|,|PUNCT
+harmonia|harmonia|NOUN
+e|e|CCONJ
+felicidade|felicidade|NOUN
+.|.|PUNCT
+# Do director ao ardina.
+Do|de o|ADP
+director|director|NOUN
+ao|a o|ADP
+ardina|ardina|NOUN
+.|.|PUNCT
+# Feliz Natal
+Feliz Natal|Feliz Natal|PROPN
+# 80% das nossas mulheres são vítimas de violência - Folha 8
+80|80|NUM
+%|%|SYM
+das|de o|ADP
+nossas|nosso|DET
+mulheres|mulher|NOUN
+são|ser|AUX
+vítimas|vítima|NOUN
+de|de|ADP
+violência|violência|NOUN
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# Oito em cada 10 mulheres em Angola já foi vítima de violência doméstica, segundo o relatório do Índice de Género e Instituições Sociais da OCDE divulgado hoje sobre a discriminação das mulheres.
+Oito|oito|NUM
+em|em|ADP
+cada|cada|DET
+10|10|NUM
+mulheres|mulher|NOUN
+em|em|ADP
+Angola|Angola|PROPN
+já|já|ADV
+foi|ser|AUX
+vítima|vítima|NOUN
+de|de|ADP
+violência|violência|NOUN
+doméstica|doméstico|ADJ
+,|,|PUNCT
+segundo|segundo|ADP
+o|o|DET
+relatório|relatório|NOUN
+do|de o|ADP
+Índice de Género|Índice de Género|PROPN
+e|e|CCONJ
+Instituições Sociais da OCDE|Instituições Sociais de o OCDE|PROPN
+divulgado|divulgar|VERB
+hoje|hoje|ADV
+sobre|sobre|ADP
+a|o|DET
+discriminação|discriminação|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+.|.|PUNCT
+# O documento da Organização para a Cooperação e Desenvolvimento (OCDE) apresenta a prevalência de discriminação em instituições sociais e promove a importância de normas sociais convencionais na defesa da igualdade de género.
+O|o|DET
+documento|documento|NOUN
+da|de o|ADP
+Organização para a Cooperação e Desenvolvimento|Organização para a Cooperação e Desenvolvimento|PROPN
+(|(|PUNCT
+OCDE|OCDE|PROPN
+)|)|PUNCT
+apresenta|apresentar|VERB
+a|o|DET
+prevalência|prevalência|NOUN
+de|de|ADP
+discriminação|discriminação|NOUN
+em|em|ADP
+instituições|instituição|NOUN
+sociais|social|ADJ
+e|e|CCONJ
+promove|promover|VERB
+a|o|DET
+importância|importância|NOUN
+de|de|ADP
+normas|norma|NOUN
+sociais|social|ADJ
+convencionais|convencional|ADJ
+na|em o|ADP
+defesa|defesa|NOUN
+da|de o|ADP
+igualdade|igualdade|NOUN
+de|de|ADP
+género|género|NOUN
+.|.|PUNCT
+# Enquanto que a média dos 108 países avaliados é de 30%, em Angola 80% das mulheres dizem ter sido vítimas de violência de homens, enquanto no outro extremo, no Canadá, apenas 7% das mulheres alegaram violência doméstica.
+Enquanto|enquanto|SCONJ
+que|que|SCONJ
+a|o|DET
+média|média|NOUN
+dos|de o|ADP
+108|108|NUM
+países|país|NOUN
+avaliados|avaliar|VERB
+é|ser|AUX
+de|de|ADP
+30|30|NUM
+%|%|SYM
+,|,|PUNCT
+em|em|ADP
+Angola|Angola|PROPN
+80|80|NUM
+%|%|SYM
+das|de o|ADP
+mulheres|mulher|NOUN
+dizem|dizer|VERB
+ter|ter|AUX
+sido|ser|AUX
+vítimas|vítima|NOUN
+de|de|ADP
+violência|violência|NOUN
+de|de|ADP
+homens|homem|NOUN
+,|,|PUNCT
+enquanto|enquanto|ADV
+no|em o|ADP
+outro|outro|DET
+extremo|extremo|ADJ
+,|,|PUNCT
+no|em o|ADP
+Canadá|Canadá|PROPN
+,|,|PUNCT
+apenas|apenas|ADV
+7|7|NUM
+%|%|SYM
+das|de o|ADP
+mulheres|mulher|NOUN
+alegaram|alegar|VERB
+violência|violência|NOUN
+doméstica|doméstico|ADJ
+.|.|PUNCT
+# Angola ficou na 57ª posição da tabela geral, registando também elevados níveis de discriminação no poder de decisão das mulheres dentro da família, no acesso a bens e recursos e na participação social e política.
+Angola|Angola|PROPN
+ficou|ficar|VERB
+na|em o|ADP
+57ª|57ª|ADJ
+posição|posição|NOUN
+da|de o|ADP
+tabela|tabela|NOUN
+geral|geral|ADJ
+,|,|PUNCT
+registando|registar|VERB
+também|também|ADV
+elevados|elevar|VERB
+níveis|nível|NOUN
+de|de|ADP
+discriminação|discriminação|NOUN
+no|em o|ADP
+poder|poder|NOUN
+de|de|ADP
+decisão|decisão|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+dentro|dentro|ADV
+da|de o|ADP
+família|família|NOUN
+,|,|PUNCT
+no|em o|ADP
+acesso|acesso|NOUN
+a|a|ADP
+bens|bem|NOUN
+e|e|CCONJ
+recursos|recurso|NOUN
+e|e|CCONJ
+na|em o|ADP
+participação|participação|NOUN
+social|social|ADJ
+e|e|CCONJ
+política|político|ADJ
+.|.|PUNCT
+# O melhor desempenho regista-se no tratamento dos filhos, onde a desigualdade de género é considerada “baixa”.
+O|o|DET
+melhor|bom|ADJ
+desempenho|desempenho|NOUN
+regista-se|registar se|VERB
+no|em o|ADP
+tratamento|tratamento|NOUN
+dos|de o|ADP
+filhos|filho|NOUN
+,|,|PUNCT
+onde|onde|PRON
+a|o|DET
+desigualdade|desigualdade|NOUN
+de|de|ADP
+género|género|NOUN
+é|ser|AUX
+considerada|considerar|VERB
+“|“|PUNCT
+baixa|baixa|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# A edição deste ano do Índice pretende identificar e avaliar discriminação baseada no género em leis, atitudes e práticas em 160 países, mas só produz uma tabela de 108 países devido à falta de informação comparativa sobre o tema em alguns países, como Portugal, Cabo Verde ou São Tomé e Príncipe.
+A|o|DET
+edição|edição|NOUN
+deste|de este|ADP
+ano|ano|NOUN
+do|de o|ADP
+Índice|Índice|NOUN
+pretende|pretender|VERB
+identificar|identificar|VERB
+e|e|CCONJ
+avaliar|avaliar|VERB
+discriminação|discriminação|NOUN
+baseada|basear|VERB
+no|em o|ADP
+género|género|NOUN
+em|em|ADP
+leis|lei|NOUN
+,|,|PUNCT
+atitudes|atitude|NOUN
+e|e|CCONJ
+práticas|prática|NOUN
+em|em|ADP
+160|160|NUM
+países|país|NOUN
+,|,|PUNCT
+mas|mas|CCONJ
+só|só|ADV
+produz|produzir|VERB
+uma|um|DET
+tabela|tabela|NOUN
+de|de|ADP
+108|108|NUM
+países|país|NOUN
+devido|devido|ADV
+à|a o|ADP
+falta|falta|NOUN
+de|de|ADP
+informação|informação|NOUN
+comparativa|comparativo|ADJ
+sobre|sobre|ADP
+o|o|DET
+tema|tema|NOUN
+em|em|ADP
+alguns|algum|DET
+países|país|NOUN
+,|,|PUNCT
+como|como|ADP
+Portugal|Portugal|PROPN
+,|,|PUNCT
+Cabo Verde|Cabo Verde|PROPN
+ou|ou|CCONJ
+São Tomé e Príncipe|São Tomé e Príncipe|PROPN
+.|.|PUNCT
+# A Guiné-Bissau ocupa o 67º, sendo que a OCDE nota a falta de legislação que ponha em prática os compromissos nacionais e internacionais de combate à discriminação das mulheres.
+A|o|DET
+Guiné-Bissau|Guiné-Bissau|PROPN
+ocupa|ocupar|VERB
+o|o|DET
+67º|67º|ADJ
+,|,|PUNCT
+sendo|ser|AUX
+que|que|SCONJ
+a|o|DET
+OCDE|OCDE|PROPN
+nota|notar|VERB
+a|o|DET
+falta|falta|NOUN
+de|de|ADP
+legislação|legislação|NOUN
+que|que|PRON
+ponha|ponha|VERB
+em|em|ADP
+prática|prática|NOUN
+os|o|DET
+compromissos|compromisso|NOUN
+nacionais|nacional|ADJ
+e|e|CCONJ
+internacionais|internacional|ADJ
+de|de|ADP
+combate|combate|NOUN
+à|a o|ADP
+discriminação|discriminação|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+.|.|PUNCT
+# O estudo refere existirem restrições elevadas dos direitos das mulheres na Guiné-Bissau dentro da família, na taxa elevada de violência doméstica, na falta de acesso a bens e recursos e na baixa participação feminina em termos sociais e políticos.
+O|o|DET
+estudo|estudo|NOUN
+refere|referir|VERB
+existirem|existir|VERB
+restrições|restrição|NOUN
+elevadas|elevado|ADJ
+dos|de o|ADP
+direitos|direito|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+na|em o|ADP
+Guiné-Bissau|Guiné-Bissau|PROPN
+dentro|dentro|ADV
+da|de o|ADP
+família|família|NOUN
+,|,|PUNCT
+na|em o|ADP
+taxa|taxa|NOUN
+elevada|elevar|VERB
+de|de|ADP
+violência|violência|NOUN
+doméstica|doméstico|ADJ
+,|,|PUNCT
+na|em o|ADP
+falta|falta|NOUN
+de|de|ADP
+acesso|acesso|NOUN
+a|a|ADP
+bens|bem|NOUN
+e|e|CCONJ
+recursos|recurso|NOUN
+e|e|CCONJ
+na|em o|ADP
+baixa|baixo|ADJ
+participação|participação|NOUN
+feminina|feminino|ADJ
+em|em|ADP
+termos|termos|NOUN
+sociais|social|ADJ
+e|e|CCONJ
+políticos|político|ADJ
+.|.|PUNCT
+# Dentro da categoria que avalia a integridade física e a autonomia reprodutiva, o relatório aponta para um número elevado de mulheres vítimas de mutilação genital, mas não encontra parcialidade no tratamento dos filhos em relação às filhas.
+Dentro|dentro|ADV
+da|de o|ADP
+categoria|categoria|NOUN
+que|que|PRON
+avalia|avaliar|VERB
+a|o|DET
+integridade|integridade|NOUN
+física|físico|ADJ
+e|e|CCONJ
+a|o|DET
+autonomia|autonomia|NOUN
+reprodutiva|reprodutivo|ADJ
+,|,|PUNCT
+o|o|DET
+relatório|relatório|NOUN
+aponta|apontar|VERB
+para|para|ADP
+um|um|DET
+número|número|NOUN
+elevado|elevar|VERB
+de|de|ADP
+mulheres|mulher|NOUN
+vítimas|vítim|NOUN
+de|de|ADP
+mutilação|mutilação|NOUN
+genital|genital|ADJ
+,|,|PUNCT
+mas|mas|CCONJ
+não|não|ADV
+encontra|encontrar|VERB
+parcialidade|parcialidade|NOUN
+no|em o|ADP
+tratamento|tratamento|NOUN
+dos|de o|ADP
+filhos|filho|NOUN
+em|em|ADP
+relação|relação|NOUN
+às|a o|ADP
+filhas|filha|NOUN
+.|.|PUNCT
+# Na avaliação ao país, os responsáveis pelo relatório referem que a discriminação entre géneros é proibida pela Constituição de 1984 e que o país ratificou protocolos e convenções internacionais, mas salienta que “falta legislação em prática que permita a realização destes compromissos nacionais e internacionais”.
+Na|em o|ADP
+avaliação|avaliação|NOUN
+ao|a o|ADP
+país|país|NOUN
+,|,|PUNCT
+os|o|DET
+responsáveis|responsável|NOUN
+pelo|por o|ADP
+relatório|relatório|NOUN
+referem|referir|VERB
+que|que|SCONJ
+a|o|DET
+discriminação|discriminação|NOUN
+entre|entre|ADP
+géneros|género|NOUN
+é|ser|AUX
+proibida|proiber|VERB
+pela|por o|ADP
+Constituição de 1984|constituição de 1984|PROPN
+e|e|CCONJ
+que|que|SCONJ
+o|o|DET
+país|país|NOUN
+ratificou|ratificar|VERB
+protocolos|protocolo|NOUN
+e|e|CCONJ
+convenções|convenção|NOUN
+internacionais|internacional|ADJ
+,|,|PUNCT
+mas|mas|CCONJ
+salienta|salientar|VERB
+que|que|SCONJ
+“|“|PUNCT
+falta|falta|NOUN
+legislação|legislação|NOUN
+em|em|ADP
+prática|prática|NOUN
+que|que|PRON
+permita|permitir|VERB
+a|o|DET
+realização|realização|NOUN
+destes|de este|ADP
+compromissos|compromisso|NOUN
+nacionais|nacional|ADJ
+e|e|CCONJ
+internacionais|internacional|ADJ
+”|”|PUNCT
+.|.|PUNCT
+# O Brasil está no grupo dos 20 países com menor discriminação das mulheres, mas apresenta uma das piores taxas de participação política feminina.
+O|o|DET
+Brasil|Brasil|PROPN
+está|estar|AUX
+no|em o|ADP
+grupo|grupo|NOUN
+dos|de o|ADP
+20|20|NUM
+países|país|NOUN
+com|com|ADP
+menor|pequeno|ADJ
+discriminação|discriminação|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+,|,|PUNCT
+mas|mas|CCONJ
+apresenta|apresentar|VERB
+uma|um|NUM
+das|de o|ADP
+piores|piores|ADJ
+taxas|taxa|NOUN
+de|de|ADP
+participação|participação|NOUN
+política|político|ADJ
+feminina|feminino|ADJ
+.|.|PUNCT
+# No caso brasileiro, embora, por lei, seja exigido aos partidos que 30% das candidaturas em eleições nacionais sejam de mulheres, apenas 8,6% dos assentos no Congresso Nacional brasileiro são ocupados por mulheres.
+No|em o|ADP
+caso|caso|NOUN
+brasileiro|brasileiro|ADJ
+,|,|PUNCT
+embora|embora|SCONJ
+,|,|PUNCT
+por|por|ADP
+lei|lei|NOUN
+,|,|PUNCT
+seja|ser|AUX
+exigido|exigir|VERB
+aos|a o|ADP
+partidos|partido|NOUN
+que|que|PRON
+30|30|NUM
+%|%|SYM
+das|de o|ADP
+candidaturas|candidatura|NOUN
+em|em|ADP
+eleições|eleição|NOUN
+nacionais|nacional|ADJ
+sejam|ser|AUX
+de|de|ADP
+mulheres|mulher|NOUN
+,|,|PUNCT
+apenas|apenas|ADV
+8,6|8,6|NUM
+%|%|SYM
+dos|de o|ADP
+assentos|assento|NOUN
+no|em o|ADP
+Congresso Nacional brasileiro|Congresso Nacional brasileiro|PROPN
+são|ser|AUX
+ocupados|ocupar|VERB
+por|por|ADP
+mulheres|mulher|NOUN
+.|.|PUNCT
+# O estudo salienta que esta baixa participação feminina nas instituições políticas brasileiras está ao nível da República Democrática do Congo, Egipto e República do Congo, e abaixo da média global de 20%.
+O|o|DET
+estudo|estudo|NOUN
+salienta|salientar|VERB
+que|que|SCONJ
+esta|este|DET
+baixa|baixo|ADJ
+participação|participação|NOUN
+feminina|feminino|ADJ
+nas|em o|ADP
+instituições|instituição|NOUN
+políticas|político|ADJ
+brasileiras|brasileiro|ADJ
+está|estar|AUX
+ao|a o|ADP
+nível|nível|NOUN
+da|de o|ADP
+República Democrática do Congo|República Democrática de o Congo|PROPN
+,|,|PUNCT
+Egipto|Egipto|PROPN
+e|e|CCONJ
+República do Congo|República de o Congo|PROPN
+,|,|PUNCT
+e|e|CCONJ
+abaixo|abaixo|ADV
+da|de o|ADP
+média|média|NOUN
+global|global|ADJ
+de|de|ADP
+20|20|NUM
+%|%|SYM
+.|.|PUNCT
+# O estudo identifica restrições reduzidas aos direitos das mulheres brasileiras dentro da família, na falta de acesso a bens e recursos e violência doméstica baixa, mas refere a existência de discriminação, sobretudo em meios rurais e pobres.
+O|o|DET
+estudo|estudo|NOUN
+identifica|identificar|VERB
+restrições|restrição|NOUN
+reduzidas|reduzir|VERB
+aos|a o|ADP
+direitos|direito|NOUN
+das|de o|ADP
+mulheres|mulher|NOUN
+brasileiras|brasileiro|ADJ
+dentro|dentro|ADV
+da|de o|ADP
+família|família|NOUN
+,|,|PUNCT
+na|em o|ADP
+falta|falta|NOUN
+de|de|ADP
+acesso|acesso|NOUN
+a|a|ADP
+bens|bem|NOUN
+e|e|CCONJ
+recursos|recurso|NOUN
+e|e|CCONJ
+violência|violência|NOUN
+doméstica|doméstico|ADJ
+baixa|baixo|ADJ
+,|,|PUNCT
+mas|mas|CCONJ
+refere|referir|VERB
+a|o|DET
+existência|existência|NOUN
+de|de|ADP
+discriminação|discriminação|NOUN
+,|,|PUNCT
+sobretudo|sobretudo|ADV
+em|em|ADP
+meios|meio|NOUN
+rurais|rural|ADJ
+e|e|CCONJ
+pobres|pobre|ADJ
+.|.|PUNCT
+# O Brasil é o país da Comunidade dos Países de Língua Portuguesa (CPLP) com melhor classificação, no 20º lugar, num índice cujo topo é ocupado em primeiro lugar pela Bélgica, seguida pela França, Eslovénia, Espanha, Sérvia, Argentina, Itália, Cuba, Trinidad e Tobago e República Checa.
+O|o|DET
+Brasil|Brasil|PROPN
+é|ser|AUX
+o|o|DET
+país|país|NOUN
+da|de o|ADP
+Comunidade dos Países de Língua Portuguesa|Comunidade de o Países de Língua Portuguesa|PROPN
+(|(|PUNCT
+CPLP|CPLP|PROPN
+)|)|PUNCT
+com|com|ADP
+melhor|bom|ADJ
+classificação|classificação|NOUN
+,|,|PUNCT
+no|em o|ADP
+20º|20º|ADJ
+lugar|lugar|NOUN
+,|,|PUNCT
+num|em um|ADP
+índice|índice|NOUN
+cujo|cujo|DET
+topo|topo|NOUN
+é|ser|AUX
+ocupado|ocupar|VERB
+em|em|ADP
+primeiro|primeiro|ADJ
+lugar|lugar|NOUN
+pela|por o|ADP
+Bélgica|Bélgica|PROPN
+,|,|PUNCT
+seguida|seguir|VERB
+pela|por o|ADP
+França|França|PROPN
+,|,|PUNCT
+Eslovénia|Eslovénia|PROPN
+,|,|PUNCT
+Espanha|Espanha|PROPN
+,|,|PUNCT
+Sérvia|Sérvia|PROPN
+,|,|PUNCT
+Argentina|Argentina|PROPN
+,|,|PUNCT
+Itália|Itália|PROPN
+,|,|PUNCT
+Cuba|Cuba|PROPN
+,|,|PUNCT
+Trinidad e Tobago|Trinidad e Tobago|PROPN
+e|e|CCONJ
+República Checa|República Checa|PROPN
+.|.|PUNCT
+# Só 8,25 mil milhões em Defesa e Segurança?
+Só|só|ADV
+8,25|8,25|NUM
+mil|mil|NUM
+milhões|milhão|NUM
+em|em|ADP
+Defesa|Defesa|PROPN
+e|e|CCONJ
+Segurança?|Segurança?|PROPN
+# - Folha 8
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# Angola prevê gastar no próximo ano 8,25 mil milhões de euros na Defesa, Segurança e Ordem Pública, equivalente a 14,11% de toda a despesa nacional, segundo a proposta de Orçamento Geral do Estado (OGE).
+Angola|Angola|PROPN
+prevê|prever|VERB
+gastar|gastar|VERB
+no|em o|ADP
+próximo|próximo|ADJ
+ano|ano|NOUN
+8,25|8,25|NUM
+mil|mil|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+na|em o|ADP
+Defesa|Defesa|PROPN
+,|,|PUNCT
+Segurança|Segurança|PROPN
+e|e|CCONJ
+Ordem Pública|Ordem Pública|PROPN
+,|,|PUNCT
+equivalente|equivalente|ADJ
+a|a|ADP
+14,11|14,11|NUM
+%|%|SYM
+de|de|ADP
+toda|todo|DET
+a|o|DET
+despesa|despesa|NOUN
+nacional|nacional|ADJ
+,|,|PUNCT
+segundo|segundo|ADP
+a|o|DET
+proposta|proposta|NOUN
+de|de|ADP
+Orçamento Geral do Estado|Orçamento Geral de o Estado|PROPN
+(|(|PUNCT
+OGE|OGE|PROPN
+)|)|PUNCT
+.|.|PUNCT
+# Os dados constam da proposta do OGE para 2015 e que será discutida e votada na generalidade, na quinta-feira, na Assembleia Nacional.
+Os|o|DET
+dados|dado|NOUN
+constam|constar|VERB
+da|de o|ADP
+proposta|proposta|NOUN
+do|de o|ADP
+OGE|OGE|PROPN
+para|para|ADP
+2015|2015|NUM
+e|e|CCONJ
+que|que|SCONJ
+será|ser|AUX
+discutida|discutir|VERB
+e|e|CCONJ
+votada|votar|VERB
+na|em o|ADP
+generalidade|generalidade|NOUN
+,|,|PUNCT
+na|em o|ADP
+quinta-feira|quinta-feira|NOUN
+,|,|PUNCT
+na|em o|ADP
+Assembleia Nacional|Assembleia Nacional|PROPN
+.|.|PUNCT
+# O documento prevê, globalmente, um défice nas contas públicas de 7,6% do Produto Interno Bruto (PIB) no próximo ano e um crescimento da economia nacional de 9,7%.
+O|o|DET
+documento|documento|NOUN
+prevê|prever|VERB
+,|,|PUNCT
+globalmente|globalmente|ADV
+,|,|PUNCT
+um|um|DET
+défice|défice|NOUN
+nas|em o|ADP
+contas|conta|NOUN
+públicas|público|ADJ
+de|de|ADP
+7,6|7,6|NUM
+%|%|SYM
+do|de o|ADP
+Produto Interno Bruto|Produto Interno Bruto|PROPN
+(|(|PUNCT
+PIB|PIB|PROPN
+)|)|PUNCT
+no|em o|ADP
+próximo|próximo|ADJ
+ano|ano|NOUN
+e|e|CCONJ
+um|um|DET
+crescimento|crescimento|NOUN
+da|de o|ADP
+economia|economia|NOUN
+nacional|nacional|ADJ
+de|de|ADP
+9,7|9,7|NUM
+%|%|SYM
+.|.|PUNCT
+# No que toca ao sector da Defesa, o resumo da despesa do OGE por função prevê um total de gastos de 531.403 milhões de kwanzas (4.283 milhões de euros), ou seja 7,33% de todas as despesas.
+No|em o|PRON
+que|que|PRON
+toca|tocar|VERB
+ao|a o|ADP
+sector|sector|NOUN
+da|de o|ADP
+Defesa|Defesa|NOUN
+,|,|PUNCT
+o|o|DET
+resumo|resumo|NOUN
+da|de o|ADP
+despesa|despesa|NOUN
+do|de o|ADP
+OGE|OGE|PROPN
+por|por|ADP
+função|função|NOUN
+prevê|prever|VERB
+um|um|DET
+total|total|NOUN
+de|de|ADP
+gastos|gasto|NOUN
+de|de|ADP
+531.403|531.403|NUM
+milhões|milhão|NUM
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+4.283|4.283|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+,|,|PUNCT
+ou|ou|CCONJ
+seja|ser|AUX
+7,33|7,33|NUM
+%|%|SYM
+de|de|ADP
+todas|todo|DET
+as|o|DET
+despesas|despesa|NOUN
+.|.|PUNCT
+# Dentro deste sector, o documento prevê 6.833 milhões de kwanzas (55 milhões de euros) para “Serviços de Defesa não especificados”, correspondente a 0,09% do total.
+Dentro|dentro|ADV
+deste|de este|ADP
+sector|sector|NOUN
+,|,|PUNCT
+o|o|DET
+documento|documento|NOUN
+prevê|prever|VERB
+6.833|6.833|NUM
+milhões|milhão|NUM
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+55|55|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+para|para|ADP
+“|“|PROPN
+Serviços de Defesa|Serviços de Defesa|PROPN
+não|não|ADV
+especificados|especificar|VERB
+”|”|PUNCT
+,|,|PUNCT
+correspondente|correspondente|ADJ
+a|a|ADP
+0,09|0,09|NUM
+%|%|SYM
+do|de o|ADP
+total|total|NOUN
+.|.|PUNCT
+# No sector da Segurança e Ordem Pública, o mesmo documento antevê despesas de 491.626 milhões de kwanzas (3.963 milhões de euros), equivalente a 6,78% do total.
+No|em o|ADP
+sector|sector|NOUN
+da|de o|ADP
+Segurança e Ordem Pública|segurança e Ordem Pública|PROPN
+,|,|PUNCT
+o|o|DET
+mesmo|mesmo|ADJ
+documento|documento|NOUN
+antevê|antevêr|VERB
+despesas|despesa|NOUN
+de|de|ADP
+491.626|491.626|NUM
+milhões|milhão|NUM
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+3.963|3.963|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+,|,|PUNCT
+equivalente|equivalente|ADJ
+a|a|ADP
+6,78|6,78|NUM
+%|%|SYM
+do|de o|ADP
+total|total|NOUN
+.|.|PUNCT
+# Além dos gastos com serviços policiais, bombeiros, tribunais, prisões e protecção civil, o grosso da verba está concentrada na rubrica “
+Além|além|ADV
+dos|de o|ADP
+gastos|gasto|NOUN
+com|com|ADP
+serviços|serviço|NOUN
+policiais|policial|ADJ
+,|,|PUNCT
+bombeiros|bombeiro|NOUN
+,|,|PUNCT
+tribunais|tribunal|NOUN
+,|,|PUNCT
+prisões|prisão|NOUN
+e|e|CCONJ
+protecção|protecção|NOUN
+civil|civil|ADJ
+,|,|PUNCT
+o|o|DET
+grosso|grosso|NOUN
+da|de o|ADP
+verba|verba|NOUN
+está|estar|AUX
+concentrada|concentrado|VERB
+na|em o|ADP
+rubrica|rubrica|NOUN
+“|“|PUNCT
+# Serviços de Segurança e Ordem Pública não especificados”, equivalente a 447.768 milhões de kwanzas (3.610 milhões de euros).
+Serviços de Segurança|Serviços de Segurança|PROPN
+e|e|CCONJ
+Ordem|Ordem|PROPN
+Pública|Pública|PROPN
+não|não|ADV
+especificados|especificar|VERB
+”|”|PUNCT
+,|,|PUNCT
+equivalente|equivalente|ADJ
+a|a|ADP
+447.768|447.768|NUM
+milhões|milhão|NUM
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+3.610|3.610|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+.|.|PUNCT
+# Ou seja 6,17% das despesas totais nacionais.
+Ou|ou|CCONJ
+seja|ser|AUX
+6,17|6,17|NUM
+%|%|SYM
+das|de o|ADP
+despesas|despesa|NOUN
+totais|total|ADJ
+nacionais|nacional|ADJ
+.|.|PUNCT
+# Globalmente, Defesa e Segurança e Ordem Pública absorvem em 2015 mais de 1,023 biliões de kwanzas (8.253 milhões de euros) dos recursos públicos nacionais, o segundo corte consecutivo.
+Globalmente|Globalmente|ADV
+,|,|PUNCT
+Defesa|Defesa|PROPN
+e|e|CCONJ
+Segurança|Segurança|PROPN
+e|e|CCONJ
+Ordem|Ordem|PROPN
+Pública|Pública|PROPN
+absorvem|absorver|VERB
+em|em|ADP
+2015|2015|NUM
+mais|mais|ADV
+de|de|ADP
+1,023|1,023|NUM
+biliões|bilião|NUM
+de|de|ADP
+kwanzas|Kwanzas|NOUN
+(|(|PUNCT
+8.253|8.253|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+dos|de o|ADP
+recursos|recurso|NOUN
+públicos|público|ADJ
+nacionais|nacional|ADJ
+,|,|PUNCT
+o|o|DET
+segundo|segundo|ADJ
+corte|corte|NOUN
+consecutivo|consecutivo|ADJ
+.|.|PUNCT
+# Em 2013, os gastos com estes sectores cifraram-se em 1,172 biliões de kwanzas (9.455 milhões de euros).
+Em|em|ADP
+2013|2013|NUM
+,|,|PUNCT
+os|o|DET
+gastos|gasto|NOUN
+com|com|ADP
+estes|este|DET
+sectores|sector|NOUN
+cifraram-se|cifraram-se|VERB
+em|em|ADP
+1,172|1,172|NUM
+biliões|bilião|NUM
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+9.455|9.455|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+.|.|PUNCT
+# Num total de 7,251 biliões de kwanzas (58.478 milhões de euros) de despesas em 2015, e num ano em que o défice das contas públicas dispara, a maior percentagem única (19,22%) cabe às operações de dívida pública.
+Num|em um|ADP
+total|total|NOUN
+de|de|ADP
+7,251|7,251|NUM
+biliões|bilião|NUM
+de|de|ADP
+kwanzas|Kwanzas|NOUN
+(|(|PUNCT
+58.478|58.478|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+de|de|ADP
+despesas|despesa|NOUN
+em|em|ADP
+2015|2015|NUM
+,|,|PUNCT
+e|e|CCONJ
+num|em um|ADP
+ano|ano|NOUN
+em|em|ADP
+que|que|PRON
+o|o|DET
+défice|défice|NOUN
+das|de o|ADP
+contas|conta|NOUN
+públicas|público|ADJ
+dispara|disparar|VERB
+,|,|PUNCT
+a|o|DET
+maior|grande|ADJ
+percentagem|percentagem|NOUN
+única|único|ADJ
+(|(|PUNCT
+19,22|19,22|NUM
+%|%|SYM
+)|)|PUNCT
+cabe|caber|VERB
+às|a o|ADP
+operações|operação|NOUN
+de|de|ADP
+dívida|dívida|NOUN
+pública|público|ADJ
+.|.|PUNCT
+# Representa uma despesa prevista de 1,394 biliões de kwanzas (11.241 milhões de euros), dividido praticamente em partes iguais entre operações de dívida pública no mercado interno e externo.
+Representa|Representa|VERB
+uma|um|DET
+despesa|despesa|NOUN
+prevista|prever|VERB
+de|de|ADP
+1,394|1,394|NUM
+biliões|bilião|NOUN
+de|de|ADP
+kwanzas|kwanzas|NOUN
+(|(|PUNCT
+11.241|11.241|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+,|,|PUNCT
+dividido|dividir|VERB
+praticamente|praticamente|ADV
+em|em|ADP
+partes|parte|NOUN
+iguais|igual|ADJ
+entre|entre|ADP
+operações|operação|NOUN
+de|de|ADP
+dívida|dívida|NOUN
+pública|público|ADJ
+no|em o|ADP
+mercado|mercado|NOUN
+interno|interno|ADJ
+e|e|CCONJ
+externo|externo|ADJ
+.|.|PUNCT
+# Reunindo todas as áreas sociais, entre educação, saúde ou protecção social, estas representam mais de 34% do total da despesa, com o executivo angolano a prever gastar 2,522 biliões de kwanzas (17.523 milhões de euros) em 2015.
+Reunindo|Reunindo|VERB
+todas|todo|DET
+as|o|DET
+áreas|área|NOUN
+sociais|social|ADJ
+,|,|PUNCT
+entre|entre|ADP
+educação|educação|NOUN
+,|,|PUNCT
+saúde|saúde|NOUN
+ou|ou|CCONJ
+protecção|protecção|NOUN
+social|social|ADJ
+,|,|PUNCT
+estas|este|PRON
+representam|representar|VERB
+mais|mais|ADV
+de|de|ADP
+34|34|NUM
+%|%|SYM
+do|de o|ADP
+total|total|NOUN
+da|de o|ADP
+despesa|despesa|NOUN
+,|,|PUNCT
+com|com|ADP
+o|o|DET
+executivo|executivo|NOUN
+angolano|angolano|ADJ
+a|a|SCONJ
+prever|prever|VERB
+gastar|gastar|VERB
+2,522|2,522|NUM
+biliões|bilião|NUM
+de|de|ADP
+kwanzas|Kwanzas|NOUN
+(|(|PUNCT
+17.523|17.523|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+em|em|ADP
+2015|2015|NUM
+.|.|PUNCT
+# O OGE para o próximo ano prevê despesas correntes – excluindo as despesas de capital – de 3,848 biliões de kwanzas (31.021 milhões de euros), equivalente a 28,5% do PIB angolano.
+O|o|DET
+OGE|OGE|PROPN
+para|para|ADP
+o|o|DET
+próximo|próximo|ADJ
+ano|ano|NOUN
+prevê|prever|VERB
+despesas|despesa|NOUN
+correntes|corrente|ADJ
+–|–|PUNCT
+excluindo|excluir|VERB
+as|o|DET
+despesas|despesa|NOUN
+de|de|ADP
+capital|capital|NOUN
+–|–|PUNCT
+de|de|ADP
+3,848|3,848|NUM
+biliões|bilião|NUM
+de|de|ADP
+kwanzas|Kwanzas|NOUN
+(|(|PUNCT
+31.021|31.021|NUM
+milhões|milhão|NUM
+de|de|ADP
+euros|euro|NOUN
+)|)|PUNCT
+,|,|PUNCT
+equivalente|equivalente|ADJ
+a|a|ADP
+28,5|28,5|NUM
+%|%|SYM
+do|de o|ADP
+PIB|PIB|PROPN
+angolano|angolano|ADJ
+.|.|PUNCT
+# 98% das crianças cabo-verdianas vacinadas contra a poliomielite
+98|98|NUM
+%|%|SYM
+das|de o|ADP
+crianças|criança|NOUN
+cabo-verdianas|cabo-verdiano|ADJ
+vacinadas|vacinar|VERB
+contra|contra|ADP
+a|o|DET
+poliomielite|poliomielite|NOUN
+# Cerca de 98% das crianças cabo-verdianas até aos cinco anos foram vacinadas contra a poliomielite durante uma campanha que decorreu entre 31 de Outubro e 3 de Novembro, revelam dados provisórios divulgados hoje.
+Cerca|cerca|ADV
+de|de|ADP
+98|98|NUM
+%|%|SYM
+das|de o|ADP
+crianças|criança|NOUN
+cabo-verdianas|cabo-verdiano|ADJ
+até|até|ADP
+aos|a o|ADP
+cinco|cinco|NUM
+anos|ano|NOUN
+foram|ser|AUX
+vacinadas|vacinar|VERB
+contra|contra|ADP
+a|o|DET
+poliomielite|poliomielite|NOUN
+durante|durante|ADP
+uma|um|DET
+campanha|campanha|NOUN
+que|que|PRON
+decorreu|decorrer|VERB
+entre|entre|ADP
+31|31|NUM
+de|de|ADP
+Outubro|outubro|NOUN
+e|e|CCONJ
+3 de Novembro|3 de novembro|NUM
+,|,|PUNCT
+revelam|revelar|VERB
+dados|dado|NOUN
+provisórios|provisório|ADJ
+divulgados|divulgar|VERB
+hoje|hoje|ADV
+.|.|PUNCT
+# Adirectora do Programa Nacional da Saúde Reprodutiva (PNSR), Yorleids Rosabal, citada pela agência Inforpress, referiu que os dados indicam que Cabo Verde conseguiu atingir os seus objectivos no que respeita à vacinação da população-alvo, já que pretendia vacinar mais de 95% das cerca de 52 mil crianças até aos cinco anos.
+Adirectora|adirectora|NOUN
+do|de o|ADP
+Programa|Programa|PROPN
+Nacional|Nacional|PROPN
+da|de o|ADP
+Saúde|Saúde|PROPN
+Reprodutiva|Reprodutiva|PROPN
+(|(|PUNCT
+PNSR|PNSR|PROPN
+)|)|PUNCT
+,|,|PUNCT
+Yorleids Rosabal|Yorleids Rosabal|PROPN
+,|,|PUNCT
+citada|citar|VERB
+pela|por o|ADP
+agência|agência|PROPN
+Inforpress|Inforpress|PROPN
+,|,|PUNCT
+referiu|referir|VERB
+que|que|SCONJ
+os|o|DET
+dados|dado|NOUN
+indicam|indicar|VERB
+que|que|SCONJ
+Cabo Verde|Cabo Verde|PROPN
+conseguiu|conseguir|VERB
+atingir|atingir|VERB
+os|o|DET
+seus|seu|DET
+objectivos|objectivo|NOUN
+no|em o|PRON
+que|que|PRON
+respeita|respeitar|VERB
+à|a o|ADP
+vacinação|vacinação|NOUN
+da|de o|ADP
+população-alvo|população-alvo|NOUN
+,|,|PUNCT
+já|já|ADV
+que|que|SCONJ
+pretendia|pretender|VERB
+vacinar|vacinar|VERB
+mais|mais|ADV
+de|de|ADP
+95|95|NUM
+%|%|SYM
+das|de o|ADP
+cerca|cerca|ADV
+de|de|ADP
+52|52|NUM
+mil|mil|NUM
+crianças|criança|NOUN
+até|até|ADP
+aos|a o|ADP
+cinco|cinco|NUM
+anos|ano|NOUN
+.|.|PUNCT
+# “O que mais queremos é reforçar essa imunidade em prol do nosso objectivo que é global e que visa erradicar a poliomielite até 2018”, adiantou.
+“|“|PUNCT
+O|o|PRON
+que|que|PRON
+mais|mais|ADV
+queremos|querer|VERB
+é|ser|AUX
+reforçar|reforçar|VERB
+essa|esse|DET
+imunidade|imunidade|NOUN
+em|em|ADP
+prol|prol|NOUN
+do|de o|ADP
+nosso|nosso|DET
+objectivo|objectivo|NOUN
+que|que|PRON
+é|ser|AUX
+global|global|ADJ
+e|e|CCONJ
+que|que|PRON
+visa|visar|VERB
+erradicar|erradicar|VERB
+a|o|DET
+poliomielite|poliomielite|NOUN
+até|até|ADP
+2018|2018|NUM
+”|”|PUNCT
+,|,|PUNCT
+adiantou|adiantar|VERB
+.|.|PUNCT
+# A acção faz parte do Programa Alargado de Vacinação (PAV) e integra-se num calendário estabelecido pela Organização Mundial de Saúde (OMS) para a vacinação contra a poliomielite, que decorreu simultaneamente em 15 países da África Ocidental.
+A|o|DET
+acção|acção|NOUN
+faz|fazer|VERB
+parte|parte|NOUN
+do|de o|ADP
+Programa Alargado de Vacinação|Programa Alargado de Vacinação|PROPN
+(|(|PUNCT
+PAV|PAV|PROPN
+)|)|PUNCT
+e|e|CCONJ
+integra-se|integrar se|VERB
+num|em um|ADP
+calendário|calendário|NOUN
+estabelecido|estabelecer|VERB
+pela|por o|ADP
+Organização Mundial de Saúde|Organização Mundial de Saúde|PROPN
+(|(|PUNCT
+OMS|OMS|PROPN
+)|)|PUNCT
+para|para|ADP
+a|o|DET
+vacinação|vacinação|NOUN
+contra|contra|ADP
+a|o|DET
+poliomielite|poliomielite|NOUN
+,|,|PUNCT
+que|que|PRON
+decorreu|decorrer|VERB
+simultaneamente|simultaneamente|ADV
+em|em|ADP
+15|15|NUM
+países|país|NOUN
+da|de o|ADP
+África Ocidental|África Ocidental|PROPN
+.|.|PUNCT
+# A última campanha de vacinação contra a pólio em Cabo Verde aconteceu em 2010, tendo sido vacinadas cerca de 51 mil crianças com idade até aos cinco anos.
+A|o|DET
+última|último|ADJ
+campanha|campanha|NOUN
+de|de|ADP
+vacinação|vacinação|NOUN
+contra|contra|ADP
+a|a|ADP
+pólio|pólio|NOUN
+em|em|ADP
+Cabo Verde|Cabo Verde|PROPN
+aconteceu|acontecer|VERB
+em|em|ADP
+2010|2010|NUM
+,|,|PUNCT
+tendo|ter|AUX
+sido|ser|AUX
+vacinadas|vacinar|VERB
+cerca|cerca|ADV
+de|de|ADP
+51|51|NUM
+mil|mil|NUM
+crianças|criança|NOUN
+com|com|ADP
+idade|idade|NOUN
+até|até|ADP
+aos|a o|ADP
+cinco|cinco|NUM
+anos|ano|NOUN
+.|.|PUNCT
+# A última epidemia no país aconteceu em 2000 e desde então as autoridades sanitárias têm cumprido com o calendário das vacinas, não havendo notificação de qualquer caso desde então.
+A|o|DET
+última|último|ADJ
+epidemia|epidemia|NOUN
+no|em o|ADP
+país|país|NOUN
+aconteceu|acontecer|VERB
+em|em|ADP
+2000|2000|NUM
+e|e|CCONJ
+desde|desde|ADP
+então|então|NOUN
+as|o|DET
+autoridades|autoridade|NOUN
+sanitárias|sanitário|ADJ
+têm|ter|AUX
+cumprido|cumprir|VERB
+com|com|ADP
+o|o|DET
+calendário|calendário|NOUN
+das|de o|ADP
+vacinas|vacina|NOUN
+,|,|PUNCT
+não|não|ADV
+havendo|haver|VERB
+notificação|notificação|NOUN
+de|de|ADP
+qualquer|qualquer|DET
+caso|caso|NOUN
+desde|desde|ADP
+então|então|ADV
+.|.|PUNCT
+# A poliomielite é uma doença infecciosa viral aguda, transmitida de pessoa para pessoa, que causa paralisia nos membros inferiores, e que pode causar a morte.
+A|o|DET
+poliomielite|poliomielite|NOUN
+é|ser|AUX
+uma|um|DET
+doença|doença|NOUN
+infecciosa|infeccioso|ADJ
+viral|viral|ADJ
+aguda|agudo|ADJ
+,|,|PUNCT
+transmitida|transmiter|VERB
+de|de|ADP
+pessoa|pessoa|NOUN
+para|para|ADP
+pessoa|pessoa|NOUN
+,|,|PUNCT
+que|que|PRON
+causa|causar|NOUN
+paralisia|paralisio|ADJ
+nos|em o|ADP
+membros|membro|NOUN
+inferiores|inferior|ADJ
+,|,|PUNCT
+e|e|CCONJ
+que|que|PRON
+pode|poder|VERB
+causar|causar|VERB
+a|o|DET
+morte|morte|NOUN
+.|.|PUNCT
+# Acabar com a corrupção?
+Acabar|Acabar|VERB
+com|com|ADP
+a|o|DET
+corrupção|corrupção|NOUN
+?|?|PUNCT
+# Missão (im)possível - Folha 8
+Missão|missão|NOUN
+(|(|PUNCT
+im)possível|im)possível|ADJ
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# O Banco Africano de Desenvolvimento (BAD) quer que os Países Africanos de Língua Oficial Portuguesa (PALOP) declarem tolerância zero à fraude e corrupção mediante um quadro legal e institucional que garanta boa governança e transparência na gestão pública.
+O|o|DET
+Banco Africano de Desenvolvimento|Banco Africano de Desenvolvimento|PROPN
+(|(|PUNCT
+BAD|BAD|PROPN
+)|)|PUNCT
+quer|querer|VERB
+que|que|SCONJ
+os|o|DET
+Países Africanos de Língua Oficial Portuguesa|Países Africanos de Língua Oficial Portuguesa|PROPN
+(|(|PUNCT
+PALOP|PALOP|PROPN
+)|)|PUNCT
+declarem|declar|VERB
+tolerância|tolerância|NOUN
+zero|zero|NUM
+à|a o|ADP
+fraude|fraude|NOUN
+e|e|CCONJ
+corrupção|corrupção|NOUN
+mediante|mediante|ADP
+um|um|DET
+quadro|quadro|NOUN
+legal|legal|ADJ
+e|e|CCONJ
+institucional|institucional|ADJ
+que|que|PRON
+garanta|garanter|VERB
+boa|bom|ADJ
+governança|governança|NOUN
+e|e|CCONJ
+transparência|transparência|NOUN
+na|em o|ADP
+gestão|gestão|NOUN
+pública|público|ADJ
+.|.|PUNCT
+# Pelos vistos ainda ninguém percebeu que o problema não está no quadro legal mas, isso sim, na prática dos governos.
+Pelos|Pelos|ADP
+vistos|visto|NOUN
+ainda|ainda|ADV
+ninguém|ninguém|PRON
+percebeu|perceber|VERB
+que|que|SCONJ
+o|o|DET
+problema|problema|NOUN
+não|não|ADV
+está|estar|AUX
+no|em o|ADP
+quadro|quadro|NOUN
+legal|legal|ADJ
+mas|mas|CCONJ
+,|,|PUNCT
+isso|isso|PRON
+sim|sim|ADV
+,|,|PUNCT
+na|em o|ADP
+prática|prática|NOUN
+dos|de o|ADP
+governos|governo|NOUN
+.|.|PUNCT
+# Odesafio foi lançado na Cidade da Praia por Ezzeddine Nciri, responsável chefe pela Integridade Pública e Prevenção do Departamento de Integridade Pública e Luta contra a Corrupção do BAD (IACD).
+Odesafio|Odesafio|PROPN
+foi|ser|AUX
+lançado|lançar|VERB
+na|em o|ADP
+Cidade da Praia|Cidade de o Praia|PROPN
+por|por|ADP
+Ezzeddine Nciri|Ezzeddine nciri|PROPN
+,|,|PUNCT
+responsável|responsável|ADJ
+chefe|chefe|NOUN
+pela|por o|ADP
+Integridade Pública e Prevenção do Departamento de Integridade Pública e Luta contra a Corrupção do BAD|Integridade Pública e Prevenção de o Departamento de Integridade Pública e Luta contra o Corrupção de o BAD|PROPN
+(|(|PUNCT
+IACD|IACD|PROPN
+)|)|PUNCT
+.|.|PUNCT
+# Citado pela Inforpress, Ezzeddine Nciri disse que a postura deve ser seguida em todas as fases de avaliação ou de execução dos projectos de desenvolvimento.
+Citado|citar|VERB
+pela|por o|ADP
+Inforpress|Inforpress|PROPN
+,|,|PUNCT
+Ezzeddine Nciri|Ezzeddine Nciri|PROPN
+disse|dizer|VERB
+que|que|SCONJ
+a|o|DET
+postura|postura|NOUN
+deve|dever|VERB
+ser|ser|AUX
+seguida|seguir|VERB
+em|em|ADP
+todas|todo|DET
+as|o|DET
+fases|fase|NOUN
+de|de|ADP
+avaliação|avaliação|NOUN
+ou|ou|CCONJ
+de|de|ADP
+execução|execução|NOUN
+dos|de o|ADP
+projectos|projecto|NOUN
+de|de|ADP
+desenvolvimento|desenvolvimento|NOUN
+.|.|PUNCT
+# “O BAD dá muita importância ao respeito pelas regras que garantam a concorrência mais aberta possível, ao tratamento igualitário dos candidatos e à transparência dos procedimentos, ao mesmo tempo assegura missões de supervisão de todo o processo de aquisições públicas”, sublinhou.
+“|“|PUNCT
+O|o|DET
+BAD|BAD|PROPN
+dá|dar|VERB
+muita|muito|DET
+importância|importância|NOUN
+ao|a o|ADP
+respeito|respeito|NOUN
+pelas|por o|ADP
+regras|regra|NOUN
+que|que|PRON
+garantam|garantir|VERB
+a|o|DET
+concorrência|concorrência|NOUN
+mais|mais|ADV
+aberta|aberto|ADJ
+possível|possível|ADJ
+,|,|PUNCT
+ao|a o|ADP
+tratamento|tratamento|NOUN
+igualitário|igualitário|ADJ
+dos|de o|ADP
+candidatos|candidato|NOUN
+e|e|CCONJ
+à|a o|ADP
+transparência|transparência|NOUN
+dos|de o|ADP
+procedimentos|procedimento|NOUN
+,|,|PUNCT
+ao|a o|ADP
+mesmo|mesmo|ADJ
+tempo|tempo|NOUN
+assegura|assegurar|VERB
+missões|missão|NOUN
+de|de|ADP
+supervisão|supervisão|NOUN
+de|de|ADP
+todo|todo|DET
+o|o|DET
+processo|processo|NOUN
+de|de|ADP
+aquisições|aquisição|NOUN
+públicas|público|ADJ
+”|”|PUNCT
+,|,|PUNCT
+sublinhou|sublinhar|VERB
+.|.|PUNCT
+# Segundo o especialista, os deputados desempenham um papel crucial no processo, dado que representam os interesses da população, podem ter iniciativas legislativas e trabalham para a promoção da ética, da transparência e da prestação de contas.
+Segundo|segundo|ADP
+o|o|DET
+especialista|especialista|NOUN
+,|,|PUNCT
+os|o|DET
+deputados|deputado|NOUN
+desempenham|desempenhar|VERB
+um|um|DET
+papel|papel|NOUN
+crucial|crucial|ADJ
+no|em o|ADP
+processo|processo|NOUN
+,|,|PUNCT
+dado|dar|VERB
+que|que|PRON
+representam|representar|VERB
+os|o|DET
+interesses|interesse|NOUN
+da|de o|ADP
+população|população|NOUN
+,|,|PUNCT
+podem|poder|VERB
+ter|ter|VERB
+iniciativas|iniciativa|NOUN
+legislativas|legislativo|ADJ
+e|e|CCONJ
+trabalham|trabalhar|VERB
+para|para|ADP
+a|o|DET
+promoção|promoção|NOUN
+da|de o|ADP
+ética|ética|NOUN
+,|,|PUNCT
+da|de o|ADP
+transparência|transparência|NOUN
+e|e|CCONJ
+da|de o|ADP
+prestação|prestação|NOUN
+de|de|ADP
+contas|conta|NOUN
+.|.|PUNCT
+# Ezzeddine Nciri garantiu que o BAD deve ajudar os órgãos nacionais a melhorarem o seu desempenho em termos de prestação de contas e inspecção-geral das finanças públicas.
+Ezzeddine Nciri|Ezzeddine nciri|PROPN
+garantiu|garantir|VERB
+que|que|SCONJ
+o|o|DET
+BAD|BAD|PROPN
+deve|dever|VERB
+ajudar|ajudar|VERB
+os|o|DET
+órgãos|órgão|NOUN
+nacionais|nacional|ADJ
+a|a|SCONJ
+melhorarem|melhorar|VERB
+o|o|DET
+seu|seu|DET
+desempenho|desempenho|NOUN
+em|em|ADP
+termos|termos|NOUN
+de|de|ADP
+prestação|prestação|NOUN
+de|de|ADP
+contas|conta|NOUN
+e|e|CCONJ
+inspecção-geral|inspecção-geral|ADJ
+das|de o|ADP
+finanças|finanças|NOUN
+públicas|público|ADJ
+.|.|PUNCT
+# O responsável aconselhou ainda os PALOP a promoverem regras de transparência e integridade pública e a “luta sem tréguas” contra a fraude e a corrupção, entendendo que o processo deve contar com os esforços dos Governos, da sociedade civil e dos meios de comunicação social.
+O|o|DET
+responsável|responsável|NOUN
+aconselhou|aconselhar|VERB
+ainda|ainda|ADV
+os|o|DET
+PALOP|PALOP|PROPN
+a|a|SCONJ
+promoverem|promover|VERB
+regras|regra|NOUN
+de|de|ADP
+transparência|transparência|NOUN
+e|e|CCONJ
+integridade|integridade|NOUN
+pública|público|ADJ
+e|e|CCONJ
+a|o|DET
+“|“|PUNCT
+luta|luta|NOUN
+sem|sem|ADP
+tréguas|trégua|NOUN
+”|”|PUNCT
+contra|contra|ADP
+a|o|DET
+fraude|fraude|NOUN
+e|e|CCONJ
+a|o|DET
+corrupção|corrupção|NOUN
+,|,|PUNCT
+entendendo|entender|VERB
+que|que|SCONJ
+o|o|DET
+processo|processo|NOUN
+deve|dever|VERB
+contar|contar|VERB
+com|com|ADP
+os|o|DET
+esforços|esforço|NOUN
+dos|de o|ADP
+Governos|Governos|PROPN
+,|,|PUNCT
+da|de o|ADP
+sociedade|sociedade|NOUN
+civil|civil|ADJ
+e|e|CCONJ
+dos|de o|ADP
+meios|meio|NOUN
+de|de|ADP
+comunicação|comunicação|NOUN
+social|social|ADJ
+.|.|PUNCT
+# De acordo com o último Índice de Percepção da Corrupção da organização Transparência Internacional, Cabo Verde, na 41ª posição, surge como o menos corrupto dos PALOP, seguindo-se por São Tomé e Príncipe (72ª), Moçambique (119ª), Angola (153ª) e Guiné-Bissau (163.ª).
+De|de|ADP
+acordo|acordo|NOUN
+com|com|ADP
+o|o|DET
+último|último|ADJ
+Índice de Percepção da Corrupção da organização Transparência Internacional|Índice de Percepção de o Corrupção de o organização Transparência Internacional|PROPN
+,|,|PUNCT
+Cabo Verde|Cabo Verde|PROPN
+,|,|PUNCT
+na|em o|ADP
+41ª|41ª|ADJ
+posição|posição|NOUN
+,|,|PUNCT
+surge|surgir|VERB
+como|como|ADP
+o|o|DET
+menos|menos|ADV
+corrupto|corrupto|ADJ
+dos|de o|ADP
+PALOP|PALOP|PROPN
+,|,|PUNCT
+seguindo-se|seguir se|VERB
+por|por|ADP
+São Tomé e Príncipe|São Tomé e Príncipe|PROPN
+(|(|PUNCT
+72ª|72ª|ADJ
+)|)|PUNCT
+,|,|PUNCT
+Moçambique|Moçambique|PROPN
+(|(|PUNCT
+119ª|119ª|NUM
+)|)|PUNCT
+,|,|PUNCT
+Angola|Angola|PROPN
+(|(|PUNCT
+153ª|153ª|NUM
+)|)|PUNCT
+e|e|CCONJ
+Guiné-Bissau|Guiné-Bissau|PROPN
+(|(|PUNCT
+163.ª|163.ª|NUM
+)|)|PUNCT
+.|.|PUNCT
+# O documento é composto por índices de corrupção de entidades internacionais, como o BAD, o Banco Mundial, a Economist Intelligence Unit ou a Fundação Bertelsmann.
+O|o|DET
+documento|documento|NOUN
+é|ser|AUX
+composto|compor|VERB
+por|por|ADP
+índices|índice|NOUN
+de|de|ADP
+corrupção|corrupção|NOUN
+de|de|ADP
+entidades|entidade|NOUN
+internacionais|internacional|ADJ
+,|,|PUNCT
+como|como|ADP
+o|o|DET
+BAD|BAD|PROPN
+,|,|PUNCT
+o|o|DET
+Banco Mundial|Banco Mundial|PROPN
+,|,|PUNCT
+a|o|DET
+Economist Intelligence Unit|Economist Intelligence Unit|PROPN
+ou|ou|CCONJ
+a|o|DET
+Fundação Bertelsmann|Fundação Bertelsmann|PROPN
+.|.|PUNCT
+# Afirmar, por exemplo, que os níveis de corrupção existentes em Angola superam tudo o que se passa em África, conforme relatórios de organizações internacionais e nacionais credíveis, é uma verdade que a comunidade internacional reconhece mas sem a qual não sabe viver.
+Afirmar|Afirmar|VERB
+,|,|PUNCT
+por|por|ADP
+exemplo|exemplo|NOUN
+,|,|PUNCT
+que|que|SCONJ
+os|o|DET
+níveis|nível|NOUN
+de|de|ADP
+corrupção|corrupção|NOUN
+existentes|existente|ADJ
+em|em|ADP
+Angola|Angola|PROPN
+superam|superar|VERB
+tudo|tudo|PRON
+o|o|DET
+que|que|PRON
+se|se|PRON
+passa|passar|VERB
+em|em|ADP
+África|África|PROPN
+,|,|PUNCT
+conforme|conforme|ADP
+relatórios|relatório|NOUN
+de|de|ADP
+organizações|organização|NOUN
+internacionais|internacional|ADJ
+e|e|CCONJ
+nacionais|nacional|ADJ
+credíveis|credível|ADJ
+,|,|PUNCT
+é|ser|AUX
+uma|um|DET
+verdade|verdade|NOUN
+que|que|SCONJ
+a|o|DET
+comunidade|comunidade|NOUN
+internacional|internacional|ADJ
+reconhece|reconhecer|VERB
+mas|mas|CCONJ
+sem|sem|ADP
+a|o|DET
+qual|qual|PRON
+não|não|ADV
+sabe|saber|VERB
+viver|viver|VERB
+.|.|PUNCT
+# Aliás, é mais fácil roubar o Povo em regimes corruptos do que em democracias.
+Aliás|aliás|ADV
+,|,|PUNCT
+é|ser|AUX
+mais|mais|ADV
+fácil|fácil|ADJ
+roubar|roubar|VERB
+o|o|DET
+Povo|Povo|NOUN
+em|em|ADP
+regimes|regime|NOUN
+corruptos|corrupto|ADJ
+do|de o|ADP
+que|que|PRON
+em|em|ADP
+democracias|democracia|NOUN
+.|.|PUNCT
+# Basta ver como as grandes empresas investem forte no clã Eduardo dos Santos como forma de fazerem chorudos negócios.
+Basta|Basta|VERB
+ver|ver|VERB
+como|como|ADP
+as|o|DET
+grandes|grande|ADJ
+empresas|empresa|NOUN
+investem|investir|VERB
+forte|forte|ADJ
+no|em o|ADP
+clã|clã|NOUN
+Eduardo dos Santos|Eduardo de o Santos|PROPN
+como|como|ADP
+forma|forma|NOUN
+de|de|SCONJ
+fazerem|fazer|VERB
+chorudos|chorudo|ADJ
+negócios|negócio|NOUN
+.|.|PUNCT
+# Assim, contínua a degradação da situação socioeconómica e cultural, estando na base do aumento dos níveis de, delinquência, pobreza e doenças endémicas que o País conheceu, isto porque continuam as práticas que reforçam o Estado patrimonialista e clientelista, visando condicionar a vontade e a consciência dos cidadãos, mediante voto prévio e induzido para o partido no Poder.
+Assim|assim|ADV
+,|,|PUNCT
+contínua|contínuo|ADJ
+a|o|DET
+degradação|degradação|NOUN
+da|de o|ADP
+situação|situação|NOUN
+socioeconómica|socioeconómico|ADJ
+e|e|CCONJ
+cultural|cultural|ADJ
+,|,|PUNCT
+estando|estar|AUX
+na|em o|ADP
+base|base|NOUN
+do|de o|ADP
+aumento|aumento|NOUN
+dos|de o|ADP
+níveis|nível|NOUN
+de|de|ADP
+,|,|PUNCT
+delinquência|delinquência|NOUN
+,|,|PUNCT
+pobreza|pobreza|NOUN
+e|e|CCONJ
+doenças|doença|NOUN
+endémicas|endémico|ADJ
+que|que|PRON
+o|o|DET
+País|País|PROPN
+conheceu|conhecer|VERB
+,|,|PUNCT
+isto|isto|PRON
+porque|porque|SCONJ
+continuam|continuar|VERB
+as|o|DET
+práticas|prática|NOUN
+que|que|PRON
+reforçam|reforçar|VERB
+o|o|DET
+Estado|estado|NOUN
+patrimonialista|patrimonialista|ADJ
+e|e|CCONJ
+clientelista|clientelista|ADJ
+,|,|PUNCT
+visando|visar|VERB
+condicionar|condicionar|VERB
+a|o|DET
+vontade|vontade|NOUN
+e|e|CCONJ
+a|o|DET
+consciência|consciência|NOUN
+dos|de o|ADP
+cidadãos|cidadão|NOUN
+,|,|PUNCT
+mediante|mediante|ADP
+voto|voto|NOUN
+prévio|prévio|ADJ
+e|e|CCONJ
+induzido|induzir|VERB
+para|para|ADP
+o|o|DET
+partido|partido|NOUN
+no|em o|ADP
+Poder|Poder|NOUN
+.|.|PUNCT
+# Acabar com a SIDA até 2030 - Folha 8
+Acabar|Acabar|VERB
+com|com|ADP
+a|o|DET
+SIDA|SIDA|NOUN
+até|até|ADP
+2030|2030|NUM
+-|-|PUNCT
+Folha 8|Folha 8|PROPN
+# O secretário-geral da ONU, Ban Ki-Moon, pediu aos líderes mundiais que se comprometam a acabar com a SIDA até 2030 através da iniciativa “Abordagem Rápida”, lançada na última semana.
+O|o|DET
+secretário-geral|secretário-geral|NOUN
+da|de o|ADP
+ONU|ONU|PROPN
+,|,|PUNCT
+Ban Ki-Moon|Ban Ki-Moon|PROPN
+,|,|PUNCT
+pediu|pedir|VERB
+aos|a o|ADP
+líderes|líder|NOUN
+mundiais|mundial|ADJ
+que|que|PRON
+se|se|PRON
+comprometam|comprometam|VERB
+a|a|SCONJ
+acabar|acabar|VERB
+com|com|ADP
+a|o|DET
+SIDA|SIDA|NOUN
+até|até|ADP
+2030|2030|NUM
+através|através|ADV
+da|de o|ADP
+iniciativa|iniciativa|NOUN
+“|“|PUNCT
+Abordagem Rápida|Abordagem Rápida|PROPN
+”|”|PUNCT
+,|,|PUNCT
+lançada|lançar|VERB
+na|em o|ADP
+última|último|ADJ
+semana|semana|NOUN
+.|.|PUNCT
+# N a sua mensagem no âmbito do Dia Mundial da SIDA, Ban Ki-Moon diz:
+N|N|NOUN
+a|o|DET
+sua|seu|DET
+mensagem|mensagem|NOUN
+no|em o|ADP
+âmbito|âmbito|NOUN
+do|de o|ADP
+Dia Mundial da SIDA|Dia Mundial de o SIDA|NOUN
+,|,|PUNCT
+Ban Ki-Moon|Ban Ki-Moon|PROPN
+diz|dizer|VERB
+:|:|PUNCT
+# “Apelo aos líderes mundiais para se unirem nesta causa comum.
+“|“|PUNCT
+Apelo|apelo|VERB
+aos|a o|ADP
+líderes|líder|NOUN
+mundiais|mundial|ADJ
+para|para|SCONJ
+se|se|PRON
+unirem|unir|VERB
+nesta|em este|ADP
+causa|causa|NOUN
+comum|comum|ADJ
+.|.|PUNCT
+# Há uma luz ao fundo do túnel.
+Há|haver|VERB
+uma|um|DET
+luz|luz|NOUN
+ao|a o|ADP
+fundo|fundo|NOUN
+do|de o|ADP
+túnel|túnel|NOUN
+.|.|PUNCT
+# Estabelecemos uma meta concreta.
+Estabelecemos|Estabelecemos|VERB
+uma|um|DET
+meta|meta|NOUN
+concreta|concreto|ADJ
+.|.|PUNCT
+# Vamos todos acabar com a SIDA até 2030”.
+Vamos|Vamos|AUX
+todos|todo|PRON
+acabar|acabar|VERB
+com|com|ADP
+a|o|DET
+SIDA|SIDA|PROPN
+até|até|ADP
+2030|2030|NUM
+”|”|PUNCT
+.|.|PUNCT
+# Ban Ki-moon manifestou-se “satisfeito e orgulhoso” pelo que considerou ser o “caminho certo” na luta contra aquela doença, cujo legado disse ser já visível comparado à do vírus do Ébola na África Ocidental.
+Ban Ki-moon|Ban Ki-moon|PROPN
+manifestou-se|manifestar se|VERB
+“|“|PUNCT
+satisfeito|satisfeito|ADJ
+e|e|CCONJ
+orgulhoso|orgulhoso|ADJ
+”|”|PUNCT
+pelo|por o|PRON
+que|que|PRON
+considerou|considerar|VERB
+ser|ser|AUX
+o|o|DET
+“|“|ADJ
+caminho|caminho|NOUN
+certo|certo|ADJ
+”|”|PUNCT
+na|em o|ADP
+luta|luta|NOUN
+contra|contra|ADP
+aquela|aquele|DET
+doença|doença|NOUN
+,|,|PUNCT
+cujo|cujo|DET
+legado|legado|NOUN
+disse|dizer|VERB
+ser|ser|AUX
+já|já|ADV
+visível|visível|ADJ
+comparado|comparar|VERB
+à|a o|ADP
+do|de o|ADP
+vírus|vírus|NOUN
+do|de o|ADP
+Ébola|Ébola|PROPN
+na|em o|ADP
+África Ocidental|África Ocidental|PROPN
+.|.|PUNCT
+# “Quase 14 milhões de pessoas em todo o mundo estão a receber tratamentos da SIDA.
+“|“|PUNCT
+Quase|quase|ADV
+14|14|NUM
+milhões|milhão|NUM
+de|de|ADP
+pessoas|pessoa|NOUN
+em|em|ADP
+todo|todo|DET
+o|o|DET
+mundo|mundo|NOUN
+estão|estar|VERB
+a|a|SCONJ
+receber|receber|VERB
+tratamentos|tratamento|NOUN
+da|de o|ADP
+SIDA|SIDA|NOUN
+.|.|PUNCT
+# Conseguimos reduzir novas infecções em 38%, desde 2001”, prosseguiu o secretário-geral da ONU na sua mensagem, em que agradece a dedicação dos parceiros que ajudam a combater a doença.
+Conseguimos|Conseguimos|VERB
+reduzir|reduzir|VERB
+novas|novo|ADJ
+infecções|infecção|NOUN
+em|em|ADP
+38|38|NUM
+%|%|SYM
+,|,|PUNCT
+desde|desde|ADP
+2001|2001|NUM
+”|”|PUNCT
+,|,|PUNCT
+prosseguiu|prosseguir|VERB
+o|o|DET
+secretário-geral|secretário-geral|NOUN
+da|de o|ADP
+ONU|ONU|PROPN
+na|em o|ADP
+sua|seu|DET
+mensagem|mensagem|NOUN
+,|,|PUNCT
+em|em|ADP
+que|que|PRON
+agradece|agradecer|VERB
+a|o|DET
+dedicação|dedicação|NOUN
+dos|de o|ADP
+parceiros|parceiro|NOUN
+que|que|PRON
+ajudam|ajudar|VERB
+a|a|SCONJ
+combater|combater|VERB
+a|o|DET
+doença|doença|NOUN
+.|.|PUNCT
+# Depois de salientar que os sistemas médicos por si só não são suficientes para garantir “cuidados de saúde robustos”, Ban Ki-Moon apelou a mais apoios para combater a doença porque, destacou, “existem 35 milhões de pessoas a viver com o Vírus da Imunodeficiência Humana (HIV, na sigla em inglês) hoje em dia e cerca de 19 milhões delas não têm conhecimento que contraem o vírus”.
+Depois|depois|ADV
+de|de|ADP
+salientar|salientar|VERB
+que|que|SCONJ
+os|o|DET
+sistemas|sistema|NOUN
+médicos|médico|ADJ
+por|por|ADP
+si|si|PRON
+só|só|ADV
+não|não|ADV
+são|ser|AUX
+suficientes|suficiente|ADJ
+para|para|SCONJ
+garantir|garantir|VERB
+“|“|PUNCT
+cuidados|cuidado|NOUN
+de|de|ADP
+saúde|saúde|NOUN
+robustos|robusto|ADJ
+”|”|PUNCT
+,|,|PUNCT
+Ban Ki-Moon|Ban Ki-Moon|PROPN
+apelou|apelar|VERB
+a|a|ADP
+mais|mais|DET
+apoios|apoio|NOUN
+para|para|SCONJ
+combater|combater|VERB
+a|o|DET
+doença|doença|NOUN
+porque|porque|SCONJ
+,|,|PUNCT
+destacou|destacar|VERB
+,|,|PUNCT
+“|“|PUNCT
+existem|existir|VERB
+35|35|NUM
+milhões|milhão|NUM
+de|de|ADP
+pessoas|pessoa|NOUN
+a|a|SCONJ
+viver|viver|VERB
+com|com|ADP
+o|o|DET
+Vírus da Imunodeficiência Humana|Vírus de o Imunodeficiência Humana|PROPN
+(|(|PUNCT
+HIV|HIV|PROPN
+,|,|PUNCT
+na|em o|ADP
+sigla|sigla|NOUN
+em|em|ADP
+inglês|inglês|NOUN
+)|)|PUNCT
+hoje|hoje|ADV
+em|em|ADP
+dia|dia|NOUN
+e|e|CCONJ
+cerca|cerca|ADV
+de|de|ADP
+19|19|NUM
+milhões|milhão|NUM
+delas|de ele|PRON
+não|não|ADV
+têm|ter|VERB
+conhecimento|conhecimento|NOUN
+que|que|SCONJ
+contraem|contrair|VERB
+o|o|DET
+vírus|vírus|NOUN
+”|”|PUNCT
+.|.|PUNCT
+# “
+“|“|PUNCT
+# Existem lacunas importantes na nossa resposta a grupos chave de pessoas.
+Existem|Existir|VERB
+lacunas|lacuna|NOUN
+importantes|importante|ADJ
+na|em o|ADP
+nossa|nosso|DET
+resposta|resposta|NOUN
+a|a|ADP
+grupos|grupo|NOUN
+chave|chave|NOUN
+de|de|ADP
+pessoas|pessoa|NOUN
+.|.|PUNCT
+# Duas em cada três crianças necessitam de tratamento e não dispõe do mesmo.
+Duas|dois|NUM
+em|em|ADP
+cada|cada|DET
+três|três|NUM
+crianças|criança|NOUN
+necessitam|necessitar|VERB
+de|de|ADP
+tratamento|tratamento|NOUN
+e|e|CCONJ
+não|não|ADV
+dispõe|dispor|VERB
+do|de o|ADP
+mesmo|mesmo|PRON
+.|.|PUNCT
+# As mulheres jovens são particularmente vulneráveis em muitos países com prevalência alta de HIV.
+As|o|DET
+mulheres|mulher|NOUN
+jovens|jovem|ADJ
+são|ser|AUX
+particularmente|particularmente|ADV
+vulneráveis|vulnerável|ADJ
+em|em|ADP
+muitos|muito|DET
+países|país|NOUN
+com|com|ADP
+prevalência|prevalência|NOUN
+alta|alto|ADJ
+de|de|ADP
+HIV|HIV|PROPN
+.|.|PUNCT
+# A epidemia da SIDA está a aumentar na Europa de Leste, Ásia Central e no Médio Oriente, alimentada pelo estigma, discriminação e leis punitivas.
+A|o|DET
+epidemia|epidemia|NOUN
+da|de o|ADP
+SIDA|SIDA|NOUN
+está|estar|VERB
+a|a|SCONJ
+aumentar|aumentar|VERB
+na|em o|ADP
+Europa de Leste|Europa de leste|PROPN
+,|,|PUNCT
+Ásia Central|Ásia Central|PROPN
+e|e|CCONJ
+no|em o|ADP
+Médio Oriente|Médio Oriente|PROPN
+,|,|PUNCT
+alimentada|alimentar|VERB
+pelo|por o|ADP
+estigma|estigma|NOUN
+,|,|PUNCT
+discriminação|discriminação|NOUN
+e|e|CCONJ
+leis|lei|NOUN
+punitivas|punitivo|ADJ
+.|.|PUNCT
+# Ainda assim, o trabalho essencial dos sistemas de comunidade e organizações de apoio muitas vezes não dispõe de apoios por si.
+Ainda|ainda|ADV
+assim|assim|ADV
+,|,|PUNCT
+o|o|DET
+trabalho|trabalho|NOUN
+essencial|essencial|ADJ
+dos|de o|ADP
+sistemas|sistema|NOUN
+de|de|ADP
+comunidade|comunidade|NOUN
+e|e|CCONJ
+organizações|organização|NOUN
+de|de|ADP
+apoio|apoio|NOUN
+muitas|muitas|ADP
+vezes|vez|NOUN
+não|não|ADV
+dispõe|dispor|VERB
+de|de|ADP
+apoios|apoio|NOUN
+por|por|ADP
+si|si|PRON
+.|.|PUNCT
+# Não podemos deixar ninguém para trás”, frisou.
+Não|não|ADV
+podemos|poder|VERB
+deixar|deixar|VERB
+ninguém|ninguém|PRON
+para|para|ADP
+trás|trás|ADV
+”|”|PUNCT
+,|,|PUNCT
+frisou|frisar|VERB
+.|.|PUNCT
+# O Dia Mundial de Luta Contra a Sida é comemorado hoje para alertar as populações quanto à necessidade de prevenção e de precaução contra o vírus, que ataca o sistema imunológico do doente, e para lembrar todas as vítimas que faleceram ou estão infectadas com a doença.
+O|o|DET
+Dia Mundial de Luta Contra a Sida|Dia Mundial de Luta Contra a Sida|PROPN
+é|ser|AUX
+comemorado|comemorar|VERB
+hoje|hoje|ADV
+para|para|SCONJ
+alertar|alertar|VERB
+as|o|DET
+populações|população|NOUN
+quanto|quanto|ADV
+à|a o|ADP
+necessidade|necessidade|NOUN
+de|de|ADP
+prevenção|prevenção|NOUN
+e|e|CCONJ
+de|de|ADP
+precaução|precaução|NOUN
+contra|contra|ADP
+o|o|DET
+vírus|vírus|NOUN
+,|,|PUNCT
+que|que|PRON
+ataca|atacar|VERB
+o|o|DET
+sistema|sistema|NOUN
+imunológico|imunológico|ADJ
+do|de o|ADP
+doente|doente|NOUN
+,|,|PUNCT
+e|e|CCONJ
+para|para|SCONJ
+lembrar|lembrar|VERB
+todas|todo|DET
+as|o|DET
+vítimas|vítima|NOUN
+que|que|PRON
+faleceram|falecer|VERB
+ou|ou|CCONJ
+estão|estar|AUX
+infectadas|infectar|ADJ
+com|com|ADP
+a|o|DET
+doença|doença|NOUN
+.|.|PUNCT
+# A SIDA é a primeira causa de mortalidade em África e a quarta em todo o mundo.
+A|o|DET
+SIDA|SIDA|NOUN
+é|ser|AUX
+a|o|DET
+primeira|primeiro|ADJ
+causa|causa|NOUN
+de|de|ADP
+mortalidade|mortalidade|NOUN
+em|em|ADP
+África|África|PROPN
+e|e|CCONJ
+a|o|DET
+quarta|quarto|NOUN
+em|em|ADP
+todo|todo|DET
+o|o|DET
+mundo|mundo|NOUN
+.|.|PUNCT
+691
+Counter({'ter': 34732.27206946455, 'dizer': 27496.382054992762, 'prever': 15918.958031837914, 'referir': 14471.78002894356, 'fazer': 14471.78002894356, 'estar': 14471.78002894356, 'haver': 13024.602026049204, 'dar': 13024.602026049204, 'registar': 11577.424023154847, 'ficar': 11577.424023154847, 'poder': 11577.424023154847, 'dever': 10130.246020260493, 'divulgar': 10130.246020260493, 'considerar': 10130.246020260493, 'querer': 10130.246020260493, 'deixar': 8683.068017366137, 'continuar': 8683.068017366137, 'afectar': 7235.89001447178, 'identificar': 7235.89001447178, 'salientar': 7235.89001447178, 'garantir': 7235.89001447178, 'visar': 7235.89001447178, 'reforçar': 7235.89001447178, 'sublinhar': 7235.89001447178, 'revelar': 5788.712011577423, 'assinar': 5788.712011577423, 'entregar': 5788.712011577423, 'saber': 5788.712011577423, 'cumprir': 5788.712011577423, 'ser': 5788.712011577423, 'levar': 5788.712011577423, 'pretender': 5788.712011577423, 'indicar': 5788.712011577423, 'transmitir': 5788.712011577423, 'avaliar': 5788.712011577423, 'elevar': 5788.712011577423, 'produzir': 5788.712011577423, 'vacinar': 5788.712011577423, 'transportar': 4341.534008683068, 'informar': 4341.534008683068, 'adiantar': 4341.534008683068, 'corresponder': 4341.534008683068, 'registar se': 4341.534008683068, 'mostrar': 4341.534008683068, 'seguir': 4341.534008683068, 'viver': 4341.534008683068, 'acreditar': 4341.534008683068, 'chegar': 4341.534008683068, 'conseguir': 4341.534008683068, 'comparar': 4341.534008683068, 'verificar': 4341.534008683068, 'avançar': 4341.534008683068, 'existir': 4341.534008683068, 'trabalhar': 4341.534008683068, 'alcançar': 4341.534008683068, 'representar': 4341.534008683068, 'infectar': 4341.534008683068, 'citar': 4341.534008683068, 'apresentar': 4341.534008683068, 'ocupar': 4341.534008683068, 'apresar': 2894.3560057887116, 'distribuir': 2894.3560057887116, 'instar': 2894.3560057887116, 'prosseguir': 2894.3560057887116, 'acompanhar': 2894.3560057887116, 'respeitar': 2894.3560057887116, 'tratar': 2894.3560057887116, 'recuperar': 2894.3560057887116, 'criar': 2894.3560057887116, 'constituir': 2894.3560057887116, 'converter se': 2894.3560057887116, 'converteu-se': 2894.3560057887116, 'eleger': 2894.3560057887116, 'Abriram': 2894.3560057887116, 'demonstrar': 2894.3560057887116, 'pagar': 2894.3560057887116, 'violar': 2894.3560057887116, 'aumentar': 2894.3560057887116, 'reconhecer': 2894.3560057887116, 'controlar': 2894.3560057887116, 'julgar': 2894.3560057887116, 'antecipar': 2894.3560057887116, 'manter se': 2894.3560057887116, 'acrescentar': 2894.3560057887116, 'derrapar': 2894.3560057887116, 'executar': 2894.3560057887116, 'projectar': 2894.3560057887116, 'explicar': 2894.3560057887116, 'argumentar': 2894.3560057887116, 'acordar': 2894.3560057887116, 'traçar': 2894.3560057887116, 'apontar': 2894.3560057887116, 'manter': 2894.3560057887116, 'aparecer': 2894.3560057887116, 'constar': 2894.3560057887116, 'contrair': 2894.3560057887116, 'envolver': 2894.3560057887116, 'possibilitar': 2894.3560057887116, 'consolidar': 2894.3560057887116, 'surgir': 2894.3560057887116, 'passar': 2894.3560057887116, 'nomear': 2894.3560057887116, 'assegurar': 2894.3560057887116, 'compor': 2894.3560057887116, 'reflectir': 2894.3560057887116, 'reafirmar': 2894.3560057887116, 'determinar': 2894.3560057887116, 'discutir': 2894.3560057887116, 'anunciar': 2894.3560057887116, 'colocar': 2894.3560057887116, 'exigir': 2894.3560057887116, 'solicitar': 2894.3560057887116, 'conhecer': 2894.3560057887116, 'notificar': 2894.3560057887116, 'encontrar': 2894.3560057887116, 'permitir': 2894.3560057887116, 'tsé-tsé': 2894.3560057887116, 'alertar': 2894.3560057887116, 'receber': 2894.3560057887116, 'promover': 2894.3560057887116, 'reduzir': 2894.3560057887116, 'gastar': 2894.3560057887116, 'especificar': 2894.3560057887116, 'decorrer': 2894.3560057887116, 'acontecer': 2894.3560057887116, 'Acabar': 2894.3560057887116, 'lançar': 2894.3560057887116, 'ajudar': 2894.3560057887116, 'acabar': 2894.3560057887116, 'combater': 2894.3560057887116, 'dispor': 2894.3560057887116, 'capturar': 1447.1780028943558, 'conter': 1447.1780028943558, 'rondar': 1447.1780028943558, 'indicar se': 1447.1780028943558, 'interceptar': 1447.1780028943558, 'desconhecer': 1447.1780028943558, 'vocacionar': 1447.1780028943558, 'atribuir': 1447.1780028943558, 'encontrar se': 1447.1780028943558, 'referer se': 1447.1780028943558, 'Sublinha-se': 1447.1780028943558, 'saber se': 1447.1780028943558, 'detir': 1447.1780028943558, 'emitir': 1447.1780028943558, 'orçar': 1447.1780028943558, 'rubricar': 1447.1780028943558, 'designar': 1447.1780028943558, 'classificar': 1447.1780028943558, 'possuir': 1447.1780028943558, 'desalojado': 1447.1780028943558, 'desalojar': 1447.1780028943558, 'sentir': 1447.1780028943558, 'destruír': 1447.1780028943558, 'Foto': 1447.1780028943558, 'apraz': 1447.1780028943558, 'institucionalizar': 1447.1780028943558, 'premeiar': 1447.1780028943558, 'trair': 1447.1780028943558, 'transformar se': 1447.1780028943558, 'resultar': 1447.1780028943558, 'prometer': 1447.1780028943558, 'Trabalhar': 1447.1780028943558, 'distribuír': 1447.1780028943558, 'refastelar': 1447.1780028943558, 'subvencionar': 1447.1780028943558, 'estimular': 1447.1780028943558, 'discriminar': 1447.1780028943558, 'consagrar se': 1447.1780028943558, 'escancarar': 1447.1780028943558, 'contribuir': 1447.1780028943558, 'ultrapassar': 1447.1780028943558, 'emergir': 1447.1780028943558, 'graduar': 1447.1780028943558, 'Têm': 1447.1780028943558, 'entrar': 1447.1780028943558, 'mexer': 1447.1780028943558, 'erguer': 1447.1780028943558, 'imitar': 1447.1780028943558, 'herdar': 1447.1780028943558, 'trafegar': 1447.1780028943558, 'arrastar': 1447.1780028943558, 'arregimentar': 1447.1780028943558, 'aprovar': 1447.1780028943558, 'ler': 1447.1780028943558, 'pergunta-me': 1447.1780028943558, 'utilizar': 1447.1780028943558, 'inserir': 1447.1780028943558, 'proibir': 1447.1780028943558, 'massacrar': 1447.1780028943558, 'espancar': 1447.1780028943558, 'assassinar': 1447.1780028943558, 'frustrar': 1447.1780028943558, 'meter': 1447.1780028943558, 'transformar': 1447.1780028943558, 'precisar': 1447.1780028943558, 'recordar': 1447.1780028943558, 'lutar': 1447.1780028943558, 'abrir': 1447.1780028943558, 'devolver': 1447.1780028943558, 'construir': 1447.1780028943558, 'envergonhar': 1447.1780028943558, 'assassine': 1447.1780028943558, 'correr': 1447.1780028943558, 'comandar': 1447.1780028943558, 'mantiver': 1447.1780028943558, 'descer': 1447.1780028943558, 'atrasar': 1447.1780028943558, 'diversificar': 1447.1780028943558, 'previsto': 1447.1780028943558, 'faltar': 1447.1780028943558, 'sobrar': 1447.1780028943558, 'travar': 1447.1780028943558, 'pressionar': 1447.1780028943558, 'pormenorizar': 1447.1780028943558, 'esperar': 1447.1780028943558, 'aguentar': 1447.1780028943558, 'ir': 1447.1780028943558, 'contornar': 1447.1780028943558, 'desencadear': 1447.1780028943558, 'perspectivar': 1447.1780028943558, 'motivar': 1447.1780028943558, 'dirigir': 1447.1780028943558, 'adiar': 1447.1780028943558, 'interferir': 1447.1780028943558, 'Habituar': 1447.1780028943558, 'Com)viver': 1447.1780028943558, 'arrecar': 1447.1780028943558, 'poupar': 1447.1780028943558, 'adquirir': 1447.1780028943558, 'tratar se': 1447.1780028943558, 'autorizar': 1447.1780028943558, 'celebrar': 1447.1780028943558, 'destinar se': 1447.1780028943558, 'lê-se': 1447.1780028943558, 'noticiar': 1447.1780028943558, 'gerer': 1447.1780028943558, 'Nascer': 1447.1780028943558, 'alinhar': 1447.1780028943558, 'afirmar': 1447.1780028943558, 'realizar': 1447.1780028943558, 'pô-los': 1447.1780028943558, 'entendar se': 1447.1780028943558, 'reunir': 1447.1780028943558, 'credenciar': 1447.1780028943558, 'reiterar': 1447.1780028943558, 'renovar': 1447.1780028943558, 'defender': 1447.1780028943558, 'custar': 1447.1780028943558, 'habitar': 1447.1780028943558, 'agradar': 1447.1780028943558, 'preservar': 1447.1780028943558, 'contribuír': 1447.1780028943558, 'propor': 1447.1780028943558, 'governar': 1447.1780028943558, 'confundir': 1447.1780028943558, 'caracterizar': 1447.1780028943558, 'servir': 1447.1780028943558, 'preconizar': 1447.1780028943558, 'culminar': 1447.1780028943558, 'ligar': 1447.1780028943558, 'aliar': 1447.1780028943558, 'desaparecer': 1447.1780028943558, 'diminuir': 1447.1780028943558, 'comprovar': 1447.1780028943558, 'desenvolver': 1447.1780028943558, 'enquadrar': 1447.1780028943558, 'encarregar': 1447.1780028943558, 'integrar': 1447.1780028943558, 'manifestar': 1447.1780028943558, 'encaminhar as': 1447.1780028943558, 'negligenciar': 1447.1780028943558, 'detectar': 1447.1780028943558, 'perder': 1447.1780028943558, 'intensificar': 1447.1780028943558, 'duplicar': 1447.1780028943558, 'Saber': 1447.1780028943558, 'assinalar': 1447.1780028943558, 'Dacar': 1447.1780028943558, 'enfrentar': 1447.1780028943558, 'Vemos': 1447.1780028943558, 'comer': 1447.1780028943558, 'acolhê-los': 1447.1780028943558, 'alargar': 1447.1780028943558, 'assuma': 1447.1780028943558, 'reinar': 1447.1780028943558, 'tentar': 1447.1780028943558, 'acolher': 1447.1780028943558, 'sobreviver': 1447.1780028943558, 'descobrir': 1447.1780028943558, 'cifrar se': 1447.1780028943558, 'estabilizar': 1447.1780028943558, 'totalizar': 1447.1780028943558, 'processar': 1447.1780028943558, 'colaborar': 1447.1780028943558, 'escrever': 1447.1780028943558, 'impressa': 1447.1780028943558, 'desejam-lhe': 1447.1780028943558, 'alegar': 1447.1780028943558, 'basear': 1447.1780028943558, 'notar': 1447.1780028943558, 'ponha': 1447.1780028943558, 'proiber': 1447.1780028943558, 'ratificar': 1447.1780028943558, 'votar': 1447.1780028943558, 'tocar': 1447.1780028943558, 'antevêr': 1447.1780028943558, 'concentrado': 1447.1780028943558, 'absorver': 1447.1780028943558, 'cifraram-se': 1447.1780028943558, 'disparar': 1447.1780028943558, 'caber': 1447.1780028943558, 'Representa': 1447.1780028943558, 'dividir': 1447.1780028943558, 'Reunindo': 1447.1780028943558, 'excluir': 1447.1780028943558, 'atingir': 1447.1780028943558, 'erradicar': 1447.1780028943558, 'integrar se': 1447.1780028943558, 'estabelecer': 1447.1780028943558, 'transmiter': 1447.1780028943558, 'causar': 1447.1780028943558, 'declar': 1447.1780028943558, 'garanter': 1447.1780028943558, 'perceber': 1447.1780028943558, 'desempenhar': 1447.1780028943558, 'melhorar': 1447.1780028943558, 'aconselhar': 1447.1780028943558, 'entender': 1447.1780028943558, 'contar': 1447.1780028943558, 'seguir se': 1447.1780028943558, 'Afirmar': 1447.1780028943558, 'superar': 1447.1780028943558, 'roubar': 1447.1780028943558, 'Basta': 1447.1780028943558, 'ver': 1447.1780028943558, 'investir': 1447.1780028943558, 'condicionar': 1447.1780028943558, 'induzir': 1447.1780028943558, 'pedir': 1447.1780028943558, 'comprometam': 1447.1780028943558, 'apelo': 1447.1780028943558, 'unir': 1447.1780028943558, 'Estabelecemos': 1447.1780028943558, 'manifestar se': 1447.1780028943558, 'Conseguimos': 1447.1780028943558, 'agradecer': 1447.1780028943558, 'apelar': 1447.1780028943558, 'destacar': 1447.1780028943558, 'Existir': 1447.1780028943558, 'necessitar': 1447.1780028943558, 'alimentar': 1447.1780028943558, 'frisar': 1447.1780028943558, 'comemorar': 1447.1780028943558, 'atacar': 1447.1780028943558, 'lembrar': 1447.1780028943558, 'falecer': 1447.1780028943558})

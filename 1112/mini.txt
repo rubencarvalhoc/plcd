@@ -1,0 +1,61 @@
+
+
+A              AGRICULTURA, PRODUÇÃO ANIMAL, CAÇA, FLORESTA E PESCA
+
+ 01     AGRICULTURA, PRODUÇÃO ANIMAL, CAÇA E ACTIVIDADES DOS SERVIÇOS RELACIONADOS
+
+        As actividades económicas no âmbito desta Divisão encontram-se estruturadas em sete grupos:
+
+
+           -   Agricultura (Grupos 011, 012 e 013)
+           -   Produção animal (Grupo 014)
+           -   Agricultura e produção animal combinadas (Grupo 015)
+           -   Actividades dos serviços relacionados com a agricultura e com a produção animal (Grupo 016)
+           -   Caça, repovoamento cinegético e actividades dos serviços relacionados (Grupo 017);
+
+        Nos Grupos 011, 012 e 013 (Agricultura) estão compreendidas todas as culturas agrícolas, realizadas
+        ao ar livre, sob coberto (estufas) ou de outro modo, procurando o detalhe de âmbito inferior aos
+        Grupos estruturar as culturas temporárias e as permanentes.
+
+        O Grupo 014 (Produção animal) compreende as explorações pecuárias em regime extensivo, semi-
+        intensivo e intensivo.
+
+        Os princípios do Grupo 015 (Agricultura e Produção Animal Combinadas) afastam-se dos princípios
+        gerais adoptados na estruturação de outras actividades. A criação deste grupo assenta no facto de
+        existirem unidades de produção com culturas agrícolas e com animais combinados, pertencentes
+        ao mesmo agricultor, com um rácio de especialização, na parte agrícola ou animal, inferior a 66% da
+
+
+
+
+                                                                                                              CAE - REV. 3 NOTAS EXPLICATIVAS
+                                                                                                                                                A
+        margem bruta total.
+
+        No Grupo 016 (Actividades dos Serviços Relacionados com a Agricultura e com a Produção Animal)
+        incluem-se serviços destinados principalmente às explorações agrícolas. Estas actividades tendem,
+        cada vez mais, a ser realizadas por unidades especializadas, independentes das próprias
+        explorações.
+
+        O Grupo 017 (Caça, Repovoamento Cinegético e Actividades dos Serviços Relacionados)
+        compreende as actividades de exploração de zonas de caça, o fomento, ordenamento e outros
+        serviços similares relativos à caça.
+
+        As actividades desta Divisão não incluem a transformação dos produtos agrícolas.
+
+        Não inclui:
+        · Drenagem de terrenos e trabalhos de construção (F);
+        · Cooperativas que comercializam os produtos agrícolas (G);
+        · Actividades veterinárias (75000);
+
+ 011    CULTURAS TEMPORÁRIAS
+
+
+ 0111   CEREALICULTURA (EXCEPTO ARROZ), LEGUMINOSAS SECAS E SEMENTES OLEAGINOSAS
+
+
+ 01111 CEREALICULTURA (EXCEPTO ARROZ)
+
+        Compreende a cultura de cereais tais como: trigo, milho, cevada, triticale, centeio e aveia.
+
+011

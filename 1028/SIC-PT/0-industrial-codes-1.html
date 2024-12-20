@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Industrial Codes</title>
+  <style>
+    div.sitenav { display: flex; flex-direction: row; flex-wrap: wrap; }
+    span.navlink { flex: 1; }
+    span.navlink-label { display: inline-block; min-width: 4em; }
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<nav id="sitenav">
+<div class="sitenav">
+<span class="navlink">
+<span class="navlink-label">Up:</span> <a href="index.html" accesskey="u" rel="up">Industrial Codes</a>
+</span>
+<span class="navlink">
+<span class="navlink-label">Top:</span> <a href="index.html" accesskey="t" rel="top">Industrial Codes</a>
+</span>
+</div>
+<div class="sitenav">
+<span class="navlink">
+</span>
+<span class="navlink">
+<span class="navlink-label">Previous:</span> <a href="index.html" accesskey="p" rel="previous">Industrial Codes</a>
+</span>
+</div>
+</nav>
+<p>Secção A – Agricultura, produção animal, caça, floresta e pesca</p>
+<p>• A CAE-Rev.3 passou a incluir na mesma Secção a agricultura e a
+pesca, ao contrário da CAE- Rev.2.1 em que constituem Secções
+independentes;</p>
+<p>• A actividade agrícola compreende a produção agrícola e animal, quer
+em termos de bens, quer de serviços específicos das actividades desta
+Secção;</p>
+<p>• As unidades agrícolas de produção mista classificam-se de acordo
+com a sua actividade principal, enquanto que para as unidades de
+exploração agrícola e animal em regime de associação é necessário
+determinar previamente um rácio de especialização. As cooperativas
+agrícolas são classificadas em função da sua actividade principal;</p>
+<p>• A Pesca compreende, para além da actividade da pesca, a apanha de
+algas e de outros produtos de águas marítimas e interiores e a
+aquicultura de espécies piscícolas e afins em regime controlado;</p>
+<p>• As unidades prestadoras de serviços às actividades da pesca
+classificam-se nas Subclasses donde decorre a produção física dos bens;
+28</p>
+<p>• As unidades produtoras de vinho ou outro produto agrícola
+transformado a partir de actividades agrícolas a montante (ex: cultura
+da vinha) são classificadas, regra geral, na Agricultura.</p>
+<p>Secção B - Indústrias Extractivas</p>
+<p>• Além da extracção dos produtos em natureza (sólidos, líquidos e
+gasosos), esta Secção compreende alguma beneficiação feita no local da
+extracção;</p>
+<p>• A refinação do sal, a aglomeração de carvões e de minérios,
+associadas ou independentes da extracção, passaram para o âmbito da
+indústria transformadora na CAE-Rev.3;</p>
+<p>• Esta Secção, apesar de não manter as duas Subsecções (extracção de
+produtos energéticos e extracção de produtos não-energéticos), permite
+assegurar a nível da Divisão o mesmo tratamento estatístico para a área
+da energia.</p>
+<p>Secção C - Indústrias Transformadoras</p>
+<p>• Esta Secção deixou de incluir o nível Subsecção, apresentado as
+novas Divisões criadas ou reorganizadas (ex: 31 – Fabricação de
+mobiliário e colchões) melhorias acrescidas em termos de
+homogeneidade;</p>
+<p>• A maioria das Divisões da Secção D (Indústrias transformadoras) da
+CAE-Rev.2.1 permanece no âmbito da Secção C (Indústrias transformadoras)
+da CAE-Rev.3, excepto as Divisões 22 (Edição, impressão e reprodução de
+suportes de informação gravados) e 37 (Reciclagem) em que parte
+significativa do seu âmbito passou, respectivamente, para a Secção J e
+Secção E;</p>
+<p>• A reparação e a instalação de máquinas e de equipamento, que na
+CAE-Rev.2.1 pertenciam ao âmbito das actividades de fabricação do
+respectivo equipamento, constituem na CAE-Rev.3 a Divisão 33 (Reparação,
+manutenção e instalação de máquinas e equipamentos);</p>
+<p>• A reconstrução e a conversão de embarcações, aeronaves e de
+material circulante para caminhos- de-ferro classificam-se nas
+Subclasses que os produzem;</p>
+<p>• As indústrias transformadoras produzem bens e serviços. Os serviços
+industriais importantes e executados por conta de terceiros,
+encontram-se individualizados em actividades.</p>
+<p>Secção D – Electricidade, gás, vapor, água quente e fria e ar
+frio</p>
+<p>• Esta Secção apresenta-se como uma parte importante da área
+energética, encontrando-se as partes restantes na Secção B (extracção do
+carvão, petróleo, urânio e gás) e Secção C (fabricação de coque,
+produtos petrolíferos refinados, combustível nuclear e aglomerados
+combustíveis);</p>
+<p>• Compreende, além da produção e distribuição de electricidade e gás,
+alguns serviços específicos (ex: comércio de electricidade, comércio de
+gás por condutas) e a produção de gelo, de vapor de água quente;</p>
+<p>Secção E – Captação, tratamento e distribuição de água; saneamento
+gestão de resíduos e despoluição</p>
+<p>• Esta Secção resulta da agregação de partes de Secções da
+CAE-Rev.2.1, em particular da Divisão 37 da Secção D, Divisão 41 da
+Secção E e Divisão 90 da Secção O;</p>
+<p>• Alem da captação, tratamento e distribuição de água, compreende a
+recolha, tratamento, eliminação, desmantelamento, descontaminação e
+valorização de resíduos.</p>
+<p>Secção F - Construção</p>
+<p>• A actividade de construção engloba a construção propriamente dita e
+a demolição (“desconstrução”), no âmbito da construção de edifícios e da
+engenharia civil, sendo as obras o resultado de actividades diversas; 
+29</p>
+<p>• Nem todas as actividades que concorrem para a edificação de tais
+obras estão compreendidas no âmbito desta Secção (ex: fabricação de
+materiais de construção, montagem ou instalação de equipamentos
+industrias que se classificam na Secção C). A montagem ou instalação de
+equipamentos concebidos para que um edifício funcione como tal (ex:
+instalação eléctrica) pertence ao âmbito da Construção;</p>
+<p>• Esta Secção inclui a promoção imobiliária que na CAE-Rev.2.1
+pertencia a uma outra Secção (Secção K).</p>
+<p>Secção G – Comércio por grosso e a retalho; reparação de veículos
+automóveis e motociclos</p>
+<p>• Esta Secção engloba todas as formas de comércio e a reparação de
+veículos automóveis e motociclos. As Divisões desta Secção compreendem o
+comércio, reparação e manutenção de veículos automóveis e motociclos
+(Divisão 45), o comércio por grosso e seus agentes (Divisão 46) e o
+comércio a retalho (Divisão 47);</p>
+<p>• Os agentes do comércio por grosso têm Subclasses específicas na
+Divisão 46 para a sua classificação, enquanto os agentes do comércio a
+retalho não efectuado em estabelecimentos são classificados na Subclasse
+47990;</p>
+<p>• Certas categorias de produtos, pela sua especificidade em termos de
+comércio, não são classificados no comércio a retalho, não existindo por
+tal facto um paralelismo entre as Divisões 46 e 47;</p>
+<p>• No comércio a retalho, os Grupos 478 e 479 tratam do comércio não
+efectuado em estabelecimentos (correspondência, Internet, bancas,
+feiras, distribuição automática, etc.) e os grupos 471, 472, 473, 474,
+475, 476 e 477 correspondem ao comércio a retalho efectuado em
+estabelecimentos. O</p>
+<p>CAE - REV. 3 Grupo 471 respeita ao comércio não-especializado (de
+predominância alimentar ou não) e os Grupos 472, 473, 474, 475, 476 e
+477 referem-se ao comércio especializado (alimentar ou não);</p>
+<p>• A reparação de bens de uso pessoal e doméstico foi transferida da
+Secção do comércio na CAE- Rev.2.1 para a Secção S (Outras actividades
+de serviços) da CAE-Rev.3.</p>
+<p>Secção H – Transportes e armazenagem</p>
+<p>• O transporte pode resultar de uma prestação colectiva ou
+individualizada (ex: táxi), assim como o aluguer com condutor de um meio
+de transporte;</p>
+<p>• Esta Secção inclui, para além do transporte propriamente dito, um
+conjunto vasto de actividades mais ou menos associadas ao transporte
+(armazenagem, manuseamento de carga, gestão de infraestruturas de
+transportes, organização do transporte, etc.), as actividades postais e
+de courier;</p>
+<p>• As actividades das telecomunicações e das agências de viagem que na
+CAE-Rev.2.1 estavam ligadas à Secção dos transportes passaram para o
+âmbito, respectivamente, da Secção J e da Secção N, na CAE-Rev.3.</p>
+<p>Secção I – Alojamento, restauração e similares</p>
+<p>• O alojamento classificado nesta Secção corresponde ao alojamento de
+curta duração e engloba, quer as unidades hoteleiras, quer outros locais
+de curta duração;</p>
+<p>• A restauração (restaurantes e similares) compreende os restaurantes
+propriamente ditos, casas de pasto, estabelecimentos de bebidas e
+similares em que a alimentação e as bebidas são consumidas, regra geral,
+no próprio local, assim como cantinas e fornecimentos de refeições ao
+domicílio (catering); 30</p>
+<p>Secção J - Actividades de informação e de comunicação</p>
+<p>• Esta Secção resultou da agregação de Divisões de várias Secções da
+CAE-Rev.2.1, em particular, Divisão 22 (Edição, impressão e reprodução
+de suportes de informação gravados) da Secção D, Divisão 64
+(Telecomunicações) da Secção I, Divisão 72 (Actividades informáticas e
+conexas) da Secção K, 74 (outras actividades de serviços prestados
+principalmente às empresas) da Secção K e 92 (Actividades recreativas,
+culturais e desportivas) da Secção O;</p>
+<p>• Esta nova Secção (Secção J) permite uma melhor organização da
+informação estatística para um conjunto de actividades quer pela sua
+homogeneidade, quer pela sua relevância económica.</p>
+<p>Secção K - Actividades financeiras e de seguros</p>
+<p>• As actividades financeiras incluem as unidades de intermediação
+monetária (banca em sentido geral), as unidades de intermediação
+financeira (actividades financeiras realizadas por entidades diferentes
+das instituições monetárias), seguros, fundos de pensões e actividades
+auxiliares de intermediação financeira, de seguros e de fundos de
+pensões;</p>
+<p>• De salientar em relação à CAE-Rev.2.1 a criação das Classes,
+decorrentes da NACE-Rev.2, 6420 (Actividades das sociedades gestoras de
+participações sociais) e 6430 (Truts, fundos e entidades financeiras
+similares).</p>
+<p>Secção L - Actividades Imobiliárias</p>
+<p>• Esta Secção passou a incluir só as actividades imobiliárias (ex:
+compra, venda, arrendamento, administração e mediação imobiliária);</p>
+<p>• A promoção imobiliária passou para o âmbito de Secção F
+(Construção);</p>
+<p>• A limitação do âmbito desta Secção às actividades imobiliárias
+decorre da sua importância para efeitos de Contas Nacionais.</p>
+<p>Secção M – Actividades de consultoria, científicas, técnicas e
+similares</p>
+<p>• Esta Secção resultou da agregação de Divisões da Secção K da
+CAE-Rev.2.1, em particular das Divisões 73 (Investigação e
+desenvolvimento) e 74 (Outras actividades de serviços prestados
+principalmente às empresas), cobrindo um conjunto de actividades com um
+elevado nível de especialização e de conhecimentos;</p>
+<p>• As actividades veterinárias (Divisão 85 na CAE-Rev.2.1) passaram a
+integrar esta Secção;</p>
+<p>• Esta Secção permite uma melhor organização da informação
+estatística para um conjunto de actividades de elevada importância
+económica e alto grau de homogeneidade.</p>
+<p>Secção N – Actividades administrativas e dos serviços de apoio</p>
+<p>• Esta Secção resultou da agregação da Classe 6330 (Agências de
+viagens e de turismo e de outras actividades de apoio turístico) da
+Secção I e de Divisões da Secção K da CAE-Rev.2.1, em particular das
+Divisões 71 (Aluguer de máquinas e de equipamentos sem pessoal e bens
+pessoais e domésticos) e 74 (Outras actividades de serviços prestados
+principalmente às empresas), englobando um conjunto de actividades de
+apoio geral às operações das empresas e que incidem sobre a
+transferência de conhecimento especializado;</p>
+<p>• Esta Secção permite uma melhor organização da informação
+estatística para as actividades aqui incluídas e que têm um elevado grau
+de homogeneidade entre si.  31</p>
+<p>Secção O - Administração Pública e Defesa; Segurança Social
+Obrigatória</p>
+<p>• O conceito de Administração Pública é entendido como o conjunto de
+actividades de regulamentação e apoio à gestão de actividades que, pela
+sua natureza, não podem exercer-se numa base de mercado;</p>
+<p>• O estatuto jurídico ou institucional não é determinante para
+classificar nesta Secção as unidades do “tipo administrativo”. Há
+actividades (ex: ensino, saúde) que não pertencem ao âmbito desta
+Secção, ainda que a Administração Pública desenvolva estas actividades
+num nível mais ou menos elevado;</p>
+<p>Secção P - Educação</p>
+<p>• Esta Secção compreende, para além do ensino a todos os níveis e
+formas, as actividades dos institutos e das academias militares, escolas
+de condução, formação profissional e de ensino artístico;</p>
+<p>• Esta Secção passou a incluir os serviços de apoio às actividades
+educativas.</p>
+<p>Secção Q – Actividades de saúde humana e apoio social</p>
+<p>• As actividades dirigidas à saúde humana (hospitalares, liberais,
+paramédicas, etc.), exercidas em regime de internamento ou ambulatório,
+com ou sem fim lucrativo, estão definidas nesta Secção;</p>
+<p>• No âmbito do apoio social estão incluídas as actividades dos
+serviços dos equipamentos sociais, públicos ou privados, com ou sem
+alojamento;</p>
+<p>CAE - REV. 3 • As actividades veterinárias deixaram de incluir esta
+Secção, passando para o âmbito da Secção M (Actividades de consultoria,
+científicas, técnicas e similares).</p>
+<p>Secção R – Actividades artísticas, de espectáculos, desportivas e
+recreativas</p>
+<p>• Esta Secção inclui actividades culturais, recreativas, desportivas
+e artísticas;</p>
+<p>• Esta Secção apresenta-se mais homogénea do que a Secção da
+CAE-Rev.2.1 onde estavam compreendidas estas actividades.</p>
+<p>Secção S – Outras Actividades de serviços</p>
+<p>• Esta Secção inclui actividades associativas e a reparação de bens
+de uso pessoal e doméstico;</p>
+<p>• Compreende as actividades dos serviços pessoais não incluídos
+noutras Secções.</p>
+<p>Secção T – Actividades das famílias empregadoras de pessoal doméstico
+e actividades de produção das famílias para uso próprio</p>
+<p>• Compreende as actividades dos empregados domésticos enquanto
+trabalhadores das famílias e produção de bens e serviços para uso
+próprio das famílias.</p>
+<p>Secção U – Actividades dos organismos internacionais e outras
+instituições extra-territoriais</p>
+<p>• Esta secção inclui as actividades das organizações internacionais,
+embaixadas, consulados e de outras instituições extraterritoriais, com
+imunidade diplomática, estabelecidas em Portugal.</p>
+</body>
+</html>

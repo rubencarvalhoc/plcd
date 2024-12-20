@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="739dc014-973e-4f51-8178-4a28e636719d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/LarkAula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LarkAulaProcessadorT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LarkCsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Livro1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv_Martim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv_Martim2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv_parser_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset2yaml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsplot_bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1-dash.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo.csv3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammarlarkTutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_lifeExp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2o4Kmt33cZmj19E4K7ebqgFI74Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ruben/Desktop/Universidade/3ºAno/PLCD"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="739dc014-973e-4f51-8178-4a28e636719d" name="Changes" comment="" />
+      <created>1730123569597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730123569597</updated>
+    </task>
+    <servers />
+  </component>
+</project>

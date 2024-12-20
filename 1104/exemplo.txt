@@ -1,0 +1,20 @@
+bebidas:
+-1::água::0.70::2;
+
+-2::cerveja::1::6;
+
+-3::sumo de maracujá::0.55::3;
+
+fruta:
+-1::maçã::0.95::7;
+
+-2::laranja::1.49::2;
+
+-3::uvas::5::2;
+
+legumes:
+-1::alface::2.49::1;
+
+-2::batata::2::15;
+
+-3::couve::2::2;

@@ -1,0 +1,6 @@
+digraph anb{
+Paula -> M;
+Carlos -> P;
+Cantiflas -> PP;
+"Maria da Piedade" -> PM;
+}

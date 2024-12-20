@@ -1,0 +1,34 @@
+digraph simpsons {
+  subgraph Generation1 {
+    rank  =  same
+    P1 [shape = box, label="Homer", color = blue] 
+    P2 [shape = box, label="Marge", color = pink]  
+
+    Familia [shape = point]
+    P1 -> Familia -> P2 [dir = none]
+  }
+  
+  subgraph Generation1Sons {
+    rank  =  same
+    F11 [shape = point] 
+    F12 [shape = point] 
+    F13 [shape = point] 
+    
+    F11 -> F12 -> F13 [dir = none]
+  }
+  
+  Familia -> F11 [dir = none]
+  
+  subgraph Generation2 {
+    rank  =  same
+    F1 [shape = box, label="Bart", color = blue] 
+    F2 [shape = box, label="Lisa", color = pink] 
+    F3 [shape = box, label="Maggie", color = pink] 
+    #Ling [shape = box, color = blue] 
+  }
+  
+  #Selma -> Ling [dir = none]
+  F11 -> F1 [dir = none]
+  F12 -> F2 [dir = none]
+  F13 -> F3 [dir = none]
+}
